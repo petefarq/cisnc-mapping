@@ -1,0 +1,550 @@
+﻿district,code,name,region,grades,title_I,percent_EDS,S_P_grade,growth_status,EOG,grad_rate
+Alamance-Burlington Schools,010310,Broadview Middle,Piedmont-Triad,06-08,Y,55.3,F,Not Met,28.1,N/A
+Alamance-Burlington Schools,010350,Graham Middle,Piedmont-Triad,06-08,Y,85.1,F,Not Met,30.9,N/A
+Anson County Schools,040330,Wadesboro Elementary,Southwest,04-05,Y,71.9,F,Not Met,22,N/A
+Anson County Schools,040311,Wadesboro Primary,Southwest,0K-03,Y,79.3,F,Exceeded,24.4,N/A
+Avery County Schools,060701,Avery High Viking Academy,Northwest,09-09,N,60,F,Met,10.5,N/A
+Buncombe County Schools,110372,Johnston Elementary,Western,0K-04,Y,56.3,F,Not Met,30.7,N/A
+Charlotte-Mecklenburg Schools,600428,James Martin Middle,Southwest,06-08,Y,42.5,F,Not Met,32.9,N/A
+Charlotte-Mecklenburg Schools,600514,Ranson Middle,Southwest,06-08,Y,55.7,F,Not Met,27.9,N/A
+Charlotte-Mecklenburg Schools,600583,Wilson STEM Academy,Southwest,06-08,Y,64.7,F,Not Met,24.3,N/A
+Charlotte-Mecklenburg Schools,600308,Allenbrook Elementary,Southwest,PK-05,Y,73.4,F,Not Met,30.4,N/A
+Charlotte-Mecklenburg Schools,600489,Bruns Avenue Elementary,Southwest,PK-05,Y,75.3,F,Met,20.2,N/A
+Charlotte-Mecklenburg Schools,600515,Renaissance West STEAM Academy,Southwest,PK-07,Y,76.1,F,Not Met,22.4,N/A
+Charlotte-Mecklenburg Schools,600374,Druid Hills Academy,Southwest,PK-08,Y,79.5,F,Not Met,25.8,N/A
+Charter Schools,32Q000,Reaching All Minds Academy,North Central,0K-07,Y,21.1,F,Met,29,N/A
+Charter Schools,61U000,UpROAR Leadership Academy,Southwest,05-09,Y,28.6,F,Not Met,7.2,N/A
+Charter Schools,74B000,Ignite Innovation Academy - Pitt,Northeast,0K-08,Y,47.8,F,Not Met,18.6,N/A
+Charter Schools,06A000,Grandfather Academy,Northwest,01-12,Y,50,F,N/A,<5,N/A
+Charter Schools,60V000,Charlotte Learning Academy,Southwest,06-12,Y,52.5,F,Not Met,17.3,88.2
+Charter Schools,80B000,Essie Mae Kiser Foxx Charter,Southwest,0K-04,Y,60,F,Met,9.5,N/A
+Charter Schools,34D000,Carter G Woodson School,Piedmont-Triad,0K-12,Y,67.3,F,Not Met,26.3,83.3
+Charter Schools,09A000,Paul R Brown Leadership Academy,Sandhills,06-12,Y,72.3,F,Met,27.3,N/A
+Charter Schools,08A000,Three Rivers Academy,Northeast,0K-07,Y,72.4,F,Not Met,8.6,N/A
+Charter Schools,67B000,Z.E.C.A. School of Arts and Technology,Southeast,0K-08,Y,77,F,Met,25.9,N/A
+Charter Schools,60P000,Charlotte Choice Charter,Southwest,0K-08,Y,79.1,F,Not Met,27.9,N/A
+Charter Schools,54A000,Children's Village Academy,Southeast,0K-08,Y,91.3,F,Not Met,27.8,N/A
+Cleveland County Schools,230342,Graham Elementary,Southwest,PK-04,Y,78.3,F,Not Met,25,N/A
+Cumberland County Schools,260444,Teresa C Berrien Elementary,Sandhills,0K-05,Y,90.2,F,Not Met,25.4,N/A
+Durham Public Schools,320374,C C Spaulding Elementary,North Central,PK-05,Y,74.6,F,Met,25.8,N/A
+Edgecombe County Public School,330332,Phillips Middle,North Central,06-08,Y,64.9,F,Not Met,19.8,N/A
+Edgecombe County Public School,330354,Stocks Elementary,North Central,PK-05,Y,66.2,F,Not Met,27.9,N/A
+Forsyth County Schools,340476,Old Town Elementary,Piedmont-Triad,PK-05,Y,61,F,Not Met,31.3,N/A
+Forsyth County Schools,340400,Ibraham Elementary,Piedmont-Triad,PK-05,Y,69.2,F,Not Met,23.2,N/A
+Forsyth County Schools,340368,Easton Elementary School,Piedmont-Triad,PK-05,Y,70.4,F,Met,23.1,N/A
+Forsyth County Schools,340568,Winston-Salem Preparatory Acad,Piedmont-Triad,06-12,Y,70.9,F,Not Met,15.9,>95
+Forsyth County Schools,340492,Philo-Hill Magnet Academy,Piedmont-Triad,06-08,Y,72.4,F,Not Met,15.2,N/A
+Forsyth County Schools,340424,Kimberley Park Elementary,Piedmont-Triad,PK-05,Y,79.3,F,Met,16.1,N/A
+Forsyth County Schools,340490,Petree Elementary,Piedmont-Triad,PK-05,Y,80,F,Met,17.2,N/A
+Forsyth County Schools,340308,Ashley Academy,Piedmont-Triad,PK-05,Y,81.5,F,Met,19.4,N/A
+Granville County Schools,390334,Northern Granville Middle,North Central,06-08,Y,76.8,F,Not Met,31.6,N/A
+Guilford County Schools,410398,Doris Henderson Newcomers Sch,Piedmont-Triad,03-12,Y,40.8,F,N/A,<5,N/A
+Guilford County Schools,410592,Welborn Middle,Piedmont-Triad,06-08,Y,65.3,F,Not Met,31.9,N/A
+Guilford County Schools,410469,Montlieu Academy of Technology,Piedmont-Triad,PK-05,Y,67.4,F,Not Met,33.6,N/A
+Guilford County Schools,410349,Ceasar Cone Elementary,Piedmont-Triad,PK-05,Y,82,F,Not Met,26,N/A
+Guilford County Schools,410598,Wiley Accel/Enrichment,Piedmont-Triad,PK-05,Y,85.9,F,Not Met,22,N/A
+Halifax County Schools,420328,Everetts Elementary S.T.E.M. Academy,Northeast,PK-05,Y,71.2,F,Met,29.5,N/A
+Halifax County Schools,420316,Scotland Neck Elementary Leadership Acad,Northeast,PK-05,Y,76.6,F,Not Met,29.8,N/A
+Harnett County Schools,430380,Wayne Avenue Elem,North Central,04-05,Y,71.2,F,Not Met,29.4,N/A
+Hertford County Schools,460308,Ahoskie Elementary,Northeast,04-05,Y,63.7,F,Not Met,34.3,N/A
+Innovative School District,295300,Southside Ashpole Elementary,Sandhills,0K-05,Y,78,F,Not Met,21.5,N/A
+Iredell-Statesville Schools,490352,Statesville Middle,Southwest,06-08,N,82.2,F,Met,23,N/A
+Iredell-Statesville Schools,490345,N B Mills Elementary,Southwest,PK-05,Y,87.9,F,Not Met,28.2,N/A
+Johnston County Schools,510344,North Johnston Middle,North Central,06-08,Y,61.1,F,Not Met,31.8,N/A
+Johnston County Schools,510390,Selma Middle School,North Central,05-08,Y,68.9,F,Not Met,23.6,N/A
+Lab Schools,74Z000,ECU Community School,Northeast,0K-05,Y,52.6,F,Met,6.8,N/A
+Lab Schools,79Z000,Moss Street Partnership School,Piedmont-Triad,0K-05,Y,63.4,F,Not Met,14.6,N/A
+Lab Schools,65Z000,D.C. Virgo Preparatory Academy,Southeast,0K-08,Y,74.9,F,Not Met,26.4,N/A
+Lenoir County Public Schools,540330,Rochelle Middle,Southeast,06-08,Y,91.6,F,Not Met,26.4,N/A
+Martin County Schools,580316,South Creek Elementary,Northeast,PK-05,Y,64.8,F,Not Met,33.1,N/A
+Nash-Rocky Mount Schools,640376,Spring Hope Elementary,North Central,PK-05,Y,47.4,F,Met,27.3,N/A
+Nash-Rocky Mount Schools,640335,Rocky Mount Middle,North Central,06-08,Y,63.9,F,Not Met,28.8,N/A
+Nash-Rocky Mount Schools,640396,Williford Elementary,North Central,PK-02,Y,77,F,N/A,N/A,N/A
+Nash-Rocky Mount Schools,640334,J W Parker Middle,North Central,06-08,Y,77.4,F,Not Met,22,N/A
+Nash-Rocky Mount Schools,640342,CITI High School,North Central,09-10,Y,83.3,F,Not Met,<5,N/A
+Nash-Rocky Mount Schools,640302,Fairview Elementary,North Central,0K-02,Y,83.8,F,N/A,N/A,N/A
+Nash-Rocky Mount Schools,640326,D S Johnson Elementary,North Central,03-05,Y,84.8,F,Met,21.1,N/A
+Nash-Rocky Mount Schools,640306,Baskerville Elementary,North Central,0K-05,Y,85.9,F,Not Met,19,N/A
+New Hanover County Schools,650312,R Freeman Sch of Engineering,Southeast,PK-05,Y,>95,F,Met,21.5,N/A
+Northampton County Schools,660308,Conway Middle,Northeast,05-08,Y,64.5,F,Not Met,23.9,N/A
+Northampton County Schools,660325,Gaston Middle,Northeast,05-08,Y,69.3,F,Not Met,28.1,N/A
+Pasquotank County Schools,700318,Pasquotank Elementary,Northeast,0K-05,Y,53,F,Met,25.5,N/A
+Pasquotank County Schools,700320,P W Moore Elementary,Northeast,0K-05,Y,66.3,F,Not Met,30.1,N/A
+Pitt County Schools,740378,Vidant Health,Northeast,PK-12,N,65.4,F,N/A,11.8,N/A
+Pitt County Schools,740390,South Greenville Elementary,Northeast,0K-05,Y,90.8,F,Met,21.3,N/A
+Robeson County Schools,780410,Townsend Middle,Sandhills,05-08,Y,82.9,F,Met,19,N/A
+Robeson County Schools,780352,Orrum Middle,Sandhills,05-08,Y,83.3,F,Not Met,25.6,N/A
+Robeson County Schools,780341,Lumberton Junior High,Sandhills,07-08,Y,83.4,F,Not Met,23.6,N/A
+Robeson County Schools,780326,Fairmont Middle,Sandhills,05-08,Y,89.3,F,Not Met,25,N/A
+Rowan-Salisbury Schools,800373,North Rowan Elementary,Southwest,PK-05,Y,46.1,F,Met,24.4,N/A
+Rowan-Salisbury Schools,800377,North Rowan Middle,Southwest,06-08,Y,53.2,F,Not Met,23.3,N/A
+Rowan-Salisbury Schools,800360,Hurley Elementary,Southwest,PK-05,Y,53.5,F,Met,25.1,N/A
+Rowan-Salisbury Schools,800363,Knox Middle,Southwest,06-08,Y,53.6,F,Not Met,18.2,N/A
+Rowan-Salisbury Schools,800346,Koontz Elementary,Southwest,0K-05,Y,71.2,F,Not Met,15.9,N/A
+Scotland County Schools,830312,Covington Street Elementary,Sandhills,0K-05,Y,82.6,F,Not Met,27.7,N/A
+Vance County Schools,910316,Vance County Middle School,North Central,06-08,Y,71.7,F,Not Met,31.5,N/A
+Wake County Schools,920329,Barwell Road Elementary,North Central,PK-05,Y,76.3,F,Not Met,33.1,N/A
+Wake County Schools,920352,Bugg Elementary,North Central,PK-05,Y,81.2,F,Not Met,21.6,N/A
+Wayne County Public Schools,960312,Brogden Middle,Southeast,05-08,Y,84.4,F,Not Met,29.7,N/A
+Wayne County Public Schools,960326,Dillard Middle,Southeast,06-08,Y,94.8,F,Met,18.1,N/A
+Weldon City Schools,422314,Weldon Elementary Global Academy,Northeast,PK-04,Y,71.3,F,Not Met,25.2,N/A
+Wilson County Schools,980356,Margaret Hearne Elementary,North Central,0K-05,Y,78.5,F,Not Met,26.8,N/A
+Wilson County Schools,980308,B O Barnes Elementary,North Central,0K-05,Y,78.8,F,Not Met,22,N/A
+Charter Schools,53B000,Ascend Leadership Academy Lee County,North Central,06-07,Y,17.4,D,Not Met,54.1,N/A
+Charter Schools,41N000,The Experiential School of Greensboro,Piedmont-Triad,0K-06,N,18.7,D,Not Met,50,N/A
+Wilson County Schools,980390,Toisnot Middle,North Central,06-08,Y,19.9,D,Not Met,44.1,N/A
+Charter Schools,61P000,"VERITAS Community School, CFA",Southwest,0K-06,Y,21.6,D,Met,40.9,N/A
+Charter Schools,29A000,Davidson Charter Academy CFA,Piedmont-Triad,0K-04,N,22.7,D,Not Met,42.3,N/A
+Jackson County Schools,500302,Blue Ridge Early College,Western,07-13,N,25.8,D,Not Met,51.4,N/A
+Kannapolis City Schools,132314,GW Carver Elementary,Southwest,0K-05,Y,30.6,D,Met,42.7,N/A
+Wake County Schools,920396,Douglas Elementary,North Central,PK-05,N,32.9,D,Not Met,53.5,N/A
+Johnston County Schools,510410,Polenta Elementary,North Central,PK-05,N,35.3,D,Not Met,51.5,N/A
+Rowan-Salisbury Schools,800316,China Grove Elementary,Southwest,PK-05,Y,35.7,D,Met,42.9,N/A
+Charlotte-Mecklenburg Schools,600364,Military and Global Leadership Academy,Southwest,09-12,Y,35.9,D,Met,33.3,N/A
+Jackson County Schools,500337,Smokey Mountain Elementary,Western,PK-08,Y,36,D,Not Met,40.4,N/A
+Charter Schools,13B000,Cabarrus Charter Academy,Southwest,0K-12,Y,36.1,D,Not Met,47,N/A
+Charter Schools,49G000,Iredell Charter Academy,Southwest,0K-08,Y,36.1,D,Not Met,43.3,N/A
+Rowan-Salisbury Schools,800362,Knollwood Elementary,Southwest,PK-05,Y,37,D,Met,39.3,N/A
+Granville County Schools,390321,Granville Academy,North Central,PK-12,N,38.6,D,Met,48.9,N/A
+Charlotte-Mecklenburg Schools,600463,River Oaks Academy,Southwest,PK-05,Y,39,D,Not Met,48.6,N/A
+Wake County Schools,920570,Timber Drive Elementary,North Central,PK-05,Y,39.3,D,Not Met,51.3,N/A
+Charlotte-Mecklenburg Schools,600498,Performance Learning Center,Southwest,09-12,Y,39.7,D,Not Met,25,89.7
+Kannapolis City Schools,132330,Kannapolis Middle,Southwest,06-08,N,39.7,D,Not Met,44.4,N/A
+Nash-Rocky Mount Schools,640336,Middlesex Elementary,North Central,PK-05,Y,39.7,D,Met,35.6,N/A
+Charlotte-Mecklenburg Schools,600545,Starmount Acad of Excellence,Southwest,PK-05,Y,40.6,D,Not Met,41.7,N/A
+Forsyth County Schools,340514,Smith Farm Elementary,Piedmont-Triad,PK-05,Y,40.6,D,Met,36,N/A
+Charlotte-Mecklenburg Schools,600592,Vance High,Southwest,09-12,Y,40.7,D,Not Met,34.6,76.5
+Charter Schools,97D000,Bridges Academy,Northwest,0K-09,Y,41.6,D,Met,36.3,N/A
+Edgecombe County Public School,330350,SouthWest Edgecombe High,North Central,09-12,N,41.8,D,Not Met,33.4,75.3
+Jackson County Schools,500316,Blue Ridge School,Western,PK-06,Y,42,D,Not Met,49,N/A
+Macon County Schools,560316,East Franklin Elementary,Western,0K-04,Y,42.4,D,Not Met,44.7,N/A
+Johnston County Schools,510326,West Clayton Elementary,North Central,PK-05,N,43.2,D,Not Met,48.4,N/A
+Charlotte-Mecklenburg Schools,600459,Montclaire Elementary,Southwest,PK-05,Y,43.5,D,Met,34.8,N/A
+Kannapolis City Schools,132336,Woodrow Wilson Elementary,Southwest,PK-05,Y,43.5,D,Met,45.2,N/A
+Tyrrell County Schools,890306,Columbia Middle,Northeast,06-08,Y,43.5,D,Met,37,N/A
+Cabarrus County Schools,130340,Winecoff Elementary,Southwest,PK-05,Y,43.6,D,Met,45.2,N/A
+Charlotte-Mecklenburg Schools,600362,David Cox Road Elementary,Southwest,PK-05,Y,44,D,Not Met,40.2,N/A
+Tyrrell County Schools,890308,Tyrrell Elementary,Northeast,PK-05,Y,44.6,D,Met,42,N/A
+Forsyth County Schools,340460,North Forsyth High,Piedmont-Triad,09-12,Y,44.7,D,Not Met,27.3,78.5
+Johnston County Schools,510412,Clayton Middle,North Central,06-08,N,44.8,D,Met,44.3,N/A
+Charlotte-Mecklenburg Schools,600432,Joseph W Grier Academy,Southwest,PK-05,Y,44.9,D,Not Met,50.4,N/A
+Lab Schools,50Z000,Catamount School,Western,06-08,Y,45.5,D,Not Met,46.4,N/A
+Guilford County Schools,410460,Eastern Guilford Middle,Piedmont-Triad,06-08,Y,45.7,D,Not Met,44,N/A
+Forsyth County Schools,340464,Northwest Middle,Piedmont-Triad,06-08,Y,45.9,D,Exceeded,41.9,N/A
+Charlotte-Mecklenburg Schools,600471,Nations Ford Elementary,Southwest,PK-05,Y,46.2,D,Not Met,43.9,N/A
+Nash-Rocky Mount Schools,640361,Rocky Mount High,North Central,09-12,N,46.2,D,Not Met,31.1,80.6
+Forsyth County Schools,340486,Parkland High,Piedmont-Triad,09-12,Y,46.3,D,Met,29.5,73.7
+Alamance-Burlington Schools,010380,South Graham Elementary,Piedmont-Triad,PK-05,Y,46.4,D,Met,45.3,N/A
+Edgecombe County Public School,330340,South Edgecombe Middle,North Central,06-08,N,46.6,D,Met,36.4,N/A
+Warren County Schools,930352,Warren County High,North Central,09-12,N,46.6,D,Not Met,18.1,78.7
+Charter Schools,93J000,PAVE Southeast Raleigh Charter,North Central,0K-04,Y,47.1,D,Met,42.6,N/A
+Iredell-Statesville Schools,490366,Troutman Middle,Southwest,06-08,N,47.1,D,Not Met,50.4,N/A
+Forsyth County Schools,340453,Moore Magnet Elementary,Piedmont-Triad,PK-05,Y,47.2,D,Not Met,49,N/A
+Gaston County Schools,360340,Brookside Elementary,Southwest,PK-05,Y,47.4,D,Not Met,43.2,N/A
+Charlotte-Mecklenburg Schools,600418,Croft Community Elementary,Southwest,PK-05,N,47.7,D,Not Met,54.2,N/A
+Forsyth County Schools,340372,Flat Rock Middle,Piedmont-Triad,06-08,Y,48,D,Met,42.7,N/A
+Gaston County Schools,360480,Pleasant Ridge Elementary,Southwest,PK-05,Y,48.1,D,Not Met,50.7,N/A
+Buncombe County Schools,110384,Oakley Elementary,Western,0K-05,Y,48.2,D,Not Met,41.9,N/A
+Caswell County Schools,170344,Stoney Creek Elementary,Piedmont-Triad,0K-05,Y,48.2,D,Met,41.3,N/A
+Davidson County Schools,290328,Fair Grove Elementary,Piedmont-Triad,PK-05,Y,48.3,D,Not Met,50.2,N/A
+Wake County Schools,920394,Dillard Drive Middle,North Central,06-08,N,48.4,D,Not Met,54.2,N/A
+Charlotte-Mecklenburg Schools,600478,J H Gunn Elementary,Southwest,0K-05,Y,48.5,D,Not Met,42.4,N/A
+Charter Schools,92Q000,Hope Charter Leadership Academy,North Central,0K-05,Y,48.5,D,Met,31.7,N/A
+Cabarrus County Schools,130328,Royal Oaks Elementary,Southwest,0K-05,Y,48.6,D,Met,36.2,N/A
+Edgecombe County Public School,330358,Tarboro High,North Central,09-12,N,48.9,D,Met,28.7,77.6
+Charlotte-Mecklenburg Schools,600301,Albemarle Road Middle,Southwest,06-08,Y,49.1,D,Met,43.1,N/A
+Charter Schools,60Q000,Invest Collegiate Transform,Southwest,0K-08,Y,49.6,D,Met,35.8,N/A
+Charlotte-Mecklenburg Schools,600550,Sterling Elementary,Southwest,PK-05,Y,49.7,D,Met,37.4,N/A
+Wake County Schools,920536,Powell Elementary,North Central,PK-05,Y,49.7,D,Met,44.6,N/A
+Charlotte-Mecklenburg Schools,600416,Hornets Nest Elementary,Southwest,PK-05,Y,49.9,D,Met,43,N/A
+Cumberland County Schools,260407,Lake Rim Elementary,Sandhills,PK-05,Y,50,D,Not Met,45.8,N/A
+Randolph County Schools,760382,Uwharrie Ridge Six-Twelve,Piedmont-Triad,06-10,N,50,D,Not Met,44,N/A
+Charlotte-Mecklenburg Schools,600562,Tuckaseegee Elementary,Southwest,0K-05,Y,50.1,D,Not Met,44.4,N/A
+Charter Schools,13D000,Concord Lake STEAM Academy,Southwest,0K-08,Y,50.1,D,Not Met,42.7,N/A
+Wake County Schools,920474,Lake Myra Elementary,North Central,PK-05,Y,50.2,D,Not Met,51.1,N/A
+Forsyth County Schools,340530,Speas Elementary,Piedmont-Triad,PK-05,Y,50.3,D,Met,45.6,N/A
+Nash-Rocky Mount Schools,640329,G R Edwards Middle,North Central,06-08,Y,50.3,D,Met,40.6,N/A
+Cabarrus County Schools,130313,Concord Middle,Southwest,06-08,N,50.5,D,Met,36.6,N/A
+Charlotte-Mecklenburg Schools,600341,Cochrane Collegiate Academy,Southwest,06-12,Y,50.5,D,Not Met,32.1,83.3
+Onslow County Schools,670337,Heritage Elementary School,Southeast,0K-05,Y,50.5,D,Not Met,49,N/A
+Anson County Schools,040306,Anson High School,Southwest,09-12,N,50.7,D,Not Met,23.5,86.2
+Union County Public Schools,900314,Monroe Middle,Southwest,06-08,N,51.1,D,Met,48.2,N/A
+Charter Schools,32P000,The Institute Development Young Leaders,North Central,0K-08,Y,51.4,D,Met,34.7,N/A
+Nash-Rocky Mount Schools,640308,Benvenue Elementary,North Central,0K-05,Y,51.4,D,Met,37.5,N/A
+Rowan-Salisbury Schools,800314,Erwin Middle,Southwest,06-08,N,51.6,D,Not Met,41.7,N/A
+Charlotte-Mecklenburg Schools,600405,Harding University High,Southwest,09-12,Y,51.7,D,Not Met,28.4,55.6
+Forsyth County Schools,340366,East Forsyth Middle School,Piedmont-Triad,06-08,Y,51.8,D,Not Met,33.8,N/A
+Gates County Schools,370324,T S Cooper Elementary,Northeast,0K-05,Y,51.8,D,Met,40.2,N/A
+Alamance-Burlington Schools,010372,Pleasant Grove Elementary,Piedmont-Triad,PK-05,Y,52,D,Not Met,46.9,N/A
+Charlotte-Mecklenburg Schools,600305,J M Alexander Middle,Southwest,06-08,N,52.4,D,Not Met,48.5,N/A
+Guilford County Schools,410313,Southern Guilford Middle,Piedmont-Triad,06-08,Y,52.5,D,Met,47.4,N/A
+Martin County Schools,580344,South Creek Middle/High,Northeast,06-12,Y,52.5,D,Not Met,29.6,73.1
+Charlotte-Mecklenburg Schools,600381,Eastway Middle,Southwest,06-08,Y,52.6,D,Met,35.7,N/A
+Charlotte-Mecklenburg Schools,600398,Greenway Park Elementary,Southwest,PK-05,Y,52.8,D,Not Met,49.2,N/A
+Stokes County Schools,850312,Germanton Elementary,Piedmont-Triad,0K-05,Y,53.2,D,Not Met,44.8,N/A
+Union County Public Schools,900388,Wingate Elementary,Southwest,PK-05,Y,53.2,D,Not Met,50.2,N/A
+Warren County Schools,930340,Northside K-8,North Central,PK-08,Y,53.2,D,Not Met,44.2,N/A
+Nash-Rocky Mount Schools,640328,Englewood Elementary,North Central,03-05,Y,53.4,D,Not Met,43.4,N/A
+Charlotte-Mecklenburg Schools,600474,Newell Elementary,Southwest,0K-05,Y,53.5,D,Met,45.2,N/A
+Wake County Schools,920370,Centennial Campus Middle,North Central,06-08,N,53.5,D,Not Met,46.5,N/A
+Washington County Schools,940306,Creswell Elementary,Northeast,PK-05,Y,53.5,D,Met,47.3,N/A
+Forsyth County Schools,340384,Griffith Elementary,Piedmont-Triad,PK-05,Y,53.8,D,Exceeded,41.1,N/A
+Martin County Schools,580372,Riverside Middle,Northeast,06-08,Y,54.3,D,Not Met,39,N/A
+Rockingham County Schools,790374,Reidsville Middle,Piedmont-Triad,06-08,Y,54.6,D,Met,44.5,N/A
+Nash-Rocky Mount Schools,640400,Winstead Avenue Elementary,North Central,0K-02,Y,54.7,D,N/A,N/A,N/A
+Guilford County Schools,410307,Edwin A Alderman Elementary,Piedmont-Triad,PK-05,Y,55,D,Not Met,50.8,N/A
+Guilford County Schools,410487,Northeast Guilford Middle,Piedmont-Triad,06-08,Y,55,D,Exceeded,41.1,N/A
+Cumberland County Schools,260368,Hope Mills Middle,Sandhills,06-08,N,55.1,D,Not Met,47.4,N/A
+Rockingham County Schools,790386,South End Elementary,Piedmont-Triad,PK-05,Y,55.1,D,Not Met,43.8,N/A
+Anson County Schools,040309,Anson Middle,Southwest,06-08,N,55.2,D,Not Met,35.6,N/A
+Hertford County Schools,460320,Hertford County High,Northeast,09-12,Y,55.2,D,Not Met,24.5,74.7
+Gaston County Schools,360408,W P Grier Middle School,Southwest,06-08,Y,55.5,D,Not Met,42.6,N/A
+Nash-Rocky Mount Schools,640346,Nash Central High,North Central,09-12,N,55.7,D,Not Met,31.2,77.3
+Wake County Schools,920326,Baileywick Road Elementary,North Central,PK-05,Y,55.7,D,Not Met,50.8,N/A
+Charter Schools,60L000,KIPP Charlotte,Southwest,0K-08,Y,55.8,D,Not Met,31.7,N/A
+Alamance-Burlington Schools,010357,Haw River Elementary,Piedmont-Triad,PK-05,Y,55.9,D,Met,34.6,N/A
+Nash-Rocky Mount Schools,640320,Nash Central Middle,North Central,06-08,N,55.9,D,Not Met,44.6,N/A
+Charlotte-Mecklenburg Schools,600576,West Charlotte High,Southwest,09-12,Y,56,D,Not Met,26,68.3
+Union County Public Schools,900370,Walter Bickett Elementary,Southwest,PK-05,Y,56,D,Exceeded,42.1,N/A
+Charlotte-Mecklenburg Schools,600448,Martin Luther King Jr Middle,Southwest,06-08,Y,56.2,D,Exceeded,39.8,N/A
+Durham Public Schools,320304,Bethesda Elementary,North Central,PK-05,Y,56.3,D,Met,39.8,N/A
+Onslow County Schools,670322,Hunters Creek Middle,Southeast,06-08,Y,56.3,D,Not Met,47.2,N/A
+Rowan-Salisbury Schools,800358,Isenberg Elementary,Southwest,PK-05,Y,56.6,D,Exceeded,42.2,N/A
+Bertie County Schools,080312,Bertie High,Northeast,09-12,Y,56.7,D,Not Met,26.2,73.3
+Thomasville City Schools,292320,Thomasville Middle,Piedmont-Triad,06-08,Y,56.7,D,Exceeded,37.3,N/A
+Stanly County Schools,840310,Central Elementary,Southwest,0K-05,Y,56.8,D,Met,39.2,N/A
+Charlotte-Mecklenburg Schools,600485,Oakdale Elementary,Southwest,0K-05,Y,56.9,D,Met,31.8,N/A
+Cumberland County Schools,260370,Ed V Baldwin Elementary,Sandhills,PK-05,Y,56.9,D,Met,44.7,N/A
+Rowan-Salisbury Schools,800315,Overton Elementary,Southwest,0K-05,Y,56.9,D,Not Met,37.3,N/A
+Charlotte-Mecklenburg Schools,600303,Charlotte East Language Academy,Southwest,0K-07,Y,57,D,Not Met,41.2,N/A
+Charter Schools,13C000,A.C.E. Academy,Southwest,0K-08,Y,57.1,D,Met,39.1,N/A
+Harnett County Schools,430304,Anderson Creek Primary,North Central,PK-02,Y,57.1,D,N/A,N/A,N/A
+Pasquotank County Schools,700319,Pasquotank County High,Northeast,09-12,N,57.1,D,Not Met,30.3,80.7
+Charlotte-Mecklenburg Schools,600520,Sedgefield Middle,Southwest,06-08,Y,57.3,D,Met,27.3,N/A
+Lexington City Schools,291352,Southwest Elementary School,Piedmont-Triad,01-05,Y,57.3,D,Not Met,50.4,N/A
+Alamance-Burlington Schools,010358,Hillcrest Elementary,Piedmont-Triad,PK-05,Y,57.6,D,Met,33.1,N/A
+Vance County Schools,910370,Vance County High School,North Central,09-12,N,57.7,D,Not Met,23.6,84.8
+Wayne County Public Schools,960338,Grantham Middle,Southeast,05-08,Y,57.9,D,Not Met,45.2,N/A
+Guilford County Schools,410310,Allen Jay Elementary,Piedmont-Triad,PK-05,Y,58,D,Met,45.1,N/A
+Bertie County Schools,080314,Bertie Middle,Northeast,06-08,Y,58.2,D,Not Met,45,N/A
+Charlotte-Mecklenburg Schools,600365,Devonshire Elementary,Southwest,0K-05,Y,58.2,D,Not Met,42.4,N/A
+Guilford County Schools,410325,Swann Middle School,Piedmont-Triad,06-08,Y,58.2,D,Not Met,44.2,N/A
+Hertford County Schools,460318,Hertford County Middle,Northeast,06-08,Y,58.2,D,Exceeded,28.5,N/A
+Martin County Schools,580312,E J Hayes Elementary,Northeast,03-05,Y,58.2,D,Met,44.5,N/A
+Wake County Schools,920561,South Garner High,North Central,09-11,N,58.2,D,Met,37.7,N/A
+Durham Public Schools,320320,Glenn Elementary,North Central,0K-05,Y,58.3,D,Not Met,32.5,N/A
+Harnett County Schools,430336,Erwin Elementary,North Central,03-05,Y,58.4,D,Met,46.3,N/A
+Guilford County Schools,410544,Ben L. Smith High School,Piedmont-Triad,09-12,Y,58.6,D,Met,27.7,77.3
+Forsyth County Schools,340428,Konnoak Elementary,Piedmont-Triad,PK-05,Y,58.7,D,Exceeded,41.6,N/A
+Rowan-Salisbury Schools,800410,West Rowan Middle,Southwest,06-08,N,58.7,D,Not Met,43.5,N/A
+Montgomery County Schools,620339,West Middle,Sandhills,06-08,N,59,D,Not Met,45.9,N/A
+Charter Schools,26C000,The Capitol Encore Academy,Sandhills,0K-08,Y,59.1,D,Not Met,46.8,N/A
+Johnston County Schools,510332,Corinth-Holders Elementary,North Central,PK-05,Y,59.1,D,Not Met,44.3,N/A
+Johnston County Schools,510330,Cooper Academy,North Central,PK-05,Y,59.2,D,Met,31,N/A
+Harnett County Schools,430347,Harnett Central Middle,North Central,06-08,N,59.3,D,Not Met,46.9,N/A
+Guilford County Schools,410316,Allen Middle,Piedmont-Triad,06-08,Y,59.5,D,Not Met,39.2,N/A
+Guilford County Schools,410496,Northwood Elementary,Piedmont-Triad,PK-05,Y,59.5,D,Met,38.4,N/A
+Alamance-Burlington Schools,010346,B. Everett Jordan Elementary,Piedmont-Triad,0K-05,Y,59.6,D,Not Met,41.6,N/A
+Durham Public Schools,320352,Merrick-Moore Elementary,North Central,PK-05,Y,59.6,D,Met,34.7,N/A
+Guilford County Schools,410367,Ferndale Middle,Piedmont-Triad,06-08,Y,59.7,D,Not Met,34.2,N/A
+Durham Public Schools,320388,W G Pearson Elementary,North Central,PK-05,Y,59.9,D,Met,39.8,N/A
+Charlotte-Mecklenburg Schools,600546,Statesville Road Elementary,Southwest,PK-05,Y,60,D,Not Met,40,N/A
+Charter Schools,49D000,Success Institute Charter,Southwest,0K-08,Y,60,D,Met,35,N/A
+Gaston County Schools,360332,Bessemer City Central Elem,Southwest,03-05,Y,60.2,D,Not Met,33.1,N/A
+Thomasville City Schools,292316,Liberty Drive Elementary,Piedmont-Triad,04-05,Y,60.2,D,Not Met,29.8,N/A
+Wake County Schools,920440,Green Elementary,North Central,PK-05,Y,60.2,D,Met,44.4,N/A
+Wake County Schools,920601,Wendell Middle,North Central,06-08,N,60.2,D,Not Met,44.2,N/A
+Cumberland County Schools,260425,South View Middle,Sandhills,06-08,Y,60.3,D,Not Met,40.4,N/A
+Edgecombe County Public School,330304,G W Bulluck Elementary,North Central,PK-05,Y,60.3,D,Met,41.4,N/A
+Alamance-Burlington Schools,010326,Eastlawn Elementary,Piedmont-Triad,PK-05,Y,60.5,D,Met,36,N/A
+Rowan-Salisbury Schools,800328,Corriher Lipe Middle,Southwest,06-08,N,60.6,D,Not Met,43.7,N/A
+Wake County Schools,920320,Aversboro Elementary,North Central,PK-05,Y,60.8,D,Not Met,43.7,N/A
+Alamance-Burlington Schools,010351,Grove Park Elementary,Piedmont-Triad,PK-05,Y,60.9,D,Met,35.3,N/A
+Gaston County Schools,360526,York Chester Middle,Southwest,06-08,Y,60.9,D,Met,45.5,N/A
+Guilford County Schools,410538,Sedgefield Elementary,Piedmont-Triad,PK-05,Y,60.9,D,Not Met,38.6,N/A
+Lexington City Schools,291332,Lexington Middle School,Piedmont-Triad,06-08,Y,60.9,D,Exceeded,43.3,N/A
+Wake County Schools,920413,Forestville Road Elementary,North Central,PK-05,Y,60.9,D,Not Met,40.8,N/A
+Gaston County Schools,360338,Bessemer City Primary,Southwest,PK-02,Y,61,D,N/A,N/A,N/A
+Charter Schools,42A000,KIPP Halifax College Prep,Northeast,0K-08,Y,61.2,D,Met,44.4,N/A
+Edgecombe County Public School,330312,Coker-Wimberly Elementary,North Central,PK-05,Y,61.2,D,Met,32,N/A
+Halifax County Schools,420376,William R Davie Middle S.T.E.M. Academy,Northeast,06-08,Y,61.5,D,Met,39.2,N/A
+Rowan-Salisbury Schools,800359,Dole Elementary,Southwest,PK-05,Y,61.6,D,Met,28.6,N/A
+Charlotte-Mecklenburg Schools,600366,Marie G Davis,Southwest,0K-08,Y,61.7,D,Not Met,37.7,N/A
+Charter Schools,41H000,College Prep and Leadership Academy,Piedmont-Triad,0K-12,Y,62,D,Not Met,46.4,N/A
+Mount Airy City Schools,862308,Bruce H Tharrington Primary,Piedmont-Triad,PK-02,Y,62.1,D,N/A,N/A,N/A
+Onslow County Schools,670308,Blue Creek Elementary,Southeast,0K-05,Y,62.1,D,Met,44.4,N/A
+Alamance-Burlington Schools,010392,Sylvan Elementary,Piedmont-Triad,PK-05,Y,62.3,D,Met,43.8,N/A
+Rowan-Salisbury Schools,800398,Southeast Middle,Southwest,06-08,N,62.4,D,Not Met,39.6,N/A
+Iredell-Statesville Schools,490354,Statesville High,Southwest,09-12,N,62.5,D,Not Met,27.8,82.9
+Rockingham County Schools,790344,Leaksville-Spray Elementary,Piedmont-Triad,PK-05,Y,62.8,D,Not Met,48.7,N/A
+Union County Public Schools,900306,East Elementary,Southwest,PK-05,Y,62.8,D,Exceeded,37.3,N/A
+Person County Schools,730356,South Elementary,North Central,PK-05,Y,62.9,D,Met,37.6,N/A
+Randolph County Schools,760324,Franklinville Elementary,Piedmont-Triad,0K-05,Y,62.9,D,Not Met,50,N/A
+Charlotte-Mecklenburg Schools,600565,University Park Creative Arts,Southwest,0K-05,Y,63,D,Not Met,46.4,N/A
+Charlotte-Mecklenburg Schools,600589,Winterfield Elementary,Southwest,PK-05,Y,63.1,D,Met,36.2,N/A
+Cumberland County Schools,260336,Anne Chesnutt Middle,Sandhills,06-08,N,63.1,D,Not Met,39.2,N/A
+Forsyth County Schools,340314,Bolton Elementary,Piedmont-Triad,PK-05,Y,63.1,D,Met,36.3,N/A
+Alamance-Burlington Schools,010364,North Graham Elementary,Piedmont-Triad,PK-05,Y,63.2,D,Met,42.3,N/A
+Gaston County Schools,360492,H H Beam Elementary,Southwest,PK-05,Y,63.2,D,Not Met,33.4,N/A
+Johnston County Schools,510310,Benson Middle,North Central,05-08,Y,63.2,D,Met,39.5,N/A
+Warren County Schools,930354,Warren County Middle,North Central,06-08,Y,63.2,D,Not Met,35.6,N/A
+Wake County Schools,920480,Lockhart Elementary,North Central,PK-05,Y,63.4,D,Not Met,45.3,N/A
+Charlotte-Mecklenburg Schools,600414,Highland Renaissance Academy,Southwest,PK-05,Y,63.5,D,Not Met,39.6,N/A
+Forsyth County Schools,340380,Gibson Elementary,Piedmont-Triad,PK-05,Y,63.5,D,Exceeded,43.5,N/A
+Wake County Schools,920618,Wildwood Forest Elementary,North Central,PK-05,Y,63.5,D,Not Met,42.5,N/A
+Washington County Schools,940328,Washington County Middle,Northeast,06-08,Y,63.5,D,Exceeded,38.1,N/A
+Gaston County Schools,360336,Bessemer City High,Southwest,09-12,N,63.6,D,Not Met,26.8,77.6
+Weldon City Schools,422315,Weldon STEM High School Career Academies,Northeast,09-12,Y,63.7,D,Not Met,12.4,68.9
+Guilford County Schools,410577,Sumner Elementary,Piedmont-Triad,PK-05,Y,63.8,D,Not Met,44,N/A
+Northampton County Schools,660336,Northampton County High School,Northeast,09-12,Y,63.8,D,Not Met,7,71.8
+Rowan-Salisbury Schools,800396,Salisbury High,Southwest,09-12,N,63.8,D,Not Met,29,77.8
+Buncombe County Schools,110410,Avery's Creek Elementary,Western,0K-04,Y,63.9,D,Met,48.5,N/A
+Guilford County Schools,410505,Oak View Elementary,Piedmont-Triad,PK-05,Y,64,D,Not Met,37.2,N/A
+Mount Airy City Schools,862310,Jones Intermediate,Piedmont-Triad,03-05,Y,64.1,D,Not Met,49.9,N/A
+Wake County Schools,920332,Beaverdam Elementary,North Central,PK-05,Y,64.1,D,Not Met,43.8,N/A
+Halifax County Schools,420358,Southeast Halifax Collegiate Prep Academ,Northeast,09-12,Y,64.2,D,Met,11.2,74.7
+Iredell-Statesville Schools,490319,Cloverleaf Elementary,Southwest,PK-05,Y,64.2,D,Met,37.1,N/A
+Forsyth County Schools,340390,Hall-Woodward Elementary,Piedmont-Triad,PK-05,Y,64.3,D,Met,34,N/A
+Gaston County Schools,360392,Edward D Sadler Jr Elementary School,Southwest,PK-05,Y,64.3,D,Met,42.2,N/A
+Guilford County Schools,410462,Ronald E. McNair Elementary,Piedmont-Triad,PK-05,Y,64.4,D,Not Met,41.8,N/A
+Martin County Schools,580308,Williamston Primary,Northeast,PK-02,Y,64.5,D,N/A,N/A,N/A
+Charlotte-Mecklenburg Schools,600593,Villa Heights Elementary,Southwest,0K-05,Y,64.7,D,Exceeded,43.8,N/A
+Moore County Schools,630350,Southern Middle,Sandhills,06-08,Y,64.8,D,Met,43.4,N/A
+Alamance-Burlington Schools,010394,Turrentine Middle,Piedmont-Triad,06-08,Y,65,D,Not Met,41.5,N/A
+Charter Schools,93A000,Haliwa-Saponi Tribal School,North Central,0K-12,Y,65,D,Met,31,N/A
+Granville County Schools,390360,Stovall-Shaw Elementary,North Central,PK-05,Y,65,D,Not Met,47.1,N/A
+Cabarrus County Schools,130329,Rocky River Elementary,Southwest,PK-05,Y,65.2,D,Met,44.4,N/A
+Edgecombe County Public School,330344,W A Pattillo Middle,North Central,06-08,Y,65.3,D,Exceeded,32.4,N/A
+Vance County Schools,910346,E O Young Jr Elementary,North Central,PK-05,Y,65.3,D,Met,37.6,N/A
+Wayne County Public Schools,960331,Eastern Wayne Middle,Southeast,06-08,Y,65.3,D,Met,41.2,N/A
+Durham Public Schools,320315,Eno Valley Elementary,North Central,PK-05,Y,65.4,D,Exceeded,37.1,N/A
+Harnett County Schools,430376,South Harnett Elementary,North Central,03-05,Y,65.4,D,Met,47.9,N/A
+Wake County Schools,920632,Zebulon Elementary,North Central,PK-05,Y,65.4,D,Not Met,38.2,N/A
+Cumberland County Schools,260310,Loyd E Auman Elementary,Sandhills,PK-05,Y,65.5,D,Met,40.7,N/A
+Charlotte-Mecklenburg Schools,600412,Hidden Valley Elementary,Southwest,PK-05,Y,65.6,D,Met,44.1,N/A
+Clinton City Schools,821320,Sampson Middle,Sandhills,06-08,Y,65.6,D,Not Met,49.7,N/A
+Lincoln County Schools,550312,Battleground Elementary,Southwest,PK-05,Y,65.6,D,Met,44.3,N/A
+Caswell County Schools,170338,N L Dillard Middle,Piedmont-Triad,06-08,Y,66,D,Not Met,36.6,N/A
+Johnston County Schools,510404,South Smithfield Elementary,North Central,PK-05,Y,66.1,D,Not Met,34.8,N/A
+Randolph County Schools,760332,Liberty Elementary,Piedmont-Triad,PK-05,Y,66.1,D,Met,39.4,N/A
+Hertford County Schools,460332,Riverview Elementary,Northeast,PK-05,Y,66.3,D,Not Met,48.6,N/A
+Wake County Schools,920549,River Bend Middle,North Central,06-08,Y,66.3,D,Not Met,41.6,N/A
+Guilford County Schools,410415,Jackson Middle,Piedmont-Triad,06-08,Y,66.4,D,Met,36.4,N/A
+Lee County Schools,530314,East Lee Middle,North Central,06-08,N,66.6,D,Not Met,49.1,N/A
+Forsyth County Schools,340430,Diggs-Latham Elementary,Piedmont-Triad,PK-05,Y,66.7,D,Not Met,35.4,N/A
+Cumberland County Schools,260401,Morganton Road Elementary,Sandhills,0K-05,Y,66.8,D,Not Met,44.5,N/A
+Pasquotank County Schools,700308,Elizabeth City Middle,Northeast,06-08,Y,67,D,Not Met,41.2,N/A
+Craven County Schools,250332,H J MacDonald Middle,Southeast,06-08,N,67.1,D,Not Met,48.4,N/A
+Charter Schools,41L000,Gate City Charter,Piedmont-Triad,0K-07,Y,67.2,D,Met,43.6,N/A
+Forsyth County Schools,340548,Ward Elementary,Piedmont-Triad,PK-05,Y,67.2,D,Met,44,N/A
+Guilford County Schools,410373,Julius I Foust Elementary,Piedmont-Triad,PK-05,Y,67.2,D,Met,38.4,N/A
+Johnston County Schools,510388,Selma Elementary,North Central,PK-04,Y,67.2,D,Exceeded,37.9,N/A
+Harnett County Schools,430340,Gentry Primary,North Central,0K-02,Y,67.3,D,N/A,N/A,N/A
+Wayne County Public Schools,960380,Southern Wayne High,Southeast,09-12,N,67.3,D,Not Met,32.1,76.7
+Caldwell County Schools,140388,Valmead Elementary,Northwest,PK-02,Y,67.5,D,N/A,N/A,N/A
+Craven County Schools,250344,Havelock Middle,Southeast,06-08,N,67.5,D,Not Met,46.7,N/A
+Charlotte-Mecklenburg Schools,600553,Thomasboro Academy,Southwest,0K-08,Y,67.7,D,Exceeded,30.5,N/A
+Johnston County Schools,510308,Benson Elementary,North Central,PK-04,Y,67.7,D,Not Met,37.1,N/A
+Guilford County Schools,410583,Vandalia Elementary,Piedmont-Triad,PK-05,Y,67.8,D,Met,31.9,N/A
+Forsyth County Schools,340452,Mineral Springs Middle,Piedmont-Triad,06-08,Y,67.9,D,Met,35.3,N/A
+Harnett County Schools,430332,Dunn Middle,North Central,06-08,N,67.9,D,Met,43.8,N/A
+Guilford County Schools,410517,Peeler Open Elementary,Piedmont-Triad,0K-05,Y,68,D,Met,36.8,N/A
+Caldwell County Schools,140392,West Lenoir Elementary,Northwest,03-05,Y,68.3,D,Met,32.7,N/A
+Lexington City Schools,291348,South Lexington School,Piedmont-Triad,PK-0K,Y,68.3,D,N/A,N/A,N/A
+Northampton County Schools,660360,Willis Hare Elementary,Northeast,PK-04,Y,68.3,D,Met,41.6,N/A
+Buncombe County Schools,110342,Erwin Middle,Western,07-08,N,68.4,D,Not Met,45.8,N/A
+Lee County Schools,530356,West Lee Middle,North Central,06-08,N,68.5,D,Not Met,48.5,N/A
+Wilson County Schools,980400,Winstead Elementary,North Central,0K-05,Y,68.7,D,Exceeded,39.1,N/A
+Cumberland County Schools,260414,Benjamin J Martin Elementary,Sandhills,PK-05,Y,68.8,D,Not Met,47.7,N/A
+Bertie County Schools,080356,West Bertie Elementary,Northeast,PK-05,Y,68.9,D,Met,42.9,N/A
+Wake County Schools,920408,East Millbrook Middle,North Central,06-08,Y,68.9,D,Met,43.4,N/A
+Johnston County Schools,510343,Micro Elementary,North Central,PK-05,Y,69,D,Met,36,N/A
+Alamance-Burlington Schools,010354,Harvey R Newlin Elementary,Piedmont-Triad,PK-05,Y,69.1,D,Met,33.2,N/A
+Forsyth County Schools,340330,Carver High,Piedmont-Triad,09-12,Y,69.2,D,Exceeded,24.3,67
+Guilford County Schools,410376,Cyrus P Frazier Elementary,Piedmont-Triad,PK-05,Y,69.3,D,Met,44.4,N/A
+Harnett County Schools,430316,Boone Trail Elementary,North Central,PK-05,Y,69.3,D,Not Met,46.7,N/A
+Brunswick County Schools,100316,Leland Middle,Southeast,06-08,Y,69.4,D,Not Met,51.3,N/A
+Randolph County Schools,760357,Southeastern Randolph Middle,Piedmont-Triad,06-08,N,69.4,D,Not Met,40.1,N/A
+Charter Schools,32C000,Carter Community Charter,North Central,0K-08,Y,69.5,D,Met,33.1,N/A
+Duplin County Schools,310304,B F Grady Elementary,Southeast,PK-08,Y,69.5,D,Met,43.2,N/A
+Durham Public Schools,320310,Eastway Elementary,North Central,PK-05,Y,69.5,D,Exceeded,26.8,N/A
+Granville County Schools,390309,Butner-Stem Middle,North Central,06-08,Y,69.6,D,Not Met,44.1,N/A
+Hoke County Schools,470332,East Hoke Middle,Sandhills,06-08,Y,69.8,D,Not Met,46,N/A
+Rowan-Salisbury Schools,800376,North Rowan High,Southwest,09-12,N,69.8,D,Not Met,20.6,83.8
+Charter Schools,32B000,Healthy Start Academy,North Central,0K-08,Y,69.9,D,Exceeded,43.7,N/A
+Charter Schools,32S000,KIPP Durham College Preparatory,North Central,05-08,Y,70.1,D,Exceeded,35.8,N/A
+Greene County Schools,400312,Greene County Middle,Southeast,06-08,Y,70.1,D,Not Met,38.5,N/A
+Orange County Schools,680312,Central Elementary,North Central,PK-05,Y,70.1,D,Exceeded,41.1,N/A
+Gaston County Schools,360520,Woodhill Elementary,Southwest,PK-05,Y,70.2,D,Met,34.3,N/A
+Durham Public Schools,320344,Fayetteville Street Elementary,North Central,PK-05,Y,70.3,D,Met,26.6,N/A
+Guilford County Schools,410478,Murphey Traditional Academy,Piedmont-Triad,0K-05,Y,70.5,D,Met,34.1,N/A
+Union County Public Schools,900308,East Union Middle,Southwest,06-08,N,70.5,D,Not Met,51.2,N/A
+Wake County Schools,920599,Walnut Creek Elementary,North Central,PK-05,Y,70.5,D,Not Met,36.7,N/A
+Durham Public Schools,320400,Y E Smith Elementary,North Central,PK-05,Y,70.6,D,Exceeded,32.5,N/A
+Pitt County Schools,740352,Grifton,Northeast,PK-08,Y,70.6,D,Met,43.6,N/A
+Johnston County Schools,510396,West Smithfield Elementary,North Central,PK-05,Y,70.7,D,Met,27.7,N/A
+Guilford County Schools,410334,Brightwood Elementary,Piedmont-Triad,PK-05,Y,70.9,D,Met,40.4,N/A
+Weldon City Schools,422318,Weldon Middle,Northeast,05-08,Y,70.9,D,Not Met,34.9,N/A
+Forsyth County Schools,340376,Forest Park Elementary,Piedmont-Triad,PK-05,Y,71,D,Met,29.4,N/A
+Hyde County Schools,480306,Mattamuskeet Elementary,Northeast,PK-05,Y,71,D,Met,43.8,N/A
+Washington County Schools,940314,Pines Elementary,Northeast,PK-05,Y,71.3,D,Not Met,37.8,N/A
+Cumberland County Schools,260322,Douglas Byrd High,Sandhills,09-12,Y,71.4,D,Not Met,29.1,73.7
+Guilford County Schools,410532,Rankin Elementary,Piedmont-Triad,PK-05,Y,71.4,D,Met,35.9,N/A
+Person County Schools,730344,Northern Middle,North Central,06-08,N,71.4,D,Not Met,47.3,N/A
+Wake County Schools,920410,East Wake Middle,North Central,06-08,Y,71.4,D,Met,37.5,N/A
+Edgecombe County Public School,330334,Princeville Elementary,North Central,PK-05,Y,71.7,D,Met,31.9,N/A
+Greene County Schools,400321,Snow Hill Primary,Southeast,0K-01,Y,71.8,D,N/A,N/A,N/A
+Wake County Schools,920446,Hodge Road Elementary,North Central,PK-05,Y,71.9,D,Not Met,39.3,N/A
+Cumberland County Schools,260404,William H Owen Elementary,Sandhills,PK-05,Y,72,D,Not Met,46.7,N/A
+Granville County Schools,390311,Butner-Stem Elementary,North Central,PK-05,Y,72,D,Not Met,43.3,N/A
+Halifax County Schools,420324,Enfield Middle S.T.E.A.M. Academy,Northeast,06-08,Y,72,D,Met,32.8,N/A
+Cumberland County Schools,260396,Mary McArthur Elementary,Sandhills,PK-05,Y,72.1,D,Not Met,41.9,N/A
+Guilford County Schools,410530,Reedy Fork Elementary,Piedmont-Triad,PK-05,Y,72.3,D,Not Met,46.2,N/A
+Wake County Schools,920597,Wakelon Elementary,North Central,PK-05,Y,72.3,D,Not Met,50.2,N/A
+Durham Public Schools,320362,Parkwood Elementary,North Central,PK-05,Y,72.5,D,Not Met,36.4,N/A
+Cumberland County Schools,260428,Spring Lake Middle,Sandhills,06-08,Y,72.7,D,Not Met,37.6,N/A
+Gaston County Schools,360438,Lingerfeldt Elementary,Southwest,PK-05,Y,72.8,D,Met,29.8,N/A
+Charlotte-Mecklenburg Schools,600577,Westerly Hills Academy,Southwest,PK-05,Y,72.9,D,Met,41.8,N/A
+Craven County Schools,250376,West Craven Middle,Southeast,06-08,N,72.9,D,Not Met,38.7,N/A
+Cumberland County Schools,260440,Sunnyside Elementary,Sandhills,0K-05,Y,73.1,D,Met,37.2,N/A
+Wayne County Public Schools,960329,Eastern Wayne Elementary,Southeast,PK-05,Y,73.1,D,Met,41.6,N/A
+Cumberland County Schools,260402,Manchester Elementary,Sandhills,PK-05,Y,73.2,D,Met,42.7,N/A
+Iredell-Statesville Schools,490327,East Iredell Middle,Southwest,06-08,N,73.3,D,Exceeded,39,N/A
+Onslow County Schools,670312,Clyde Erwin Elementary,Southeast,0K-05,Y,73.3,D,Met,36.6,N/A
+Harnett County Schools,430308,Angier Elementary,North Central,PK-05,Y,73.5,D,Exceeded,41.9,N/A
+Newton Conover City Schools,182328,North Newton Elementary,Northwest,PK-05,Y,73.6,D,Not Met,43.3,N/A
+Guilford County Schools,410586,Washington Elementary,Piedmont-Triad,PK-05,Y,73.8,D,Exceeded,30,N/A
+Harnett County Schools,430368,North Harnett Primary,North Central,PK-02,Y,73.8,D,N/A,N/A,N/A
+Charter Schools,06B000,Marjorie Williams Academy,Northwest,0K-12,Y,74.1,D,Met,43.2,N/A
+Cumberland County Schools,260426,Sherwood Park Elementary,Sandhills,PK-05,Y,74.1,D,Met,38.3,N/A
+Northampton County Schools,660320,Gaston Elementary,Northeast,PK-04,Y,74.1,D,Met,43.6,N/A
+Charlotte-Mecklenburg Schools,600311,Ashley Park PreK-8 School,Southwest,PK-08,Y,74.2,D,Met,31.1,N/A
+Durham Public Schools,320306,Brogden Middle,North Central,06-08,Y,74.2,D,Exceeded,40.2,N/A
+Guilford County Schools,410331,Bluford Elementary,Piedmont-Triad,0K-05,Y,74.3,D,Met,30.8,N/A
+Cumberland County Schools,260372,Lewis Chapel Middle,Sandhills,06-08,Y,74.4,D,Not Met,36.1,N/A
+Pitt County Schools,740368,Lakeforest Elementary,Northeast,PK-05,Y,74.4,D,Not Met,43.2,N/A
+Guilford County Schools,410439,Kirkman Park Elementary,Piedmont-Triad,PK-05,Y,74.5,D,Met,30.7,N/A
+Robeson County Schools,780336,Littlefield Middle,Sandhills,04-08,Y,74.5,D,Not Met,46,N/A
+Cleveland County Schools,230346,James Love Elementary,Southwest,PK-04,Y,74.6,D,Met,45.5,N/A
+Duplin County Schools,310388,Wallace Elementary,Southeast,PK-08,Y,74.7,D,Not Met,39.4,N/A
+Moore County Schools,630304,Aberdeen Primary,Sandhills,PK-02,Y,74.9,D,N/A,N/A,N/A
+Wake County Schools,920616,Wilburn Elementary,North Central,PK-05,Y,74.9,D,Met,50.5,N/A
+Vance County Schools,910340,New Hope Elementary,North Central,PK-05,Y,75.1,D,Met,47.3,N/A
+Pitt County Schools,740310,Belvoir Elementary,Northeast,PK-05,Y,75.2,D,Met,42.2,N/A
+Scotland County Schools,830304,Carver Middle,Sandhills,06-08,Y,75.2,D,Not Met,47.3,N/A
+Columbus County Schools,240372,Tabor City Elementary,Sandhills,PK-05,Y,75.3,D,Not Met,47.1,N/A
+Bladen County Schools,090332,Elizabethtown Middle,Sandhills,05-08,Y,75.5,D,Not Met,42,N/A
+Wake County Schools,920496,Millbrook Elementary,North Central,PK-05,Y,75.5,D,Not Met,37.1,N/A
+Cumberland County Schools,260321,Douglas Byrd Middle,Sandhills,06-08,Y,75.6,D,Not Met,34.2,N/A
+Johnston County Schools,510408,Wilson's Mills Elementary,North Central,PK-05,Y,75.6,D,Met,41.9,N/A
+Northampton County Schools,660306,Central Elementary,Northeast,PK-04,Y,75.8,D,Exceeded,46.3,N/A
+Granville County Schools,390331,Mary Potter Middle,North Central,06-08,Y,76,D,Not Met,42.3,N/A
+Gaston County Schools,360490,Sherwood Elementary,Southwest,PK-05,Y,76.1,D,Met,41.4,N/A
+Greene County Schools,400332,West Greene Elementary,Southeast,02-03,Y,76.1,D,Not Met,43.3,N/A
+Durham Public Schools,320355,Neal Middle,North Central,06-08,Y,76.2,D,Met,35.9,N/A
+Granville County Schools,390316,Creedmoor Elementary,North Central,PK-05,Y,76.2,D,Met,41.5,N/A
+Anson County Schools,040324,Morven Elementary,Southwest,0K-05,Y,76.3,D,Met,38.3,N/A
+Guilford County Schools,410397,Western Guilford Middle,Piedmont-Triad,06-08,Y,76.4,D,Not Met,47.5,N/A
+Guilford County Schools,410403,Hampton Elem Univ Partnership,Piedmont-Triad,PK-05,Y,76.4,D,Exceeded,39.4,N/A
+Charter Schools,65G000,Girls Leadership Academy of Wilmington,Southeast,06-08,Y,76.5,D,Not Met,40.3,N/A
+Scotland County Schools,830349,Spring Hill Middle,Sandhills,06-08,Y,76.5,D,Not Met,46.7,N/A
+Vance County Schools,910360,E M Rollins Elementary,North Central,PK-05,Y,76.5,D,Not Met,35.4,N/A
+Wake County Schools,920403,East Garner Elementary,North Central,PK-05,Y,76.5,D,Met,45.7,N/A
+Pitt County Schools,740324,C M Eppes Middle,Northeast,06-08,Y,76.6,D,Not Met,43.4,N/A
+Charter Schools,61T000,Movement Charter School,Southwest,0K-04,Y,76.8,D,Not Met,48.2,N/A
+Charter Schools,64A000,Rocky Mount Preparatory,North Central,0K-12,Y,76.9,D,Met,33.5,83.3
+Guilford County Schools,410364,Fairview Elementary,Piedmont-Triad,PK-05,Y,77.2,D,Exceeded,31,N/A
+Guilford County Schools,410385,Gillespie Park Elementary,Piedmont-Triad,PK-05,Y,77.2,D,Met,29,N/A
+Cumberland County Schools,260419,Reid Ross Classical Middle,Sandhills,06-08,N,77.3,D,Not Met,49.2,N/A
+Pitt County Schools,740375,Northwest Elementary,Northeast,PK-05,Y,77.8,D,Met,35.3,N/A
+Robeson County Schools,780393,Red Springs Middle,Sandhills,05-08,Y,77.8,D,Met,27.5,N/A
+Bladen County Schools,090352,Plain View Primary,Sandhills,PK-04,Y,77.9,D,Met,43.2,N/A
+Scotland County Schools,830328,Laurel Hill Elementary,Sandhills,PK-05,Y,77.9,D,Not Met,47.2,N/A
+Guilford County Schools,410514,Clara J Peck Elementary,Piedmont-Triad,PK-05,Y,78,D,Met,36,N/A
+Charlotte-Mecklenburg Schools,600517,Reid Park Academy,Southwest,PK-05,Y,78.1,D,Met,43.7,N/A
+Guilford County Schools,410402,Otis L Hairston Sr Middle,Piedmont-Triad,06-08,Y,78.3,D,Met,29.4,N/A
+Columbus County Schools,240376,Tabor City Middle,Sandhills,06-08,Y,78.4,D,Met,34.1,N/A
+Robeson County Schools,780400,Saint Pauls Elementary,Sandhills,PK-05,Y,78.4,D,Not Met,34,N/A
+Granville County Schools,390312,C. G. Credle Elementary,North Central,PK-05,Y,78.6,D,Met,45.8,N/A
+Pitt County Schools,740400,Wahl Coates Elementary,Northeast,PK-05,Y,78.6,D,Met,42.6,N/A
+Pitt County Schools,740334,Falkland Elementary,Northeast,0K-05,Y,78.7,D,Exceeded,35.1,N/A
+Robeson County Schools,780403,Saint Pauls Middle,Sandhills,06-08,Y,78.8,D,Exceeded,39.2,N/A
+Duplin County Schools,310384,Rose Hill-Magnolia Elementary,Southeast,PK-08,Y,78.9,D,Exceeded,40,N/A
+Guilford County Schools,410366,Waldo C Falkener Sr Elementary,Piedmont-Triad,PK-05,Y,79,D,Not Met,35.1,N/A
+Charter Schools,65B000,Wilmington Preparatory Academy,Southeast,0K-08,Y,79.3,D,Exceeded,42.3,N/A
+Wayne County Public Schools,960316,Carver Elementary,Southeast,PK-04,Y,79.3,D,Met,42.5,N/A
+Durham Public Schools,320360,Oak Grove Elementary,North Central,PK-05,Y,79.4,D,Not Met,43.4,N/A
+Craven County Schools,250320,Vanceboro-Farm Life Elementary,Southeast,PK-05,Y,79.6,D,Not Met,45.6,N/A
+Forsyth County Schools,340462,North Hills Elementary,Piedmont-Triad,PK-05,Y,79.7,D,Exceeded,32.9,N/A
+Scotland County Schools,830364,Sycamore Lane Elementary,Sandhills,0K-05,Y,79.7,D,Not Met,30.6,N/A
+New Hanover County Schools,650404,Wrightsboro Elementary,Southeast,PK-05,Y,79.9,D,Met,39.4,N/A
+Durham Public Schools,320346,Lowe's Grove Middle,North Central,06-08,Y,80,D,Met,36.5,N/A
+New Hanover County Schools,650392,Williston Middle,Southeast,06-08,Y,80,D,Not Met,36.1,N/A
+Charlotte-Mecklenburg Schools,600574,Walter G Byers School,Southwest,PK-08,Y,80.1,D,Exceeded,40.2,N/A
+Guilford County Schools,410542,George C Simkins Jr Elementary,Piedmont-Triad,PK-05,Y,80.3,D,Not Met,46.6,N/A
+Craven County Schools,250360,Oaks Road Academy,Southeast,0K-05,Y,80.6,D,Met,32.6,N/A
+Cumberland County Schools,260452,Westarea Elementary,Sandhills,PK-05,Y,80.8,D,Exceeded,40.6,N/A
+Durham Public Schools,320338,James E Shepard Middle,North Central,06-08,Y,80.8,D,Not Met,33,N/A
+Robeson County Schools,780360,Parkton Elementary,Sandhills,PK-08,Y,80.8,D,Not Met,33.3,N/A
+Moore County Schools,630320,Elise Middle,Sandhills,06-08,Y,81,D,Met,41.5,N/A
+Robeson County Schools,780374,Peterson Elementary,Sandhills,PK-04,Y,81,D,Not Met,38.7,N/A
+Scotland County Schools,830360,Wagram Elementary,Sandhills,PK-05,Y,81,D,Not Met,43,N/A
+Guilford County Schools,410328,Bessemer Elementary,Piedmont-Triad,PK-05,Y,81.3,D,Met,34.2,N/A
+Johnston County Schools,510397,Smithfield Middle,North Central,06-08,Y,81.3,D,Not Met,41,N/A
+Robeson County Schools,780392,Rex-Rennert Elementary,Sandhills,PK-05,Y,81.3,D,Met,22.7,N/A
+Cumberland County Schools,260386,Margaret Willis Elementary,Sandhills,PK-05,Y,81.5,D,Not Met,39.2,N/A
+Robeson County Schools,780412,Union Chapel Elementary,Sandhills,PK-06,Y,81.5,D,Not Met,37.6,N/A
+Moore County Schools,630308,Aberdeen Elementary,Sandhills,03-05,Y,81.6,D,Not Met,35.1,N/A
+Robeson County Schools,780330,L Gilbert Carroll Middle,Sandhills,04-06,Y,81.6,D,Not Met,43.4,N/A
+Bladen County Schools,090328,East Arcadia Elementary,Sandhills,PK-04,Y,81.8,D,Met,37,N/A
+Charter Schools,34F000,Forsyth Academy,Piedmont-Triad,0K-08,Y,81.9,D,Not Met,46.1,N/A
+New Hanover County Schools,650328,Forest Hills Global Elementary,Southeast,0K-05,Y,81.9,D,Met,36.9,N/A
+Lenoir County Public Schools,540326,Northwest Elementary,Southeast,0K-05,Y,82,D,Met,41.5,N/A
+Columbus County Schools,240308,Acme Delco Elementary,Sandhills,PK-05,Y,82.1,D,Not Met,48,N/A
+Guilford County Schools,410511,Parkview Village Elementary,Piedmont-Triad,PK-05,Y,82.1,D,Met,34.5,N/A
+Wake County Schools,920547,Rogers Lane Elementary,North Central,PK-05,Y,82.1,D,Not Met,34.4,N/A
+Burke County Schools,120354,Mountain View Elementary,Northwest,PK-05,Y,82.6,D,Not Met,44.4,N/A
+Cumberland County Schools,260358,Luther Nick Jeralds Middle,Sandhills,06-08,Y,82.9,D,Not Met,39,N/A
+Person County Schools,730334,North Elementary,North Central,0K-05,Y,83,D,Exceeded,36.8,N/A
+Robeson County Schools,780402,South Robeson High,Sandhills,09-12,Y,83.2,D,Not Met,19.4,90.8
+Robeson County Schools,780364,Pembroke Elementary,Sandhills,PK-05,Y,83.4,D,Met,42.9,N/A
+Bladen County Schools,090318,Bladen Lakes Primary,Sandhills,PK-04,Y,83.5,D,Met,47.3,N/A
+Robeson County Schools,780324,Fairgrove Middle,Sandhills,04-08,Y,83.5,D,Not Met,33.9,N/A
+Moore County Schools,630348,Robbins Elementary,Sandhills,PK-05,Y,83.6,D,Not Met,30.7,N/A
+Bladen County Schools,090365,Tar Heel Middle,Sandhills,05-08,Y,83.9,D,Not Met,42.8,N/A
+Wilson County Schools,980357,Vick Elementary,North Central,PK-05,Y,84.4,D,Not Met,31.3,N/A
+Brunswick County Schools,100338,Supply Elementary,Southeast,PK-05,Y,84.7,D,Not Met,44.8,N/A
+Duplin County Schools,310336,Warsaw Elementary,Southeast,PK-08,Y,85,D,Met,35.5,N/A
+Robeson County Schools,780390,R B Dean Elementary,Sandhills,PK-04,Y,85,D,Met,33.9,N/A
+Bladen County Schools,090324,Dublin Primary,Sandhills,PK-04,Y,85.2,D,Met,41.1,N/A
+Robeson County Schools,780368,Pembroke Middle,Sandhills,06-08,Y,85.2,D,Not Met,33.8,N/A
+Wayne County Public Schools,960314,Brogden Primary,Southeast,PK-04,Y,85.4,D,Exceeded,37,N/A
+Charter Schools,65C000,Douglass Academy,Southeast,0K-05,Y,85.5,D,Met,48,N/A
+Charter Schools,32M000,Global Scholars Academy,North Central,0K-08,Y,85.6,D,Not Met,49.2,N/A
+Columbus County Schools,240344,Evergreen Elementary,Sandhills,PK-08,Y,85.8,D,Met,43.9,N/A
+Robeson County Schools,780356,Oxendine Elementary,Sandhills,PK-06,Y,85.9,D,Exceeded,42.4,N/A
+Lenoir County Public Schools,540315,Kinston High,Southeast,09-12,Y,86,D,Not Met,27.1,82
+Granville County Schools,390364,West Oxford Elementary,North Central,PK-05,Y,86.3,D,Met,32.7,N/A
+Chatham County Schools,190312,Chatham Middle,North Central,06-08,Y,87.2,D,Not Met,43.5,N/A
+Craven County Schools,250348,J T Barber Elementary,Southeast,PK-05,Y,87.6,D,Met,27.7,N/A
+Forsyth County Schools,340351,Cook Literacy Model School,Piedmont-Triad,PK-05,Y,87.8,D,Exceeded,28.5,N/A
+Robeson County Schools,780376,Piney Grove Elementary,Sandhills,PK-06,Y,87.9,D,Not Met,39.2,N/A
+Robeson County Schools,780329,Janie C Hargrave Elem,Sandhills,PK-04,Y,88.5,D,Met,35.3,N/A
+Robeson County Schools,780396,Rowland Middle,Sandhills,06-08,Y,88.7,D,Exceeded,29.2,N/A
+Charter Schools,96C000,Dillard Academy,Southeast,0K-08,Y,89.1,D,Met,34,N/A
+Cumberland County Schools,260361,Ferguson-Easley Elementary,Sandhills,0K-05,Y,90,D,Met,35.8,N/A
+Robeson County Schools,780320,Deep Branch Elementary,Sandhills,PK-06,Y,90.4,D,Met,40.3,N/A
+Wayne County Public Schools,960335,Goldsboro High,Southeast,09-12,N,90.6,D,Not Met,12.1,73.8
+Pender County Schools,710324,Malpass Corner Elementary,Southeast,PK-05,Y,90.7,D,Exceeded,41,N/A
+Columbus County Schools,240332,Chadbourn Elementary,Sandhills,PK-05,Y,91.3,D,Not Met,47.7,N/A
+Cumberland County Schools,260405,Walker-Spivey Elementary,Sandhills,0K-05,Y,91.4,D,Met,43.2,N/A
+Wayne County Public Schools,960318,Carver Heights Elementary,Southeast,03-05,Y,91.4,D,Exceeded,27.7,N/A
+New Hanover County Schools,650384,A H Snipes Academy of Arts/Des,Southeast,0K-05,Y,91.5,D,Met,33.2,N/A
+Robeson County Schools,780394,Rosenwald Elementary,Sandhills,PK-04,Y,91.9,D,Met,32.7,N/A
+Wayne County Public Schools,960390,North Drive Elementary,Southeast,PK-02,Y,92.1,D,N/A,N/A,N/A
+Pender County Schools,710348,West Pender Middle,Southeast,06-08,Y,92.2,D,Met,42.2,N/A
+Scotland County Schools,830320,I E Johnson Elementary,Sandhills,PK-05,Y,93.2,D,Met,37.8,N/A
+Lenoir County Public Schools,540325,Northeast Elementary,Southeast,PK-05,Y,93.7,D,Met,31.5,N/A
+Lab Schools,34Z000,Appalachian Academy at Middle Fork,Piedmont-Triad,0K-05,Y,<5,D,Met,25.4,N/A
+Lenoir County Public Schools,540338,Southeast Elementary,Southeast,0K-05,Y,>95,D,Met,36.9,N/A
+Robeson County Schools,780417,W H Knuckles,Sandhills,PK-04,Y,>95,D,Met,36.1,N/A

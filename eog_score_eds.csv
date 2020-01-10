@@ -1,0 +1,2655 @@
+﻿code,name,eog_score_EDS
+10303,ABSS Early College at ACC,77.4
+10304,Alexander Wilson Elementary,42.9
+10308,Altamahaw-Ossipee Elementary,45.7
+10310,Broadview Middle,22.1
+10311,Career and Technical Education Center,N/A
+10312,Highland Elementary,48.1
+10320,E M Yoder Elementary,45.1
+10324,Eastern Alamance High,36.7
+10326,Eastlawn Elementary,29.8
+10328,Edwin M Holt Elementary,45.1
+10340,Elon Elementary,42.3
+10346,B. Everett Jordan Elementary,29.5
+10347,Audrey W. Garrett Elementary,42.9
+10348,Graham High,35.7
+10350,Graham Middle,28.7
+10351,Grove Park Elementary,26.3
+10353,Hawfields Middle,56.4
+10354,Harvey R Newlin Elementary,30.2
+10357,Haw River Elementary,23.5
+10358,Hillcrest Elementary,26.1
+10360,Hugh M Cummings High,26.8
+10362,Marvin B Smith Elementary,52.6
+10364,North Graham Elementary,37.8
+10372,Pleasant Grove Elementary,36.2
+10374,R Homer Andrews Elementary,37.6
+10378,Ray Street Academy,N/A
+10380,South Graham Elementary,37
+10384,South Mebane Elementary,50.8
+10388,Southern Alamance High,40.7
+10390,Southern Alamance Middle,44.2
+10392,Sylvan Elementary,33.7
+10394,Turrentine Middle,29.4
+10396,Walter M Williams High,46.9
+10400,Western Alamance High,27.7
+10403,Western Alamance Middle,44.6
+10406,Woodlawn Middle,49.1
+20302,Alexander Central High,40.3
+20303,Alexander Early College,72.7
+20304,Bethlehem Elementary,55.6
+20306,East Alexander Middle,51.4
+20308,Ellendale Elementary,57.6
+20316,Hiddenite Elementary,47.3
+20320,Stony Point Elementary,57.4
+20324,Sugar Loaf Elementary,64.3
+20328,Taylorsville Elementary,76
+20330,West Alexander Middle,50.8
+20332,Wittenburg Elementary,61.2
+30304,Alleghany High,54.1
+30308,Glade Creek Elementary,59.7
+30316,Piney Creek Elementary,66.3
+30320,Sparta Elementary,45.3
+40304,Anson Co. Early College High,60
+40305,Anson Academy,N/A
+40306,Anson High School,17.8
+40308,Ansonville Elementary,45.6
+40309,Anson Middle,27.9
+40311,Wadesboro Primary,18.5
+40316,Lilesville Elementary,51.4
+40324,Morven Elementary,33.3
+40328,Peachland-Polkton Elem,61.4
+40330,Wadesboro Elementary,20.6
+50302,Ashe County High,42.7
+50303,Ashe County Early College High,N/A
+50305,Ashe County Middle,65.2
+50310,Blue Ridge Elementary,68.3
+50330,Mountain View Elementary,62
+50335,Westwood Elementary,58.8
+60302,Avery County High,52.9
+60304,Banner Elk Elementary,62.5
+60310,Cranberry Middle,66.8
+60316,Crossnore Elementary,46
+60318,Avery Middle,61.7
+60322,Freedom Trail Elementary,55.8
+60328,Newland Elementary,51.3
+60332,Riverside Elementary,33.3
+60334,Blue Ridge Academy,N/A
+60700,Avery High STEM Academy,N/A
+60701,Avery High Viking Academy,N/A
+70302,Eastern Elementary,N/A
+70308,Bath Elementary,58.7
+70310,B C Ed Tech Center,N/A
+70311,Beaufort Co Early College High,>95
+70325,Chocowinity Middle,45.8
+70326,Chocowinity Primary,61.9
+70327,John C Tayloe Elementary,46.1
+70328,John Small Elementary,46.4
+70329,Northeast Elementary,41.5
+70330,Northside High,27
+70338,P S Jones Middle,40.3
+70339,Southside High,36.5
+70340,S W Snowden Elementary,44
+111302,Asheville High,28.1
+80311,Bertie Early College High,N/A
+80314,Bertie Middle,39.5
+80348,Aulander Elementary,42.9
+80356,West Bertie Elementary,44.8
+80360,Colerain Elementary,45.3
+80362,Windsor Elementary,47.2
+90315,Bladenboro Middle,44
+90317,Bladenboro Primary,50.9
+90318,Bladen Lakes Primary,46.9
+90320,Clarkton School of Discovery,44
+90324,Dublin Primary,37.7
+90328,East Arcadia Elementary,33.3
+90330,East Bladen High,38.3
+70342,Washington High,22.7
+90332,Elizabethtown Middle,36.3
+90333,Elizabethtown Primary,44.6
+90352,Plain View Primary,39
+90365,Tar Heel Middle,39.7
+90368,West Bladen High,34
+100302,Belville Elementary,51.6
+100304,Bolivia Elementary,63.5
+100307,Brunswick County Early College,>95
+100308,The COAST,N/A
+100309,Cedar Grove Middle,45.9
+100310,Jessie Mae Monroe Elementary,46.1
+100316,Leland Middle,45.1
+100320,Lincoln Elementary,41
+100326,North Brunswick High,48.2
+80312,Bertie High,25.9
+100332,Shallotte Middle,51.7
+100334,South Brunswick High,46.6
+100335,South Brunswick Middle,42.3
+100336,Southport Elementary,51.2
+100338,Supply Elementary,41.8
+100339,Town Creek Elementary,63.4
+100340,Union Elementary,79.5
+100342,Virginia Williamson Elem,53.9
+100344,Waccamaw,52.4
+100348,West Brunswick High,43
+110303,Community High School,N/A
+90376,Bladen Early College,47.7
+110304,Reynolds High,54.8
+110306,Reynolds Middle,48.7
+110308,Barnardsville Elementary,47.6
+110318,Black Mountain Elementary,53.1
+110320,Black Mountain Primary,56.6
+110322,Early College,75.9
+110323,Middle College,N/A
+110324,Candler Elementary,46.7
+110326,Cane Creek Middle,54.3
+110332,Bell Elementary,47.1
+110336,Owen High,55.6
+110338,Owen Middle,50.9
+110340,Erwin High,36.4
+110342,Erwin Middle,39.9
+110348,Emma Elementary,39.4
+110352,Enka High,57.4
+110356,Fairview Elementary,53.5
+110366,Glen Arden Elementary,62.1
+110368,Haw Creek Elementary,45.4
+110370,Hominy Valley Elementary,58.1
+110372,Johnston Elementary,24.5
+110376,Leicester Elementary,57.1
+110379,North Buncombe Elementary,50.5
+110380,North Buncombe High,47.1
+110381,North Buncombe Middle,58.6
+110382,North Windy Ridge Intermediate,61.5
+110384,Oakley Elementary,25.5
+110388,Pisgah Elementary,64.9
+110401,Enka Middle,43.8
+110408,Sand Hill-Venable Elem,53.2
+110410,Avery's Creek Elementary,35.9
+110412,Williams Elementary,40.8
+110416,Roberson High,38.4
+110420,Valley Springs Middle,44.6
+110422,Estes Elementary,47.7
+110425,Enka Intermediate,49.7
+110428,Weaverville Elementary,60.7
+110432,Weaverville Primary,N/A
+110436,West Buncombe Elementary,63.3
+110444,Woodfin Elementary,47.6
+110450,Koontz Intermediate,42.7
+110451,Eblen Intermediate,51.3
+110500,Nesbitt Discovery Academy,>95
+111304,Hall Fletcher Elementary,36.6
+111306,Isaac Dickson Elementary,40
+111307,Asheville Primary,N/A
+111312,Claxton Elementary,42.4
+111332,Ira B Jones Elementary,32.6
+111356,Asheville Middle,32.8
+111360,Vance Elementary,44.8
+111369,Montford North Star Academy,46.9
+111700,School of Inquiry and Life Sciences,58.1
+120308,Hallyburton Academy,N/A
+120310,Burke Middle College,N/A
+120312,Drexel Elementary,66
+120314,East Burke High,55
+120315,East Burke Middle,53.3
+120316,Forest Hill Elementary,48.8
+120318,Freedom High,51.7
+120320,George Hildebrand Elementary,61.5
+120324,Glen Alpine Elementary,52
+120334,Heritage Middle,58.7
+120338,Hildebran Elementary,54
+120340,Hillcrest Elementary,50.5
+120344,Icard Elementary,66.8
+120346,Jimmy C Draughn High School,48.3
+120350,Liberty Middle,50.8
+120352,North Liberty,N/A
+120354,Mountain View Elementary,40
+120360,Mull Elementary,43.3
+120364,Oak Hill Elementary,41.1
+120368,Ray Childers Elementary,58.1
+120370,Robert L. Patton High School,53.7
+120374,Salem Elementary,61.5
+120376,Table Rock Middle,55.6
+120380,Valdese Elementary,59.9
+120386,W A Young Elementary,37
+120390,Walter R Johnson Middle,49.6
+130304,A T Allen Elementary,54.5
+130307,Cox Mill High School,59.1
+130308,Bethel Elementary,46.4
+130309,Beverly Hills Elementary,48.2
+130310,Central Cabarrus High,44.3
+130311,Coltrane-Webb Elementary,39.7
+130312,Harrisburg Elementary,48.9
+130313,Concord Middle,24.1
+130314,Concord High,35.3
+130315,J N Fries Magnet School,55.7
+130316,Jay M Robinson High,33.8
+130317,Cabarrus Co Opportunity School,N/A
+130318,C C Griffin Middle,46.9
+130319,Cox Mill Elementary,59.5
+130320,Harris Road Middle,62.4
+130321,Carl A Furr Elementary,53.8
+130322,Mount Pleasant Elementary,49.6
+130323,Mount Pleasant Middle,53.6
+130324,Mount Pleasant High,43.4
+130325,Charles E Boger Elementary,44.5
+130326,Northwest Cabarrus High,55
+130327,Northwest Cabarrus Middle,46.2
+130328,Royal Oaks Elementary,27.4
+130329,Rocky River Elementary,36.3
+130330,R Brown McAllister Elementary,53.9
+130331,Pitts School Road Elementary,49.2
+130332,Hickory Ridge High,52.6
+130333,Performance Learning Center,N/A
+130336,W R Odell Primary,N/A
+130337,W R Odell Elementary,62.9
+130338,Weddington Hills Elementary,51.8
+130340,Winecoff Elementary,34.1
+130342,W M Irvin Elementary,30.4
+130344,Wolf Meadow Elementary,45.8
+130345,Patriots Elementary,53.9
+130346,Hickory Ridge Middle,60.9
+130349,Cabarrus Early College of Technology,73.6
+130350,Cabarrus-Kannapolis Early Coll,86.7
+130355,Harold E. Winkler Middle,52.3
+132308,Forest Park Elementary,45
+132312,Fred L Wilson Elementary,37.8
+132314,GW Carver Elementary,34.9
+132328,Jackson Park Elementary,33.1
+132330,Kannapolis Middle,33
+132332,Shady Brook Elementary,33.8
+132336,Woodrow Wilson Elementary,36.9
+140304,Baton Elementary,60.2
+140305,Caldwell Career Cen Mid. Coll.,75.4
+140306,Gateway School,N/A
+140307,Horizons Elementary,N/A
+140308,Collettsville School,56.8
+140309,Caldwell Early College,94.3
+140312,Davenport A+ School,46.1
+140316,Dudley Shoals Elementary,51.4
+140324,Gamewell Elementary,44.1
+140332,Gamewell Middle,43.4
+140336,Granite Falls Middle,45.9
+140340,Granite Falls Elementary,56.9
+140344,Happy Valley Elementary,44.3
+140348,Hibriten High,46.4
+140352,Hudson Elementary,58.8
+140356,Hudson Middle,53.9
+140360,Kings Creek Elementary,52.9
+140368,William Lenoir Middle,46.9
+140372,Lower Creek Elementary,48.1
+140376,Oak Hill Elementary,44.1
+140384,Sawmills Elementary,61.7
+140386,South Caldwell High,44.5
+150304,Camden County High,42.6
+140388,Valmead Elementary,N/A
+140390,West Caldwell High,35.3
+140392,West Lenoir Elementary,29.3
+140396,Whitnel Elementary,46
+150308,Grandy Primary,71.6
+150310,Camden Intermediate,57.3
+150312,Camden Middle,53.9
+150350,Camden Early College High,N/A
+160304,Atlantic Elementary,67.2
+160306,Bogue Sound Elementary,60.6
+160308,Beaufort Elementary,63.3
+160309,Bridges School,N/A
+160310,Beaufort Middle,60.1
+160311,Broad Creek Middle,64.8
+160313,East Carteret High,68.3
+170316,Bartlett Yancey High,21
+160314,Croatan High,64.1
+160316,Harkers Island Elementary,79.7
+160317,Morehead Elem at Camp Glenn,58.8
+160318,Morehead City Middle,58.2
+160322,Morehead City Primary,71.5
+160324,Newport Elementary,56.3
+160326,Newport Middle,70.4
+160332,Down East Middle and Smyrna Elementary,64
+160343,Marine Sci. & Tech. Early College HS,86.2
+160344,West Carteret High,60.8
+160352,White Oak Elementary,64.6
+170334,North Elementary,60
+170338,N L Dillard Middle,27.1
+170339,Oakwood Elementary,37.5
+170342,South Elementary,41.3
+170344,Stoney Creek Elementary,31.4
+180302,Harry M Arndt Middle,51.1
+180304,Balls Creek Elementary,55.1
+180308,Bandys High,55.1
+180312,Banoak Elementary,51
+180316,Blackburn Elementary,47.8
+180320,Bunker Hill High,39.7
+180323,Catawba Rosenwald Education Center,N/A
+180324,Catawba Elementary School,43.6
+180325,Challenger Early College High,94.3
+180326,Charles H Tuttle Elementary,53.8
+180332,Claremont Elementary,44.4
+180336,Clyde Campbell Elementary,42.6
+180340,Fred T Foard High,49
+180342,Jacobs Fork Middle,51.9
+180343,Lyle Creek Elementary,47.1
+180344,Maiden Elementary,51.8
+180346,Maiden Middle School,48.5
+180348,Maiden High,38
+180352,Mill Creek Middle,46
+180356,Mountain View Elementary,57.4
+180360,Oxford Elementary,47.8
+180364,River Bend Middle,49.5
+180368,Sherrills Ford Elementary,53.4
+180372,Saint Stephens Elementary,44.6
+180376,Saint Stephens High,47.2
+180379,Snow Creek Elementary,53.6
+180380,Startown Elementary,54.4
+180388,Webb A Murray Elementary,46.8
+181312,Northview Middle,43.1
+181316,Grandview Middle,47.4
+181318,Hickory Career Arts Magnet High School,52.2
+181326,W M Jenkins Elementary,44.4
+181332,Longview Elementary,62.7
+181336,Oakwood Elementary,52.8
+181342,Southwest Primary,N/A
+181344,Viewmont Elementary,50.6
+182304,Conover Special Education,N/A
+182316,Newton-Conover High,43.9
+182321,Newton-Conover Middle,47.3
+182322,Shuford Elementary,70.2
+182324,South Newton Elementary,50.4
+182328,North Newton Elementary,39.9
+182700,Discovery High School,N/A
+190304,Bennett School,60
+190308,Bonlee School,53.2
+190310,SAGE Academy,N/A
+190312,Chatham Middle,39.6
+190316,Chatham Central High,40.8
+190328,Horton Middle,40.1
+190332,J S Waters School,59.2
+190336,Jordan Matthews High,38.2
+190339,Margaret B. Pollard Middle,37.2
+190340,Moncure School,40.6
+190341,North Chatham Elementary,36.8
+190342,Northwood High,29.4
+190346,Perry W Harrison Elementary,45
+190348,Pittsboro Elementary,47.9
+190350,Siler City Elementary,59.9
+190352,Silk Hope School,53.2
+190370,Virginia Cross Elementary,48.4
+190501,Chatham School of Science & Engineering,N/A
+200304,Andrews Elementary,60
+200308,Andrews High,70.6
+200310,Andrews Middle,61.6
+200312,Hiwassee Dam Elementary/Middle,66
+200320,Martins Creek Elementary/Mid,54.7
+200322,The Oaks Academy,N/A
+200324,Murphy Elementary,47.2
+200328,Murphy High,40.3
+200330,Murphy Middle,55.5
+200332,Peachtree Elementary,61.8
+200336,Ranger Elementary/Middle,47.7
+200350,Tri-County Early College High,N/A
+210304,Chowan Middle,43.9
+210306,D F Walker Elementary,50.5
+210312,John A Holmes High,42.8
+210316,White Oak Elementary,N/A
+220308,Hayesville Elementary,61.4
+600364,Military and Global Leadership Academy,33.3
+220312,Hayesville Middle,46.8
+230304,Bethware Elementary,49.4
+230308,Boiling Springs Elementary,54.8
+230312,Burns High,35.7
+230316,Burns Middle,57.3
+230320,Casar Elementary,59.2
+230322,Cleveland ECHS,88.5
+230324,Crest High,36.6
+230328,Crest Middle,54.8
+230330,Turning Point Academy,N/A
+230334,East Elementary,54.5
+230336,Shelby Intermediate,33.8
+230340,Fallston Elementary,43.6
+230342,Graham Elementary,18.3
+230344,Grover Elementary,65
+230346,James Love Elementary,42.4
+230348,Jefferson Elementary,52.8
+230350,Kings Mountain High,52.9
+230351,Kings Mountain Intermediate,53.9
+230352,Kings Mountain Middle,53.9
+230355,Marion Elementary,56.3
+230357,North Elementary,47.2
+230359,North Shelby,N/A
+600386,Hawthorne Academy of Health Sciences,43.6
+230362,Shelby Middle,50.8
+230364,Springmore Elementary,58
+230368,Township Three Elementary,47.2
+230370,Union Elementary,47.6
+230376,Washington Elementary,64.4
+230380,West Elementary,60.8
+240304,Acme Delco Middle,47.7
+240308,Acme Delco Elementary,45.4
+240328,Cerro Gordo Elementary,50.7
+240332,Chadbourn Elementary,47
+600405,Harding University High,26
+240344,Evergreen Elementary,43.9
+240352,Guideway Elementary,68.9
+240354,Hallsboro-Artesia Elementary,57.4
+240356,Hallsboro Middle,43.1
+240368,Nakina Middle,63.5
+240370,Old Dock Elementary,55.7
+240371,South Columbus High,37.4
+240372,Tabor City Elementary,44.1
+240373,CCCA - Fair Bluff /Southeastern Campuses,55.7
+240376,Tabor City Middle,29.7
+240380,West Columbus High,45.9
+240388,Williams Township,44.7
+241304,Central Middle,60.5
+241308,Edgewood Elementary,54.3
+241312,North Whiteville Academy,N/A
+241316,Whiteville High,49.6
+241320,Whiteville Primary,N/A
+250304,Albert H Bangert Elementary,65
+250306,Ben D Quinn Elementary,49.2
+250308,Bridgeton Elementary,39.3
+250312,Brinson Memorial Elementary,43.2
+250314,Craven Early College High,78
+250316,Creekside Elementary,61
+250320,Vanceboro-Farm Life Elementary,38.8
+250321,Early College EAST High,N/A
+250324,Grover C Fields Middle,42.3
+250328,Graham A Barden Elementary,71.9
+250332,H J MacDonald Middle,40
+250336,Havelock Elementary,49
+250340,Havelock High,55.4
+250344,Havelock Middle,42.2
+250348,J T Barber Elementary,26.7
+250350,James W Smith Elementary,45.7
+250356,New Bern High,43.9
+250360,Oaks Road Academy,30.8
+250362,Roger Bell New Tech Academy,40.4
+250364,Trent Park Elementary,48.3
+250368,Tucker Creek Middle,60.8
+250372,West Craven High,37.5
+250376,West Craven Middle,32.8
+250378,W Jesse Gurganus Elementary,69.3
+250380,Arthur W Edwards Elementary,54.6
+260302,Alma O Easom Elementary,N/A
+260306,Armstrong Elementary,58.4
+260308,Ashley Elementary,36.9
+260310,Loyd E Auman Elementary,32.1
+260312,Beaver Dam Elementary,88.6
+260316,Lillian Black Elementary,43.3
+260318,Jack Britt High,46
+260320,Brentwood Elementary,51.5
+260321,Douglas Byrd Middle,29.4
+600466,Myers Park High,30.8
+260325,Cape Fear High,55.4
+260326,Elizabeth M Cashwell Elementary,55.1
+260332,Eastover-Central Elementary,67.9
+260336,Anne Chesnutt Middle,33.2
+260338,Cliffdale Elementary,44.8
+260340,College Lakes Elementary,51
+260342,C Wayne Collier Elementary,46.3
+260344,J W Coon Elementary,46.9
+260347,Cumberland International Early College,85.5
+260348,Cumberland Mills Elementary,50.3
+260352,Cumberland Road Elementary,44.4
+260354,Cross Creek Early College,94.2
+260356,District No 7 Elementary,61.5
+260357,Grays Creek High,46.8
+260358,Luther Nick Jeralds Middle,35.1
+260359,E E Smith High,38.8
+260361,Ferguson-Easley Elementary,34.3
+260362,Grays Creek Middle,43.1
+260363,Glendale Acres Elementary,N/A
+260364,Alderman Road Elementary,42.4
+260365,R Max Abbott Middle,41.3
+260366,Howard L Hall Elementary,52.5
+260367,Bill Hefner Elementary,41.1
+260368,Hope Mills Middle,38.8
+260369,John R Griffin Middle,54.1
+260370,Ed V Baldwin Elementary,36
+260371,Ireland Drive Middle,42.8
+260372,Lewis Chapel Middle,32.5
+260373,Gallberry Farm Elementary,51.3
+260374,Alger B. Wilkins High School,N/A
+260375,Grays Creek Elementary,59.3
+260380,Long Hill Elementary,59.7
+260382,Lucile Souders Elementary,47.7
+260383,Mac Williams Middle,47.9
+260386,Margaret Willis Elementary,38.4
+260388,Massey Hill Classical High,64.6
+260396,Mary McArthur Elementary,39.9
+260397,E Melvin Honeycutt Elementary,54.1
+260398,E E Miller Elementary,57
+260400,Montclair Elementary,44.2
+260401,Morganton Road Elementary,37.6
+260402,Manchester Elementary,40.6
+260403,New Century International Elementary,56.6
+260404,William H Owen Elementary,37.3
+260405,Walker-Spivey Elementary,43.5
+260406,Pine Forest Middle,46
+260407,Lake Rim Elementary,38.7
+260408,Pine Forest High,51.2
+260410,Ponderosa Elementary,40.7
+260411,Reid Ross Classical High,59.1
+260412,Raleigh Road Elementary,N/A
+260413,Howard Learning Academy,N/A
+260414,Benjamin J Martin Elementary,40.3
+260415,Rockfish Elementary,59.1
+260416,J W Seabrook Elementary,53.9
+260417,New Century International Middle,53.6
+260418,Seventy-First Classical Middle,68.8
+260419,Reid Ross Classical Middle,44.7
+260424,Seventy-First High,37
+260425,South View Middle,33.3
+260426,Sherwood Park Elementary,32.5
+260427,South View High,43.4
+260428,Spring Lake Middle,35
+260430,Stedman Elementary,66.9
+260432,Stedman Primary,N/A
+260434,Stoney Point Elementary,57.6
+260440,Sunnyside Elementary,28.3
+260444,Teresa C Berrien Elementary,25.4
+600576,West Charlotte High,18.5
+260448,Vanstory Hills Elementary,53.1
+260449,Ramsey Street High,N/A
+260450,Warrenwood Elementary,43
+260452,Westarea Elementary,38.6
+260454,Westover Middle,41.1
+260455,Westover High,40.2
+260459,William T Brown Elementary,49.7
+260700,Cumberland Polytechnic,>95
+270304,Central Elementary,48.3
+270306,Currituck County High,39.4
+600579,West Mecklenburg High,30.5
+270308,Currituck County Middle,36.1
+270309,Jarvisburg Elementary,48.4
+270310,Shawboro Elementary School,43.2
+270311,The JP Knapp ECH (i)School,N/A
+270312,Knotts Island Elementary,70
+270316,Moyock Elementary,55.8
+270318,Moyock Middle,46.8
+270320,W T Griggs Elementary,46.7
+280302,Cape Hatteras Elementary School,63.2
+280304,Cape Hatteras Secondary School,52.2
+280306,Dare Learning Academy,N/A
+280308,Kitty Hawk Elementary School,63.8
+280310,Nags Head Elementary School,66.8
+280312,Manteo Elementary School,44.9
+280316,Manteo High School,54.5
+280320,Manteo Middle School,49.5
+280324,First Flight Elementary School,72
+280328,First Flight Middle School,46.9
+280330,First Flight High School,41.9
+290302,Brier Creek Elementary,65.5
+290306,Northwest Elementary,60
+290307,Southmont Elementary,44.6
+290308,Central Davidson High,36.4
+290309,Central Davidson Middle,51
+290310,Stoner-Thomas School,N/A
+290312,Churchland Elementary,48
+290314,Davidson County High School,N/A
+290315,Davidson Early College,N/A
+290316,Davis-Townsend Elementary,57.2
+290320,Denton Elementary,44.4
+290322,E Lawson Brown Middle,47.1
+290324,East Davidson High,46
+290328,Fair Grove Elementary,37
+290330,Friedberg Elementary,47
+290332,Hasty Elementary,58.3
+290333,Friendship Elementary,53.5
+290334,Ledford Middle,52.2
+600592,Vance High,32.5
+290336,Ledford Senior High,44.8
+290344,Midway Elementary,56.5
+290348,North Davidson High,47.3
+290349,Oak Grove High,51.3
+290350,North Davidson Middle,54.3
+290351,Oak Grove Middle,51.6
+290352,Pilot Elementary,42.8
+290356,Reeds Elementary,46
+290364,Silver Valley Elementary,51.8
+41K000,Piedmont Classical High School,23.7
+290366,Southwood Elementary,39.1
+290367,South Davidson Middle,43.1
+290375,Tyro Elementary,45.7
+290376,Tyro Middle,48.9
+290380,Wallburg Elementary,61.9
+290384,Welcome Elementary,44
+290389,Yadkin Valley Regional Career Academy,81.1
+291308,Charles England Elementary School,37.9
+291332,Lexington Middle School,38.9
+291336,Lexington Senior High School,27.1
+291340,Pickett Elementary School,49.3
+291348,South Lexington School,N/A
+291350,South Lexington Developmental Center,N/A
+291352,Southwest Elementary School,46.4
+292316,Liberty Drive Elementary,26.5
+292318,Thomasville Primary,47.3
+292320,Thomasville Middle,29.1
+292324,Thomasville High,36
+295300,Southside Ashpole Elementary,19
+298202,Eastern NC School for the Deaf,N/A
+298203,Gov. Morehead School f/t Blind,N/A
+298204,NC School for the Deaf,N/A
+300306,Central Davie Academy,N/A
+300308,Cooleemee Elementary,51.1
+300310,Cornatzer Elementary,52.4
+300312,Davie County High,40.9
+300314,Davie County Early College High,90.7
+300320,Mocksville Elementary,43.1
+300325,North Davie Middle,59.7
+300326,Pinebrook Elementary,41.8
+300328,Shady Grove Elementary,53
+300330,South Davie Middle,50.3
+300336,William R Davie Elementary,45.5
+300337,William Ellis Middle,51.1
+310304,B F Grady Elementary,38.7
+310308,Beulaville Elementary,44.6
+310330,Chinquapin Elementary,52
+310336,Warsaw Elementary,32.2
+310338,Duplin Early College High,71.2
+310344,East Duplin High,44.7
+200314,Hiwassee Dam High,53.3
+220310,Hayesville High,39.8
+310352,James Kenan High,24.8
+310356,Kenansville Elementary,43.3
+310360,North Duplin Elementary,48.9
+310364,North Duplin Jr Sr High,54.1
+310384,Rose Hill-Magnolia Elementary,37.9
+310388,Wallace Elementary,36.6
+310392,Wallace-Rose Hill High,29.7
+320304,Bethesda Elementary,32.4
+320306,Brogden Middle,30.1
+320308,Burton Elementary,48.6
+320309,J D Clement Early College HS,>95
+320310,Eastway Elementary,24.2
+230361,Shelby High,24.6
+240334,East Columbus High,30.4
+320313,Easley Elementary,45.1
+320314,The School for Creative Studies,36.8
+320315,Eno Valley Elementary,31.8
+320316,George L Carrington Middle,35.6
+320317,City of Medicine Academy,80.9
+320318,Club Boulevard Elementary,39
+320319,Creekside Elementary,32.2
+320320,Glenn Elementary,27.1
+320322,Durham's Performance Learning Center,N/A
+320323,Durham School of the Arts,61.4
+320324,Hillandale Elementary,37.8
+320325,Hillside High,30.1
+320327,Hope Valley Elementary,46.4
+320328,Holt Elementary,41.1
+320329,Holton Career and Resource Center,N/A
+320332,Forest View Elementary,36
+320336,DPS Hospital School,N/A
+320338,James E Shepard Middle,30.5
+320339,Lakewood Elementary,38.3
+320340,Little River K-8 School,47.2
+320341,Lakeview School,N/A
+320342,Lakewood Montessori Middle,42.9
+320343,Lucas Middle,33.2
+320344,Fayetteville Street Elementary,23.8
+320346,Lowe's Grove Middle,33.2
+320347,George Watts Elementary,36.3
+320348,Mangum Elementary,61
+320352,Merrick-Moore Elementary,30.7
+320353,Middle College HS @ DTCC,N/A
+320354,Morehead Montessori,43.3
+320355,Neal Middle,32.7
+320360,Oak Grove Elementary,38.8
+320362,Parkwood Elementary,30.4
+320363,E K Powe Elementary,21.9
+320364,Pearsontown Elementary,50.8
+320366,Sherwood Githens Middle,32.1
+320367,R N Harris Elementary,41.6
+260322,Douglas Byrd High,25.7
+320369,Sandy Ridge Elementary,39.8
+320370,Rogers-Herr Middle,45.3
+320372,Southwest Elementary,38.1
+320374,C C Spaulding Elementary,22.5
+320376,Spring Valley Elementary,35.5
+320388,W G Pearson Elementary,32.3
+320400,Y E Smith Elementary,29.4
+320701,Hillside New Tech High,32.1
+330304,G W Bulluck Elementary,37.1
+330308,G W Carver Elementary,39.8
+330312,Coker-Wimberly Elementary,28.5
+330326,Edgecombe Early College High,N/A
+330328,North Edgecombe High,29
+330332,Phillips Middle,15.7
+330334,Princeville Elementary,32.6
+330340,South Edgecombe Middle,27.5
+330344,W A Pattillo Middle,25.5
+330348,West Edgecombe Middle,38.3
+330354,Stocks Elementary,21.8
+260446,Terry Sanford High,31.3
+330360,Martin Millennium Academy,34.8
+340308,Ashley Academy,16.8
+340311,Atkins Academic & Tech High,66.9
+340314,Bolton Elementary,32.4
+340320,Brunson Elementary,30.2
+340326,Caleb's Creek Elementary,54.4
+340332,Career Center,N/A
+340334,Cash Elementary,54.7
+340336,Carter High School,N/A
+340344,Childrens Center,N/A
+340348,Clemmons Elementary,72.6
+340350,Clemmons Middle School,49.4
+340351,Cook Literacy Model School,26.8
+340354,The Downtown School,58.3
+340362,Early College of Forsyth Co,N/A
+340366,East Forsyth Middle School,23.8
+340368,Easton Elementary School,18.9
+340372,Flat Rock Middle,36.8
+340376,Forest Park Elementary,24.6
+340380,Gibson Elementary,40.8
+290365,South Davidson High,33
+290388,West Davidson High,38.9
+340384,Griffith Elementary,34.2
+340385,Main Street Academy,N/A
+340390,Hall-Woodward Elementary,31.6
+340392,Hanes Magnet School,38
+340398,Homebound/ Hospital Education,N/A
+340400,Ibraham Elementary,16
+340403,Jefferson Elementary,56.9
+340406,Thomas Jefferson Middle,48.7
+340416,Kernersville Elementary,55.3
+340420,Kernersville Middle,53.1
+340424,Kimberley Park Elementary,11.6
+340426,Kimmel Farm Elementary,47.3
+340427,Kingswood School,N/A
+340428,Konnoak Elementary,37.2
+340430,Diggs-Latham Elementary,29
+340432,Lewisville Elementary,70.3
+340436,Lowrance Middle,N/A
+340440,Meadowlark Elementary,73.8
+340442,Meadowlark Middle,64.5
+340446,Middle College of Forsyth Cnty,N/A
+340448,Mineral Springs Elementary,44.3
+340452,Mineral Springs Middle,29
+340453,Moore Magnet Elementary,35.1
+340454,Mount Tabor High School,28.7
+340457,Frank Morgan Elementary,58
+340462,North Hills Elementary,29.2
+340464,Northwest Middle,33.1
+340472,Old Richmond Elementary,56.4
+340476,Old Town Elementary,25
+340480,Paisley IB Magnet School,37.2
+340488,J F Kennedy High,33.3
+340490,Petree Elementary,15.1
+340492,Philo-Hill Magnet Academy,13.6
+340494,Piney Grove Elementary,47.6
+340495,Ronald W Reagan High School,55.3
+340496,R J Reynolds High,37.9
+320312,C E Jordan High,23.5
+340504,Rural Hall Elementary,42
+340508,Sedge Garden Elementary,50.8
+340512,Sherwood Forest Elementary,58.8
+340514,Smith Farm Elementary,24.5
+340516,Southeast Middle,41.7
+340520,South Fork Elementary,48.8
+340528,Southwest Elementary,59.1
+340530,Speas Elementary,38.4
+340531,The Special Children's School,N/A
+340532,Union Cross Traditional Acad,39.8
+340536,Vienna Elementary,62.5
+340540,Walkertown Elementary,44
+340542,Walkertown High,40.9
+340544,Walkertown Middle,42.6
+340548,Ward Elementary,37.3
+340556,West Forsyth High,45.8
+340560,Whitaker Elementary,63.1
+340564,Wiley Magnet Middle,31
+340568,Winston-Salem Preparatory Acad,14.2
+350304,Bunn Elementary,56.6
+350308,Bunn High,51.3
+320356,Northern High,23.4
+350310,Bunn Middle,47.3
+350312,Cedar Creek Middle,39.6
+350316,Edward Best Elementary,58.2
+350317,Franklin County Early College,81.1
+350318,Franklinton Elementary,44.4
+350321,Franklinton High,41.5
+350324,Franklinton Middle,39.5
+350330,Laurel Mill Elementary,52.7
+350331,Long Mill Elementary,59
+350332,Louisburg Elementary,45
+320365,Riverside High,32.8
+350336,Louisburg High,37.7
+350338,Terrell Lane Middle,48
+350339,Royal Elementary,42.8
+350340,Youngsville Elementary,56.8
+360310,Ashbrook High,47.6
+360320,Belmont Central Elementary,56.8
+360324,Belmont Middle,52.1
+360332,Bessemer City Central Elem,24.9
+320368,Southern School of Energy and Sustainabi,27.3
+360337,Gaston Early College High School,>95
+360338,Bessemer City Primary,N/A
+360339,W B Beam Intermediate School,40.7
+360340,Brookside Elementary,35
+360344,Carr Elementary,48.7
+360348,Catawba Heights Elementary,48.7
+360352,Chapel Grove Elementary,40
+360360,Cherryville High,58.2
+360364,Cherryville Elementary,72.4
+360372,Warlick Academy,N/A
+360376,Costner Elementary,46.1
+360378,Stuart W Cramer High,51.7
+330350,SouthWest Edgecombe High,25.9
+360380,Cramerton Middle,67
+360390,East Gaston High,56.5
+360392,Edward D Sadler Jr Elementary School,38
+360394,Webb Street School,N/A
+360396,Forestview High,50.7
+360400,Gardner Park Elementary,43.2
+360408,W P Grier Middle School,35.5
+360418,Highland Sch of Technology,>95
+360420,Hawks Nest STEAM Academy,69.8
+360426,Holbrook Middle,47.9
+330358,Tarboro High,25
+360428,Hunter Huss High,36.8
+360430,J B Page Primary School,N/A
+360431,John Chavis Middle School,46.9
+360432,Kiser Elementary,46.6
+360436,Bessemer City Middle,36.8
+360438,Lingerfeldt Elementary,26.4
+360440,Lowell Elementary,43.8
+360448,McAdenville Elementary,42.4
+360456,Mount Holly Middle,48
+360464,New Hope Elementary,50.8
+360468,North Belmont Elementary,40.9
+360470,North Gaston High,40.1
+360478,Pinewood Elementary,54.2
+360480,Pleasant Ridge Elementary,38.1
+360482,Ida Rankin Elementary School,46.4
+360488,Robinson Elementary,45.7
+360490,Sherwood Elementary,36.2
+360492,H H Beam Elementary,28.2
+360494,South Point High,55.5
+360498,Southwest Middle,42.4
+360499,Springfield Primary,N/A
+360500,Stanley Middle,44.8
+360504,Tryon Elementary,38.8
+360510,W A Bess Elementary School,65.1
+360514,W C Friday Middle School,47.3
+360520,Woodhill Elementary,31.3
+360526,York Chester Middle,41.5
+360550,Gaston Virtual Academy,N/A
+370304,Buckland Elementary,44.4
+370308,Central Middle School,43.9
+370312,Gates County Senior High,35.6
+370316,Gatesville Elementary,55.8
+370324,T S Cooper Elementary,33.9
+380306,Robbinsville Elementary,48.7
+380308,Robbinsville High,44.5
+380310,Robbinsville Middle,41
+390309,Butner-Stem Middle,39.8
+390311,Butner-Stem Elementary,37.9
+390312,C. G. Credle Elementary,37.6
+390314,Phoenix Academy,N/A
+390316,Creedmoor Elementary,38.7
+390320,G. C. Hawley Middle,38.6
+390321,Granville Academy,49.1
+390322,Granville Central High,40.6
+340330,Carver High,24.6
+390323,Granville Early College High,93.9
+340364,East Forsyth High,33
+390331,Mary Potter Middle,35
+390333,Mount Energy Elementary,58.9
+390334,Northern Granville Middle,29.5
+390336,Joe Toler-Oak Hill Elementary,50
+390352,South Granville High,47.5
+390360,Stovall-Shaw Elementary,38.5
+390362,Tar River Elementary,52.1
+390364,West Oxford Elementary,30.4
+390368,Wilton Elementary,60.8
+400308,Greene Central High,30.7
+340382,Robert B Glenn High School,30.1
+400312,Greene County Middle,32.1
+400315,Greene Early College High,85.7
+400318,Greene County Intermediate,37.3
+400321,Snow Hill Primary,N/A
+400332,West Greene Elementary,36.3
+410304,Alamance Elementary,60.2
+410307,Edwin A Alderman Elementary,48.1
+410310,Allen Jay Elementary,35.5
+410311,Allen Jay Middle - A Preparatory Academy,47.6
+410313,Southern Guilford Middle,36.1
+410316,Allen Middle,36.2
+410319,T Wingate Andrews High,24.5
+410322,Archer Elementary,44.8
+410325,Swann Middle School,28.9
+410326,Middle College High at Bennett,N/A
+410328,Bessemer Elementary,33.9
+410331,Bluford Elementary,24.8
+410334,Brightwood Elementary,36.3
+410337,Brooks Global Elementary,70.8
+410340,Monticello-Brown Summit Elem,36.9
+410341,Brown Summit Middle,>95
+410343,Claxton Elementary,47.5
+410346,Colfax Elementary,61.2
+410349,Ceasar Cone Elementary,21.6
+340460,North Forsyth High,21.4
+410358,Eastern Guilford High,28.1
+410361,Erwin Montessori,57.6
+410364,Fairview Elementary,29.3
+410366,Waldo C Falkener Sr Elementary,30.9
+410367,Ferndale Middle,27.3
+410370,Florence Elementary,62.4
+410373,Julius I Foust Elementary,36.3
+410376,Cyrus P Frazier Elementary,39.1
+410379,Gateway Education Center,N/A
+410382,Gibsonville Elementary,58.3
+410385,Gillespie Park Elementary,29.2
+410388,General Greene Elementary,55.4
+410390,GC Middle College High,N/A
+410391,Penn-Griffin Schools,41.3
+410394,Grimsley High,43.3
+410395,Early College at Guilford,N/A
+410397,Western Guilford Middle,42.5
+410398,Doris Henderson Newcomers Sch,N/A
+410399,Middle College at GTCC-Greensboro,82.5
+410400,Guilford Elementary,52.4
+410401,GTCC Middle College High,60.5
+410402,Otis L Hairston Sr Middle,26.9
+410403,Hampton Elem Univ Partnership,40.7
+340486,Parkland High,22.6
+410406,High Point Central High,35.3
+410407,Kearns Academy,N/A
+410409,Hunter Elementary,51.9
+410412,Irving Park Elementary,32.4
+410415,Jackson Middle,32.7
+410418,Jamestown Elementary,48.5
+410421,Jamestown Middle,41.4
+410423,Jefferson Elementary,53.8
+410424,Jesse Wharton Elem,54.2
+410427,Johnson Street Global Studies,39
+410430,David D Jones Elementary,42.7
+410436,James Y Joyner Elementary,43.1
+410437,Kernodle Middle,63.1
+410439,Kirkman Park Elementary,27.2
+410442,Kiser Middle,43.9
+410448,Lincoln Academy,45.6
+410451,John Van Lindley Elementary,46.6
+410454,Madison Elementary,46.6
+410457,Herbin Metz Education Center,N/A
+410458,C Joyner Greene Education Center,N/A
+410460,Eastern Guilford Middle,34.6
+410461,McLeansville Elementary,45.2
+410462,Ronald E. McNair Elementary,36.7
+410463,Mendenhall Middle,40.4
+410464,Haynes Inman Education Center,N/A
+410466,Millis Road Elementary,61.3
+410469,Montlieu Academy of Technology,28.4
+410472,Morehead Elementary,63.8
+410478,Murphey Traditional Academy,31.1
+410481,Nathanael Greene Elementary,31.3
+410483,Middle College at NC A&T,57.5
+410484,Northeast Guilford High,34.7
+410486,Northern Guilford Elementary,58.5
+410487,Northeast Guilford Middle,34.2
+410488,Northern Guilford Middle,47.8
+410489,Northern Guilford High,36.4
+410490,Northwest Guilford High,60.7
+410491,EP Pearce Elementary,66.9
+410493,Northwest Guilford Middle,46.8
+410496,Northwood Elementary,30
+410499,Oak Hill Elementary,38.6
+410502,Oak Ridge Elementary,51.4
+410505,Oak View Elementary,28.3
+410508,Page High,26.1
+410511,Parkview Village Elementary,32.1
+410514,Clara J Peck Elementary,31
+410517,Peeler Open Elementary,26.8
+410522,Pilot Elementary,39.8
+410523,Pleasant Garden Elementary,47.5
+410529,Lucy Ragsdale High,39.4
+410530,Reedy Fork Elementary,37.5
+410532,Rankin Elementary,31.5
+410533,SCALE School,N/A
+410534,Pruette SCALE Academy,N/A
+410535,Sedalia Elementary,48.2
+410538,Sedgefield Elementary,35.1
+410541,Shadybrook Elementary,47.3
+410542,George C Simkins Jr Elementary,43
+360336,Bessemer City High,18.1
+410545,Academy at Smith,54.5
+410547,Southeast Guilford High,40.3
+410550,Southeast Guilford Middle,47.4
+410553,Southern Elementary,56.9
+410556,Southern Guilford High,30.7
+410559,Southwest Elementary,72.6
+410562,Southwest Guilford High,34.7
+410565,Southwest Guilford Middle,38.2
+410568,Sternberger Elementary,48.4
+410569,STEM Early College @ NC A&T SU,>95
+410571,Stokesdale Elementary,42.5
+410574,Summerfield Elementary,62.4
+410577,Sumner Elementary,39.2
+410578,Triangle Lake Montessori Elem,48.1
+410579,UNCG Early/Middle College,82.9
+410580,Union Hill Elementary,41.5
+410583,Vandalia Elementary,27.1
+410586,Washington Elementary,25.7
+410589,Philip J Weaver Ed Center,N/A
+410592,Welborn Middle,28.2
+410595,Western Guilford High,38.4
+410598,Wiley Accel/Enrichment,20.2
+420304,Aurelian Springs Institute of Global Lea,46.3
+420316,Scotland Neck Elementary Leadership Acad,28.1
+420324,Enfield Middle S.T.E.A.M. Academy,30.5
+420328,Everetts Elementary S.T.E.M. Academy,30.6
+420336,Hollister Elementary Leadership Academy,55.4
+420340,Inborden Elementary S.T.E.A.M. Academy,40.7
+420348,Pittman Elementary Leadership Academy,45.5
+420376,William R Davie Middle S.T.E.M. Academy,31.4
+421304,Belmont Elementary School,37
+421306,Chaloner Middle School,48.1
+390324,J. F. Webb High,21.7
+421316,Roanoke Rapids High School,32.8
+421328,Manning Elementary School,51.6
+421336,Roanoke Rapids Early College High,55.6
+422310,Roanoke Valley Early College,N/A
+422314,Weldon Elementary Global Academy,21.2
+390700,JF Webb HS Of Health And Life Sciences,30.9
+422318,Weldon Middle,29.9
+430304,Anderson Creek Primary,N/A
+430308,Angier Elementary,35.1
+430312,Benhaven Elementary,59.1
+430316,Boone Trail Elementary,41.4
+430320,Buies Creek Elementary,37.7
+430328,Coats Elementary,41.3
+430330,Coats-Erwin Middle,48.8
+430332,Dunn Middle,35.5
+430336,Erwin Elementary,38.5
+430340,Gentry Primary,N/A
+430341,Harnett Early College (HCEC),81.8
+430344,Harnett Primary,44.8
+430345,STAR Academy,N/A
+430346,Harnett Central High,34.3
+430347,Harnett Central Middle,33.9
+430348,Johnsonville Elementary,44.8
+430349,Highland Elementary,47.9
+430351,Highland Middle,37.9
+430352,LaFayette Elementary,57.4
+430358,Lillington-Shawtown Elementary,45.3
+430368,North Harnett Primary,N/A
+430369,Overhills Elementary,44.4
+430370,Overhills Middle,43.6
+430371,Overhills High,44.2
+430376,South Harnett Elementary,39.4
+430378,Triton High,30.4
+430380,Wayne Avenue Elem,23.5
+430384,Western Harnett High,40
+430386,Western Harnett Middle,44
+440314,Bethel Elementary,66.9
+440318,Bethel Middle,58.8
+440320,Canton Middle,44.8
+440326,Central Haywood High,N/A
+440328,Clyde Elementary,54
+440332,Riverbend Elementary,83.7
+440346,Haywood Early College,>95
+440348,Hazelwood Elementary,44
+440349,Jonathan Valley Elementary,52.5
+440350,Junaluska Elementary,59.9
+440364,Meadowbrook Elementary,52.2
+440368,North Canton Elementary,57.7
+440378,Pisgah High,57.4
+410355,James B Dudley High,27.9
+440390,Tuscola High,41.9
+440396,Waynesville Middle,48.7
+450301,Apple Valley Middle,49.9
+450302,Atkinson Elementary,73.3
+450306,Bruce Drysdale Elementary,42.5
+450307,Clear Creek Elementary,69.3
+450308,Dana Elementary,48.9
+450316,East Henderson High,51
+450322,Edneyville Elementary,53.9
+450324,Etowah Elementary,67
+450328,Flat Rock Middle,53.4
+450332,Fletcher Elementary,59.2
+450333,Hendersonville Elementary,66.9
+450334,Hendersonville High,47.8
+450335,Hendersonville Middle,55.8
+450336,Hillandale Elementary,51.8
+450339,Glenn C Marlow Elementary,67.4
+450340,Mills River Elementary,60.7
+450341,North Henderson High,61.5
+450342,Rugby Middle,61.4
+450343,Henderson County Career Academy,N/A
+450344,Sugarloaf Elementary,43.5
+450346,Upward Elementary,46.4
+450352,West Henderson High,50.3
+450354,Henderson County Early College,>95
+460308,Ahoskie Elementary,27.9
+460312,Bearfield Primary,62.3
+460318,Hertford County Middle,23.4
+410408,Middle College at GTCC-High Point,53.8
+460322,Hertford Co Early College,82.5
+460332,Riverview Elementary,39.6
+460340,CS Brown High,N/A
+470310,Don D Steed Elementary,69.9
+470312,Hoke County High,39.7
+470316,J W McLauchlin Elementary,48
+470320,West Hoke Middle,44.5
+470328,Scurlock Elementary,37.7
+470330,Hawk Eye Elementary,40.2
+470332,East Hoke Middle,38.9
+470336,West Hoke Elementary,58.8
+470340,Rockfish Hoke Elementary,59.2
+470342,J W Turlington School,N/A
+470346,Upchurch Elementary,50.9
+470441,Sandy Grove Elementary,41.1
+470442,Sandy Grove Middle,44.7
+470443,SandHoke Early College High,69.7
+480306,Mattamuskeet Elementary,38.4
+480316,Ocracoke School,77.4
+480318,Mattamuskeet Early College High,42.9
+490307,Agriculture and Science Early College,N/A
+490308,Brawley Middle,45.2
+490310,Career Academy and Technical School,N/A
+490312,Celeste Henkel Elementary,51.8
+490316,Central Elementary,73.9
+490318,Coddle Creek Elementary,51.8
+490319,Cloverleaf Elementary,28.5
+490320,Collaborative College for Technology,>95
+490324,Cool Spring Elementary,58.9
+490326,East Iredell Elementary,44
+490327,East Iredell Middle,32.6
+490332,Harmony Elementary,54.5
+490335,Lake Norman High,38
+490336,Lake Norman Elementary,62.1
+490337,Lakeshore Elementary,44.3
+490338,Lakeshore Middle,47.5
+490344,Mount Mourne School,91.2
+490345,N B Mills Elementary,27.5
+490347,Northview School,93.3
+490348,Scotts Elementary,55.8
+490349,North Iredell Middle,46
+490350,Pressly School,N/A
+490352,Statesville Middle,21.2
+410544,Ben L. Smith High School,22
+490355,Crossroads Arts Sciences Early College,88.3
+490356,Sharon Elementary,65.2
+490360,Shepherd Elementary,47
+490362,South Iredell High,35.8
+490363,Third Creek Elementary,44.7
+490364,Troutman Elementary,46.1
+490366,Troutman Middle,38.8
+490368,Union Grove Elementary,34.5
+490384,West Iredell Middle,42.2
+490390,Woodland Heights Elementary,44.2
+491303,East Mooresville Intermediate,50.4
+491305,NF Woods Campus,N/A
+491306,Mooresville Intermediate,54.7
+491308,Mooresville Middle,48.1
+491312,Mooresville High School,49.5
+491316,Park View Elementary,62
+491318,Rocky River Elementary,71.2
+491320,South Elementary,66.4
+500302,Blue Ridge Early College,46.3
+500304,Cullowhee Valley School,43.9
+500314,Fairview Elementary,51.7
+500316,Blue Ridge School,33.8
+500323,Jackson Co Early College,N/A
+500324,Jackson Co Sch of Alternatives,N/A
+500332,Scotts Creek Elementary,45
+500337,Smokey Mountain Elementary,35.9
+500340,Smoky Mountain High School,59.9
+510308,Benson Elementary,29.4
+510310,Benson Middle,31.9
+510325,Johnston County Schools Career Technical,89.6
+510326,West Clayton Elementary,32.7
+510327,Cleveland High,45.2
+510328,Cleveland Elementary,43.1
+510329,Cleveland Middle,41.1
+510330,Cooper Academy,25
+510332,Corinth-Holders Elementary,33
+510333,Corinth Holders High,42.3
+510334,Dixon Road Elementary,48.6
+510336,East Clayton Elementary,40.7
+510340,Four Oaks Elementary,43.1
+510342,Four Oaks Middle,40.2
+510343,Micro Elementary,31.5
+510344,North Johnston Middle,27.1
+510356,Glendale-Kenly Elementary,46.2
+510358,McGee's Crossroads Elem,41.4
+510359,McGee's Crossroads Middle,41.8
+510360,Meadow School,43.4
+510364,Archer Lodge Middle,37.1
+510367,Johnston Co Early College Academy,86.4
+420346,Northwest Halifax Collegiate and Technic,33.6
+510372,Pine Level Elementary,35.3
+510373,Powhatan Elementary,44
+510374,Princeton Elementary,40.3
+510376,Princeton High,44.5
+510377,River Dell Elementary,44.1
+510378,Riverwood Elementary,51.1
+510379,Riverwood Middle,40.1
+510382,The Innovation Academy at South Campus,56.3
+510388,Selma Elementary,31.3
+510390,Selma Middle School,19.8
+510396,West Smithfield Elementary,22.4
+510397,Smithfield Middle,36.5
+420358,Southeast Halifax Collegiate Prep Academ,9.1
+510404,South Smithfield Elementary,26.5
+510406,West Johnston High,32.6
+510408,Wilson's Mills Elementary,35.1
+510410,Polenta Elementary,36.7
+510411,Swift Creek Middle,43
+510412,Clayton Middle,32.1
+510414,West View Elementary,43.4
+520304,Pollocksville Elementary,51
+520308,Comfort Elementary,51.6
+520320,Jones Senior High,40.9
+520324,Jones Middle,51.5
+520328,Maysville Elementary,57.3
+520336,Trenton Elementary,59.9
+530302,BT Bullock Elementary,51.1
+530306,Bragg Street Academy,N/A
+530308,Broadway Elementary,43.3
+530312,Deep River Elementary,55.6
+530314,East Lee Middle,39.3
+530316,Floyd L Knight Children Center,N/A
+530320,Greenwood Elementary,53.7
+530335,Lee Early College,87.8
+460320,Hertford County High,20.3
+530340,J Glenn Edwards Elementary,57.2
+530341,SanLee Middle School,46
+530343,Southern Lee High School,36.8
+530346,Tramway Elementary,56.7
+530354,J R Ingram Jr Elementary,48.8
+530356,West Lee Middle,37.4
+530358,Warren Williams Elementary Alternative,N/A
+540304,Banks Elementary,44.5
+540308,Contentnea-Savannah School,40.8
+540312,E B Frink Middle,42.1
+181322,Hickory High,29
+540316,La Grange Elementary,42.5
+540317,Lenoir County Early College High,87.9
+540318,Lenoir County Learning Academy,N/A
+540320,Moss Hill Elementary,64
+540325,Northeast Elementary,30.3
+540326,Northwest Elementary,36.2
+540328,Pink Hill Elementary,53.6
+540330,Rochelle Middle,25.1
+540336,South Lenoir High,43.7
+540338,Southeast Elementary,36.2
+540340,Southwood Elementary,45.5
+540344,Woodington Middle,44
+550308,Asbury Academy,N/A
+550312,Battleground Elementary,38.5
+550314,Catawba Springs Elementary,66.3
+550316,GE Massey Elementary,56.6
+490346,North Iredell High,24.9
+550320,East Lincoln High,38.5
+550322,East Lincoln Middle,51
+550328,Iron Station Elementary,54.3
+550330,LCST,N/A
+550332,Lincolnton High,46.2
+550334,Lincolnton Middle,51.6
+550336,Love Memorial Elementary,60.5
+550340,Childers Elementary,47
+550342,North Brook Elementary,51
+550344,North Lincoln High,62.9
+550348,Pumpkin Center Primary,N/A
+550349,Pumpkin Center Intermediate,53.7
+550350,North Lincoln Middle,54
+550356,Rock Springs Elementary,64.1
+550360,S Ray Lowder Elementary,45
+550362,St James Elementary,58.1
+550364,Union Elementary,75.4
+550368,West Lincoln High,41.5
+550372,West Lincoln Middle,50
+560304,Cartoogechaye Elementary,46.9
+560316,East Franklin Elementary,35.4
+560320,Franklin High,57
+490354,Statesville High,20
+560324,Highlands School,65.1
+560328,Iotla Valley Elementary,45.6
+560329,Macon Early College High School,N/A
+560330,Macon Middle School,57.9
+560331,Mountain View Intermediate,51.7
+560332,Nantahala School,67.4
+560338,South Macon Elementary,72.1
+560350,Union Academy,N/A
+570306,Brush Creek Elementary,75.6
+570312,Hot Springs Elementary,82.3
+570317,Madison Early College High,73.3
+570318,Madison High School,36.1
+570319,Madison Middle School,48.8
+570320,Mars Hill Elementary,58.8
+580308,Williamston Primary,N/A
+580312,E J Hayes Elementary,33.2
+580316,South Creek Elementary,30
+580324,Jamesville Elementary,51.3
+580344,South Creek Middle/High,25
+580356,Rodgers Elementary,55.3
+580372,Riverside Middle,28.2
+590306,Eastfield Global Magnet School,39.4
+590310,East McDowell Middle School,43.2
+590316,Glenwood Elementary School,54.6
+590320,Marion Elementary School,56.6
+590328,McDowell Early College,87.5
+590330,McDowell High School,48.9
+490380,West Iredell High,28.8
+590332,Nebo Elementary School,49.6
+590336,North Cove Elementary School,48.7
+590340,Old Fort Elementary School,60.9
+590344,Pleasant Gardens Elementary School,46.3
+590352,West Marion Elementary School,42.1
+590356,West McDowell Middle School,50.1
+590393,Foothills Community School,55.6
+600300,Albemarle Road Elementary,50.2
+600301,Albemarle Road Middle,37.1
+600302,Ardrey Kell High,71.3
+600303,Charlotte East Language Academy,41.3
+600305,J M Alexander Middle,37
+600308,Allenbrook Elementary,26
+600311,Ashley Park PreK-8 School,27.9
+600312,William Amos Hough High,57.8
+600313,Bailey Middle,62.3
+600314,Bain Elementary,67.7
+600316,Barringer Academic Center,30.2
+600317,Whitewater Middle,38.1
+600318,Whitewater Academy,44.1
+600319,Berryhill School,45.5
+600322,Beverly Woods Elementary,45.7
+600328,Barnette Elementary,50.6
+600329,Briarwood Elementary,46.6
+600333,Carmel Middle,36.4
+600334,Cato Middle College High,N/A
+600335,Billingsville Elementary,N/A
+600336,Chantilly Montessori,67.4
+600338,Clear Creek Elementary,43.4
+600341,Cochrane Collegiate Academy,32.5
+600344,Collinswood Language Academy,62.5
+600345,Community House Middle,59.4
+600346,Cornelius Elementary,36.4
+600349,Cotswold IB Elementary,27.4
+600351,Coulwood STEM Academy,47.9
+600352,Crown Point Elementary,58
+600353,Crestdale Middle,57.3
+600357,Davidson Elementary,46.6
+600361,Butler High,50.2
+600362,David Cox Road Elementary,34.3
+510324,Clayton High,39.7
+600365,Devonshire Elementary,38.4
+600366,Marie G Davis,30.9
+600367,Dilworth Elementary School Latta Campus,32.7
+600368,First Ward Creative Arts Acad,49
+600369,Berewick Elementary,50.7
+600374,Druid Hills Academy,22.8
+600377,East Mecklenburg High,52.4
+600379,Eastover Elementary,24.1
+600381,Eastway Middle,32.9
+600382,Elizabeth Lane Elem,46.1
+600383,Elon Park Elementary,56.7
+600384,Elizabeth Traditional Elem,54.4
+600385,Endhaven Elementary,51.3
+510368,North Johnston High,28
+600392,Polo Ridge Elementary,65.4
+600394,Francis Bradley Middle,51.5
+600397,Garinger High,33.7
+600398,Greenway Park Elementary,42.1
+600399,Alexander Graham Middle,34.5
+600404,Harper Middle College High,N/A
+510399,Smithfield-Selma High,30.1
+510402,South Johnston High,23.7
+600406,Hawk Ridge Elementary,73.1
+600408,Lawrence Orr Elementary,62.8
+600409,Parkside Elementary,60.9
+600410,Hickory Grove Elementary,49.2
+600411,Highland Creek Elementary,46.4
+600412,Hidden Valley Elementary,40.7
+600413,Highland Mill Montessori,75.7
+600414,Highland Renaissance Academy,36.5
+600415,Hopewell High,39.8
+600416,Hornets Nest Elementary,37.8
+600418,Croft Community Elementary,42.4
+600420,Huntersville Elementary,62.2
+600422,Huntingtowne Farms Elementary,51.9
+600424,Idlewild Elementary,55.8
+600426,Independence High,36.5
+600428,James Martin Middle,29.4
+600429,Governors Village STEM Academy (Upper),35
+600431,Jay M Robinson Middle,75.7
+600432,Joseph W Grier Academy,41.4
+600433,J.V. Washam Elementary,69.5
+600434,Kennedy Middle,46
+600435,Trillium Springs Montessori,56.8
+600436,Lake Wylie Elementary,50.4
+600437,Ballantyne Elementary,53.2
+600438,Lansdowne Elementary,35.2
+600439,Turning Point Academy,N/A
+600440,Lebanon Road Elementary,51.9
+600442,Blythe Elementary,48.3
+600443,Levine Middle College High,N/A
+600444,Long Creek Elementary,47.6
+600445,Mallard Creek High,44.8
+600446,Mallard Creek Elementary,44.1
+600447,Matthews Elementary,55.9
+600448,Martin Luther King Jr Middle,35.6
+600449,McAlpine Elementary,60.1
+600450,McClintock Middle,39.3
+600451,McKee Road Elementary,75.6
+600453,Merry Oaks International Academy,43.8
+600454,Metro School,N/A
+600455,Mint Hill Middle,58.1
+600457,Rocky River High,37
+600459,Montclaire Elementary,27.6
+600461,Lincoln Heights Academy,N/A
+600462,Mountain Island Lake Academy,41.7
+600463,River Oaks Academy,38.9
+600464,Myers Park Traditional,59.1
+132304,A L Brown High,19.1
+600468,Governors Village STEM Academy (Lower),44.8
+600471,Nations Ford Elementary,40.7
+600474,Newell Elementary,38.6
+600475,Vaughan Academy of Technology,50.4
+600478,J H Gunn Elementary,40.1
+600479,Northeast Middle,46.5
+600480,North Mecklenburg High,52.4
+600481,Northridge Middle,43.3
+600482,Northwest School of the Arts,69.3
+600484,Oakhurst STEAM Academy,41.2
+600485,Oakdale Elementary,29.6
+600488,Oaklawn Language Academy,57.8
+600489,Bruns Avenue Elementary,19.1
+600490,Olympic High,45.5
+600491,Olde Providence Elementary,60.6
+600492,Park Road Montessori,59.5
+600493,Palisades Park Elementary,66.1
+600494,Paw Creek Elementary,45.9
+600496,Phillip O Berry Academy of Technology,55.1
+530336,Lee County High,30.1
+600497,Piedmont IB Middle,78.6
+600498,Performance Learning Center,N/A
+600499,Charlotte-Mecklenburg Virtual HS,N/A
+600500,Pineville Elementary,54.3
+600501,Pinewood Elementary,43.6
+600503,Piney Grove Elementary,48.6
+600507,Providence Spring Elementary,70.6
+600508,Providence High,77.8
+600509,Quail Hollow Middle,41.2
+600512,Rama Road Elementary,36.4
+600513,Randolph Middle,69.5
+600514,Ranson Middle,22.4
+600515,Renaissance West STEAM Academy,20.6
+600516,Reedy Creek Elementary,57
+600517,Reid Park Academy,43.7
+600518,Ridge Road Middle,38.2
+600519,Dilworth Elementary School Sedgefield C,N/A
+600520,Sedgefield Middle,21.9
+600521,Stoney Creek Elementary,44.8
+600522,Selwyn Elementary,48.5
+600527,Shamrock Gardens Elementary,43.8
+600530,Sharon Elementary,48
+600532,Waddell Language Academy,67.1
+600534,Smithfield Elementary,45.3
+600535,South Mecklenburg High,48
+600537,South Charlotte Middle,63.4
+600538,Southwest Middle School,41
+600545,Starmount Acad of Excellence,38.1
+600546,Statesville Road Elementary,34.5
+600549,Steele Creek Elementary,50.6
+600550,Sterling Elementary,36.7
+600553,Thomasboro Academy,27.5
+600557,Torrence Creek Elementary,49.5
+600558,Grand Oak Elementary,60
+600562,Tuckaseegee Elementary,35.6
+600565,University Park Creative Arts,43.2
+600566,University Meadows Elementary,45.1
+600567,Charlotte Engineering Early College-UNCC,81.4
+600569,Charlotte Teacher Early College,77.1
+600571,Irwin Academic Center,71.7
+600574,Walter G Byers School,34.8
+540315,Kinston High,25
+540324,North Lenoir High,29.6
+600577,Westerly Hills Academy,37
+600582,J T Williams Secondary Montessori,44.9
+600583,Wilson STEM Academy,22.3
+600586,Winding Springs Elementary,44
+600587,Windsor Park Elementary,59.1
+600588,Winget Park Elementary,50.8
+600589,Winterfield Elementary,32
+600590,River Gate Elementary,58
+600593,Villa Heights Elementary,33.3
+600594,Merancas Middle College High,N/A
+610302,Bowman Middle,38
+610310,Deyton Elementary,53.8
+610320,Gouge Elementary,46.5
+610322,Greenlee Primary,N/A
+610326,Harris Middle,47.3
+610332,Mayland Early College,N/A
+610334,Mitchell High,38.2
+620310,Montgomery Learning Academy,N/A
+620312,Candor Elementary,50.5
+620314,East Middle,47.8
+620316,East Montgomery High,33.5
+620318,Green Ridge Elementary,56.4
+620324,Mount Gilead Elementary,45.3
+620330,Page Street Elementary,40.7
+620334,Star Elementary,45.9
+620336,Troy Elementary,N/A
+620339,West Middle,36.4
+620340,West Montgomery High,44.4
+620350,Montgomery County Early College,93.1
+630304,Aberdeen Primary,N/A
+630308,Aberdeen Elementary,32
+630312,Cameron Elementary,54
+630316,Carthage Elementary,55.6
+630317,Crain's Creek Middle,45.3
+630320,Elise Middle,39.1
+630324,Sandhills Farm Life Elementary,41.2
+630328,Highfalls Elementary,52.2
+630330,The Community Learning Center @ Pinckney,N/A
+630331,New Century Middle,42.3
+630332,North Moore High,57.6
+630336,Pinecrest High,35.5
+580368,Riverside High,21.2
+630342,Pinehurst Elementary,45.8
+630348,Robbins Elementary,26.6
+630350,Southern Middle,31
+630352,Southern Pines Primary,N/A
+630356,Southern Pines Elementary,37.1
+630360,Union Pines High,44.8
+590326,McDowell Academy for Innovation,40
+630364,Vass-Lakeview Elementary,46.1
+630368,West End Elementary,71.1
+630373,West Pine Elementary,62
+630374,West Pine Middle,51.4
+630376,Westmoore Elementary,48.6
+640302,Fairview Elementary,N/A
+640304,Bailey Elementary,42
+640306,Baskerville Elementary,17.3
+640308,Benvenue Elementary,32.3
+640316,Cedar Grove Elementary,43.3
+640320,Nash Central Middle,34.4
+640324,Coopers Elementary,55.5
+640326,D S Johnson Elementary,19
+640328,Englewood Elementary,33.3
+640329,G R Edwards Middle,25
+640332,M B Hubbard Elementary,37.1
+640334,J W Parker Middle,20.4
+640335,Rocky Mount Middle,18.9
+640336,Middlesex Elementary,27.3
+640340,Tar River Academy,N/A
+640347,NRM Early College High School,78.8
+640348,Nashville Elementary,44.3
+640358,Red Oak Middle,36.1
+640360,Red Oak Elementary,N/A
+640342,CITI High School,<5
+640362,Southern Nash Middle,42.4
+640364,Southern Nash High,31.8
+640346,Nash Central High,20.3
+640376,Spring Hope Elementary,18
+640384,Swift Creek Elementary,36.2
+640396,Williford Elementary,N/A
+640400,Winstead Avenue Elementary,N/A
+650304,Bradley Creek Elementary,53.6
+650308,Carolina Beach Elementary,60.9
+650309,Castle Hayne Elementary,50.3
+650310,Charles P Murray Middle,66.8
+650312,R Freeman Sch of Engineering,21.2
+650316,College Park Elementary,45.5
+650323,Edwin A Anderson Elementary,56.5
+650324,Edwin A Alderman Elementary,33.7
+650325,Emma B Trask Middle,57.5
+650326,Emsley A Laney High,44
+640350,Northern Nash High,23.8
+650327,Eugene Ashley High,36.2
+640361,Rocky Mount High,18.2
+650328,Forest Hills Global Elementary,31.6
+650332,The International School at Gregory,31.8
+650338,Heyward C Bellamy Elem,69.7
+650339,Holly Tree Elementary,73.1
+650340,Isaac M Bear Early College High School,89.8
+650341,John J Blair Elementary,50.3
+650342,John T Hoggard High,47
+650343,Holly Shelter Middle,46.7
+650345,Lake Forest Academy,N/A
+650346,Mary C Williams Elementary,55.9
+650348,Murrayville Elementary,58.8
+650350,M C S Noble Middle,55.9
+650351,Myrtle Grove Middle,50.1
+650352,New Hanover High,33.4
+650353,Dr Hubert Eaton Sr Elem,75
+650354,J. C. Roe Center,N/A
+650355,Career Readiness Academy at Mosley PLC,N/A
+650356,Ogden Elementary,81.1
+650362,Pine Valley Elementary,50.5
+650364,Roland-Grise Middle,52.3
+650366,Dr John Codington Elem,73.4
+650368,Sunset Park Elementary,45.4
+650380,Walter L Parsley Elementary,80.6
+650384,A H Snipes Academy of Arts/Des,31.3
+650392,Williston Middle,31.5
+650394,Wilmington Early College High,87.7
+650395,SEA-Tech,78.6
+650400,Winter Park Model Elementary,52.6
+650404,Wrightsboro Elementary,35.7
+650408,Wrightsville Beach Elem,69.6
+650420,College Road Early Childhood Center,N/A
+660306,Central Elementary,40.6
+660308,Conway Middle,19
+660320,Gaston Elementary,41.9
+660325,Gaston Middle,24.8
+660360,Willis Hare Elementary,35.8
+660400,Northampton Early College,N/A
+670300,Onslow Early College,N/A
+670304,Bell Fork Elementary,50.5
+670308,Blue Creek Elementary,38.2
+670310,Carolina Forest Elementary,55.3
+670312,Clyde Erwin Elementary,28.8
+670314,Dixon Elementary,66.3
+670318,Dixon Middle,49.9
+670320,Dixon High,53.1
+670321,Hunters Creek Elementary,38.6
+670322,Hunters Creek Middle,40
+670323,Jacksonville Commons Elem,40.4
+670324,Jacksonville High,36.3
+670325,Jacksonville Commons Middle,43.5
+670329,Meadow View Elementary,43
+670330,Morton Elementary,50.3
+670331,New Bridge Middle,55.9
+670332,Northwoods Elementary,40.4
+670333,Northside High,45.2
+670335,Queens Creek Elementary,59.4
+670336,Northwoods Park Middle,43.7
+670337,Heritage Elementary School,40.2
+670338,Parkwood Elementary,56.3
+670339,Richlands Elementary,45
+670340,Richlands High,46.5
+670341,Sand Ridge Elementary,55.5
+670342,Silverdale Elementary,53.8
+670343,Southwest Elementary,50.5
+670344,Southwest High,41.1
+670345,Southwest Middle,41.9
+670346,Summersill Elementary,49.7
+670347,Stateside Elementary,44.8
+670350,Swansboro Elementary,60.6
+670351,Swansboro Middle,48.1
+670352,Swansboro High,57.6
+670356,Trexler Middle,45
+670364,White Oak High,49.4
+680304,A L Stanback Middle,44.3
+680308,Cameron Park Elementary,30.4
+680310,Cedar Ridge High,45.6
+660336,Northampton County High School,<5
+680312,Central Elementary,34.2
+680316,Charles W Stanford Middle,30.2
+680324,Efland Cheeks Elementary,40.2
+680327,Gravelly Hill Middle,37
+680328,Grady Brown Elementary,40.4
+680329,Hillsborough Elementary,55
+680330,New Hope Elementary,37.8
+680332,Orange High,38.4
+680335,Partnership Academy,N/A
+680336,Pathways Elementary,33.6
+681300,Northside Elementary,30.4
+681304,Carrboro Elementary,38.5
+681305,Carrboro High,29.9
+681308,Chapel Hill High,45.4
+681309,McDougle Middle,37.3
+681310,Seawell Elementary,41.5
+681311,Ephesus Elementary,51.7
+681312,Estes Hills Elementary,25
+681314,East Chapel Hill High,46.5
+681316,FPG Elementary,36.5
+681320,Glenwood Elementary,56.8
+681322,Culbreth Middle,38.4
+681324,Phillips Middle,42.9
+681326,McDougle Elementary,41.4
+681328,UNC Hospital School,N/A
+681330,Scroggs Elementary,38.4
+681332,Morris Grove Elementary,32.5
+681334,Rashkis Elementary,58.7
+681336,Smith Middle,32.3
+681338,Phoenix Academy High,N/A
+690312,Fred A Anderson Elementary,41
+690316,Pamlico County Middle,49.3
+690320,Pamlico County High,42.3
+690324,Pamlico County Primary,N/A
+700306,Central Elementary,53.1
+700308,Elizabeth City Middle,32.3
+700310,H L Trigg Community,N/A
+700314,Northside Elementary,56.5
+700316,J C Sawyer Elementary,33.9
+700318,Pasquotank Elementary,19.9
+700317,Northeastern High,24.4
+700320,P W Moore Elementary,29.3
+700322,River Road Middle,39.4
+700324,Sheep-Harney Elementary,43.2
+700325,Elizabeth City Pasquotank Early College,75.8
+700328,Weeksville Elementary,59.8
+710312,Burgaw Elementary,47.6
+710316,Burgaw Middle,51.2
+710318,Cape Fear Elementary,55.6
+710320,Cape Fear Middle,46.2
+710321,Heide Trask High,42.4
+710323,North Topsail Elementary,58.6
+710324,Malpass Corner Elementary,40
+710326,Pender High,37.7
+710327,Pender Early College High,>95
+710328,Penderlea Elementary,48.8
+710332,Rocky Point Elementary,51.9
+710342,Topsail High,52.8
+700319,Pasquotank County High,17.9
+710344,Topsail Elementary,74.6
+710346,Topsail Middle,60.7
+710347,South Topsail Elementary,64.8
+710348,West Pender Middle,41.3
+710350,Surf City Elementary,62.2
+710352,Surf City Middle,58.5
+720304,Perquimans Central,N/A
+720312,Hertford Grammar,44.4
+720316,Perquimans County High,31.3
+720320,Perquimans County Middle,38.2
+730332,Helena Elementary,52.1
+730334,North Elementary,33.5
+730340,North End Elementary,52.6
+730344,Northern Middle,37.5
+730348,Oak Lane Elementary,39.7
+730350,Person Early College Innovation & Ldrshp,37.5
+730354,Stories Creek Elementary,55.4
+730356,South Elementary,29.3
+730360,Southern Middle,47.5
+730368,Woodland Elementary,54.8
+740302,A G Cox Middle,45.2
+740304,Ayden Elementary,40.4
+740308,Ayden Middle,47.3
+740309,Ayden-Grifton High,30.3
+740310,Belvoir Elementary,35.8
+740320,Bethel Elementary,41.6
+740324,C M Eppes Middle,35.6
+740330,Creekside Elementary,39.8
+740332,Chicod,64.7
+740333,D H Conley High,38.8
+730352,Person High,33.2
+740334,Falkland Elementary,30.9
+740336,Eastern Elementary,47
+740337,E B Aycock Middle,36.1
+740338,Elmhurst Elementary,35.8
+740340,Farmville Middle,38.1
+740352,Grifton,36.9
+740358,G R Whitfield,45.8
+740360,H B Sugg Elementary,N/A
+740362,Hope Middle,56.8
+740344,Farmville Central High,26
+740368,Lakeforest Elementary,38.7
+740374,North Pitt High,37.8
+740375,Northwest Elementary,31.2
+740376,Pactolus,46.8
+740378,Vidant Health,9.5
+740379,Ridgewood Elementary,52.5
+740380,W H Robinson Elementary,54.3
+740386,Sam D Bundy Elementary,32.1
+740366,Junius H Rose High,31.6
+740390,South Greenville Elementary,17.6
+740396,Stokes,47.9
+740400,Wahl Coates Elementary,36.7
+740402,Wellcome Middle,49.3
+740404,Wintergreen Intermediate,61.6
+740406,Wintergreen Primary,N/A
+740500,Early College High School,81.5
+740501,Innovation Early College High,83.3
+750304,Tryon Elementary School,68.3
+750314,Polk Central Elementary School,68
+750317,Polk County Early College,N/A
+750318,Polk County High School,53.8
+750319,Polk County Middle School,66.5
+750320,Saluda Elementary School,66.7
+750328,Sunny View Elementary School,58.3
+760304,Archdale Elementary,65.5
+760308,Braxton Craven Middle,55.4
+760316,Coleridge Elementary,48.9
+740388,South Central,29.9
+760318,Eastern Randolph High,32.2
+760320,Farmer Elementary,45.1
+760324,Franklinville Elementary,42.9
+760328,Grays Chapel Elementary,52.3
+760329,Hopewell Elementary,69.6
+760330,John R Lawrence Elementary,54.5
+760331,Level Cross Elementary,50.4
+760332,Liberty Elementary,31.5
+760336,New Market Elementary,43
+760338,Northeastern Randolph Middle,41.5
+760340,Ramseur Elementary,59.6
+760344,Randleman Elementary,53.6
+760348,Randleman High,39.6
+760352,Randleman Middle,45.3
+760354,Randolph Early College High,>95
+760356,Seagrove Elementary,54.5
+760357,Southeastern Randolph Middle,33.4
+760358,Southwestern Randolph High,37
+760359,Southmont Elementary,45.3
+760360,Southwestern Randolph Middle,40.8
+760364,Tabernacle Elementary,57.1
+760368,Trindale Elementary,66.2
+760376,Trinity Elementary,60.8
+760378,Archdale-Trinity Middle,43.8
+760380,Trinity High,55.5
+760339,Providence Grove High,30.9
+760382,Uwharrie Ridge Six-Twelve,33.4
+760388,Wheatmore High,45.4
+761304,Asheboro High,48.9
+761308,South Asheboro Middle,46.9
+761312,Balfour Elementary,59.2
+761320,Charles W McCrary Elementary,42.8
+761321,Donna L Loflin Elementary,40.6
+761328,Guy B Teachey Elementary,57.3
+761332,Lindley Park Elementary,49.7
+761336,North Asheboro Middle,44.9
+770310,East Rockingham Elementary,51.9
+770316,Ellerbe Middle,45
+770318,Fairview Heights Elementary,56.4
+770328,Hamlet Middle,51.3
+770340,L J Bell Elementary,45.8
+770342,Ashley Chapel Educational Center,N/A
+770344,Mineral Springs Elementary,58.6
+770346,Monroe Avenue Elementary,45.3
+770348,Richmond Senior High,40.9
+770349,Richmond Early College High,>95
+770351,Richmond 9th Grade Academy,44.4
+770360,Rockingham Middle,49.8
+770364,Cordova Middle,48.1
+770368,West Rockingham Elementary,58.1
+770370,Washington Street Elementary,43.1
+780320,Deep Branch Elementary,39.1
+780322,East Robeson Primary,80.6
+780324,Fairgrove Middle,31.2
+780325,Fairmont High,28.6
+780326,Fairmont Middle,22.9
+780328,Green Grove Elementary,58.5
+780329,Janie C Hargrave Elem,34
+780330,L Gilbert Carroll Middle,39
+780331,Robeson Co Career Ctr,N/A
+780336,Littlefield Middle,43.3
+780340,Long Branch Elementary,51.2
+780341,Lumberton Junior High,20.1
+780342,Lumberton Senior High,31
+780344,Magnolia Elementary,42
+780352,Orrum Middle,22.9
+780356,Oxendine Elementary,40.1
+780360,Parkton Elementary,32.6
+780364,Pembroke Elementary,39.2
+780368,Pembroke Middle,31.6
+780374,Peterson Elementary,38.1
+780376,Piney Grove Elementary,37.1
+780384,Prospect Elementary,43.3
+780385,PSRC Early College at RCC,>95
+780390,R B Dean Elementary,32.7
+780391,Red Springs High,38.9
+780392,Rex-Rennert Elementary,22.8
+780393,Red Springs Middle,25.5
+780394,Rosenwald Elementary,32.3
+780396,Rowland Middle,26.7
+780398,Rowland Norment Elementary,54.7
+780400,Saint Pauls Elementary,32.8
+780401,Saint Pauls High,37.5
+780403,Saint Pauls Middle,36.9
+780407,Tanglewood Elementary,63.8
+780410,Townsend Middle,18.6
+780412,Union Chapel Elementary,35
+780416,Union Elementary,41.5
+780417,W H Knuckles,36.6
+780420,Purnell Swett High,38.1
+790302,Bethany Elementary,68.5
+790310,Central Elementary,52.3
+780402,South Robeson High,18.2
+790314,Dalton McMichael High,45.9
+790318,Douglass Elementary,52.4
+790327,Huntsville Elementary,41.7
+790330,J E Holmes Middle,43.1
+790344,Leaksville-Spray Elementary,42.4
+790347,Lincoln Elementary,49
+790350,Monroeton Elementary,48.2
+790362,John W Dillard Academy,50.2
+790366,Reidsville High,38.4
+790374,Reidsville Middle,36
+790378,Rockingham County High,44.7
+790354,John M Morehead High,21.9
+790379,Rockingham Co Early College High,83
+790380,Rockingham County Middle,51.3
+790386,South End Elementary,34.5
+790390,Stoneville Elementary,44.9
+790392,The SCORE Center,N/A
+790394,Western Rockingham Middle,44.8
+790398,Wentworth Elementary,63.5
+790402,Williamsburg Elementary,47.8
+800308,Henderson High,N/A
+800312,Bostian Elementary,44.7
+800314,Erwin Middle,35.7
+800315,Overton Elementary,24.2
+800316,China Grove Elementary,27.5
+800320,China Grove Middle,38.1
+800328,Corriher Lipe Middle,34.3
+800340,East Rowan High,36.6
+800346,Koontz Elementary,14.1
+800347,Shive Elementary,42.2
+800348,Enochville Elementary,44.8
+800352,Faith Elementary,51.9
+800356,Granite Quarry Elementary,44.2
+800358,Isenberg Elementary,29.5
+800359,Dole Elementary,21.8
+800360,Hurley Elementary,19.3
+800361,Carson High,39.4
+800362,Knollwood Elementary,33.3
+800363,Knox Middle,12
+800364,Landis Elementary,52.2
+800366,Millbridge Elementary,42.5
+800368,Morgan Elementary,44.4
+800372,Mt Ulla Elementary,45
+800373,North Rowan Elementary,12.2
+800377,North Rowan Middle,15.6
+800392,Rockwell Elementary,40.8
+800394,Rowan Co Early College,76
+800376,North Rowan High,16.4
+800398,Southeast Middle,31.6
+800396,Salisbury High,20.5
+800406,West Rowan Elementary,48.2
+800400,South Rowan High,21.9
+800410,West Rowan Middle,32.3
+810324,Chase High School,51.7
+810326,Chase Middle School,54.5
+810328,Cliffside Elementary School,72.4
+810336,Forest City-Dunbar Elementary School,54.7
+810340,East Rutherford High School,44.7
+800408,West Rowan High,29
+810342,East Rutherford Middle School,48.6
+810344,Ellenboro Elementary School,59.5
+810350,Forrest W. Hunt Elementary School,67.5
+810360,Harris Elementary School,60.1
+810364,Mt. Vernon-Ruth Elementary School,55.1
+810370,Pinnacle Elementary School,65.3
+810378,R-S Middle School,48.3
+810384,R-S Central High School,41.7
+810385,Rutherford Early College High School,N/A
+810386,Rutherford Opportunity Center,N/A
+810388,Rutherfordton Elementary School,59.2
+810396,Spindale Elementary School,47.3
+810400,Sunshine Elementary School,75
+820312,Roseboro Elementary,56.2
+820320,Clement Elementary,83
+820324,Sampson Early College High,>95
+820340,Hargrove Elementary,70.5
+820346,Hobbton Elementary,57.6
+820347,Hobbton Middle,58.6
+820348,Hobbton High,55.3
+820349,Lakewood High,62.6
+820350,Midway Elementary,58.4
+820352,Midway High,65.9
+820354,Midway Middle,58.5
+820364,Plain View Elementary,70.3
+820370,Union Middle,51.2
+820372,Roseboro-Salemburg Middle,49.7
+820376,Salemburg Elementary,51.4
+820384,Union Elementary,72.7
+820385,Union Intermediate,56.2
+820388,Union High,50
+821304,Butler Avenue Elementary,56.4
+821308,Clinton High,36.6
+821316,Langdon C Kerr Elementary,N/A
+821320,Sampson Middle,40
+821330,Sunset Avenue Elementary,51.8
+830304,Carver Middle,41.2
+830312,Covington Street Elementary,20.1
+830316,Shaw Academy,N/A
+830320,I E Johnson Elementary,37.7
+830328,Laurel Hill Elementary,42.5
+830348,Scotland Early College High,93.8
+830349,Spring Hill Middle,41
+830356,South Scotland Elementary,38.4
+830360,Wagram Elementary,38
+830364,Sycamore Lane Elementary,25.6
+830343,Scotland High School,34.7
+840303,Albemarle Middle,42
+840304,Aquadale Elementary,49.3
+840308,Badin Elementary,62.9
+840310,Central Elementary,27.7
+840312,Endy Elementary,53.6
+840316,East Albemarle Elementary,32.3
+840320,Locust Elementary,60.2
+840324,Millingport Elementary,47.1
+840328,North Stanly Middle,46
+840332,North Stanly High,41.6
+840336,Norwood Elementary,41.7
+840342,Oakboro Choice STEM,43.9
+840344,Richfield Elementary,52.1
+840350,West Stanly Middle School,47.5
+840302,Albemarle High,25.4
+840356,South Stanly High,31.9
+840358,South Stanly Middle,44.2
+840360,Stanfield Elementary,56.3
+840361,Stanly Early College High,83
+840366,Stanly County Virtual Education,N/A
+840368,West Stanly High,60.8
+840370,Stanly Academy Learning Center,N/A
+850304,Chestnut Grove Middle,48.9
+850312,Germanton Elementary,31.4
+850314,Mount Olive Elementary,59.7
+850316,King Elementary,55.1
+850320,Lawsonville Elementary,53.6
+850324,Meadowbrook Academy,N/A
+850328,Nancy Reynolds Elementary,65.6
+850332,North Stokes High,55.7
+850336,Pine Hall Elementary,43.5
+850338,Piney Grove Middle,52.3
+850340,Pinnacle Elementary,69.4
+850342,Poplar Springs Elementary,50.5
+850348,Sandy Ridge Elementary,67.5
+850350,Southeastern Middle,40.4
+850352,South Stokes High,51.1
+850354,London Elementary,57.9
+850356,Walnut Cove Elementary,65
+850358,West Stokes High,51.4
+850360,Stokes Early College,75
+860302,Cedar Ridge Elementary,54.1
+860306,Central Middle,55.7
+860308,Copeland Elementary,66
+860312,Dobson Elementary,61.4
+860316,East Surry High,45.5
+860320,Flat Rock Elementary,62.9
+860324,Franklin Elementary,57.7
+860326,J Sam Gentry Middle,59.4
+860330,Meadowview Magnet Middle,55.9
+860332,Mountain Park Elementary,65.5
+860336,North Surry High,40.2
+860339,Pilot Mountain Elementary,51
+860340,Pilot Mountain Middle,57
+860344,Rockford Elementary,56.7
+860348,Shoals Elementary,68.6
+860352,Surry Central High,46
+860354,Surry Early College,87.2
+860356,Westfield Elementary,52.4
+860360,White Plains Elementary,63.7
+861304,Elkin Elementary,55.7
+861308,Elkin High,55.9
+861312,Elkin Middle,56.8
+862308,Bruce H Tharrington Primary,N/A
+862310,Jones Intermediate,40.3
+862312,Mount Airy High,59.8
+862316,Mount Airy Middle,60.6
+870314,Swain County High School,44
+870318,Swain County Middle School,50.8
+870320,Swain County East Elementary,52.3
+870324,Swain County West Elementary,47.8
+880304,Brevard Elementary,43.1
+880308,Brevard High,55.5
+880312,Brevard Middle,53.7
+880318,Pisgah Forest Elementary,44.6
+880320,Davidson River School,N/A
+880324,Rosman Elementary,49.5
+880328,Rosman High,42.2
+880330,Rosman Middle,61.3
+880336,T C Henderson,68.3
+890306,Columbia Middle,31.9
+890308,Tyrrell Elementary,32.3
+900302,Antioch Elementary,50
+900303,Rea View Elementary,N/A
+900304,Benton Heights Elementary,37.8
+900305,New Town Elementary,N/A
+900306,East Elementary,31.7
+900307,Rocky River Elementary,59.1
+900308,East Union Middle,46.4
+900310,Cuthbertson Middle,80.4
+900311,Cuthbertson High,68.3
+900312,Fairview Elementary,62.3
+900314,Monroe Middle,40.2
+900316,Forest Hills High,42.1
+890304,Columbia High,31
+900318,Hemby Bridge Elementary,60.9
+900320,Indian Trail Elementary,53.5
+900328,Kensington Elementary,92.9
+900332,Marshville Elementary,44.1
+900334,Marvin Elementary,N/A
+900336,Monroe High,37.4
+900340,New Salem Elementary,60
+900341,Porter Ridge Elementary,53.6
+900342,Porter Ridge High School,49.6
+900343,Porter Ridge Middle School,62.7
+900344,Parkwood High,51.2
+900346,Parkwood Middle,47.4
+900347,Poplin Elementary,68.8
+900348,Piedmont High,49.3
+900350,Piedmont Middle,54.5
+900351,Rock Rest Elementary,63.7
+900352,Prospect Elementary,39.6
+900353,Sandy Ridge Elementary,60
+900354,Sardis Elementary,64.6
+900356,Shiloh Elementary,62.6
+900358,Stallings Elementary,64.9
+900360,Sun Valley High,46.3
+900362,Sun Valley Middle,52.1
+900363,Sun Valley Elementary,59.2
+900364,Union Elementary,61.7
+900365,South Providence,N/A
+900366,Central Academy of Technology and Arts,88.9
+900367,Union County Early College,91.3
+900368,Unionville Elementary,73
+900370,Walter Bickett Elementary,36
+900372,Waxhaw Elementary,50.5
+900376,Weddington Elementary,N/A
+900377,Weddington High,70.8
+900378,Weddington Middle,79.6
+900380,Wesley Chapel Elementary,83.8
+900384,Western Union Elementary,50.6
+900388,Wingate Elementary,41.6
+900391,Marvin Ridge Middle,73.1
+900392,Wolfe School,N/A
+900393,Marvin Ridge High,N/A
+910304,Aycock Elementary,46.9
+910308,Carver Elementary,42.6
+910311,Clarke Elementary,48.2
+910314,Dabney Elementary,43
+910316,Vance County Middle School,28.8
+910340,New Hope Elementary,35.8
+910346,E O Young Jr Elementary,34
+910356,Pinkston Street Elementary,52.6
+910360,E M Rollins Elementary,30.5
+910368,AdVance Academy,N/A
+910376,L B Yancey Elementary,55.7
+910380,Zeb Vance Elementary,46.9
+910382,Vance Co Early College,88.9
+910384,STEM Early High,77.4
+920302,River Bend Elementary,41
+920303,Abbotts Creek Elementary,43.3
+920304,Adams Elementary,38.8
+920306,Herbert Akins Rd Elementary,50
+920307,Alston Ridge Elementary,56.9
+920308,Apex Elementary,47.4
+920312,Apex Middle,39.1
+920315,Apex Friendship Middle,53.7
+920316,Apex High,50.8
+910370,Vance County High School,22.5
+920317,Apex Friendship High,58.6
+920320,Aversboro Elementary,32.7
+920324,Longview,N/A
+920325,Banks Road Elementary,37.4
+920326,Baileywick Road Elementary,32.4
+920327,Ballentine Elementary,32.8
+920328,Baucom Elementary,52.9
+920329,Barwell Road Elementary,28.7
+920332,Beaverdam Elementary,39.7
+920334,Brassfield Elementary,27.1
+920336,Brentwood Elementary,42.7
+920340,Briarcliff Elementary,51.4
+920342,Brier Creek Elementary,34.6
+920344,Brooks Elementary,25.2
+920318,Athens Drive High,35.6
+920349,Bryan Road Elementary,53.5
+920351,Buckhorn Creek Elementary,30.5
+920352,Bugg Elementary,17.5
+920356,Carnage Middle,32.4
+920358,Carpenter Elementary,36.5
+920360,Carroll Middle,34.9
+920362,Carver Elementary,46.3
+920364,Cary Elementary,43.1
+920368,Cary High,36.8
+920348,Needham Broughton High,22.5
+920369,Cedar Fork Elementary,72.4
+920370,Centennial Campus Middle,30.9
+920376,Combs Elementary,53.5
+920380,Conn Elementary,41.5
+920381,Connections Academy,N/A
+920384,Creech Road Elementary,45.6
+920386,Crossroads FLEX,N/A
+920388,Daniels Middle,40.7
+920390,Davis Drive Elementary,65.2
+920391,Davis Drive Middle,62.9
+920393,Dillard Drive Elementary,49.2
+920394,Dillard Drive Middle,33.7
+920396,Douglas Elementary,27
+920398,Durant Road Elementary,34.6
+920399,Durant Road Middle,38.4
+920400,Reedy Creek Middle,42.5
+920402,East Cary Middle,35.3
+920403,East Garner Elementary,42.9
+920404,East Garner Middle,42.5
+920408,East Millbrook Middle,37
+920410,East Wake Middle,32.1
+920411,East Wake High,37.1
+920413,Forestville Road Elementary,36.3
+920414,Farmington Woods Elementary,46.7
+920415,Fox Road Elementary,50
+920416,Fuller Elementary,27.8
+920417,Forest Pines Drive Elementary,43.4
+920420,Fuquay-Varina Elementary,45.1
+920424,Fuquay-Varina Middle,46
+920428,Fuquay-Varina High,42.4
+920412,Enloe High,20.6
+920438,River Oaks Middle,N/A
+920439,Green Hope Elementary,56.5
+920440,Green Elementary,34.7
+920441,Green Hope High,51.9
+920442,Hilburn Drive Academy,46.4
+920443,Highcroft Elementary,59.5
+920444,Heritage Middle,59.8
+920445,Heritage High,46.2
+920436,Garner High,31.2
+920446,Hodge Road Elementary,31.4
+920447,Holly Springs Elementary,56
+920448,Hunter Elementary,36.8
+920449,Holly Ridge Elementary,58
+920450,Holly Ridge Middle,38.3
+920451,Harris Creek Elementary,51.5
+920452,Jeffreys Grove Elementary,52.4
+920453,Jones Dairy Elementary,56.3
+920454,Heritage Elementary,47.1
+920455,Holly Springs High,44.1
+920456,Joyner Elementary,31.7
+920457,Holly Grove Elementary,65.9
+920458,Holly Grove Middle,42.8
+920459,Hortons Creek Elementary,48.6
+920460,Kingswood Elementary,56.7
+920464,Knightdale Elementary,40.1
+920467,Laurel Park Elementary,26.1
+920468,Lacy Elementary,35.5
+920469,Leesville Road Elementary,40.3
+920470,Lead Mine Elementary,37.4
+920471,Leesville Road Middle,46.8
+920472,Ligon Middle,26.3
+920473,Leesville Road High,51.1
+920466,Knightdale High,22.3
+920474,Lake Myra Elementary,40.8
+920476,Lincoln Heights Elementary,32.2
+920480,Lockhart Elementary,37.6
+920484,Lufkin Road Middle,38.2
+920488,Lynn Road Elementary,44.8
+920492,Martin Middle,32.4
+920494,Middle Creek Elementary,41
+920496,Millbrook Elementary,31.3
+920500,Millbrook High,38.6
+920495,Middle Creek High,30.1
+920501,Mills Park Elementary,53.8
+920502,Mills Park Middle,63.9
+920504,Morrisville Elementary,64.3
+920506,Moore Square Middle,28.8
+920508,Mount Vernon,N/A
+920512,North Garner Middle,42.3
+920514,North Forest Pines Elementary,44.5
+920516,North Ridge Elementary,38.8
+920518,North Wake College and Career Academy,72.4
+920520,Northwoods Elementary,49.5
+920521,Oakview Elementary,54.4
+920522,Oak Grove Elementary,30
+920523,Olive Chapel Elementary,67
+920524,Olds Elementary,32.9
+920525,Partnership Elementary,45.6
+920526,Panther Creek High,58.2
+920528,Phillips High,N/A
+920529,Pine Hollow Middle,43
+920530,Penny Road Elementary,47.5
+920531,Pleasant Union Elementary,40.5
+920532,Poe Elementary,31.7
+920533,Pleasant Grove Elementary,39.3
+920536,Powell Elementary,26.6
+920540,Rand Road Elementary,37
+920542,Reedy Creek Elementary,41
+920543,Richland Creek Elementary,47.3
+920544,Rolesville Elementary,46.8
+920545,Rolesville Middle,43.6
+920546,Rolesville High,39
+920547,Rogers Lane Elementary,31.1
+920548,Root Elementary,19.7
+920549,River Bend Middle,35.5
+920550,Salem Elementary,29.7
+920551,Salem Middle,41.3
+920554,Sanford Creek Elementary,42.6
+920556,SCORE Academy,N/A
+920557,Scotts Ridge Elementary,58.3
+920560,Smith Elementary,45.8
+920552,Sanderson High,30.9
+920561,South Garner High,30.8
+920564,Stough Elementary,39.3
+920568,Swift Creek Elementary,40.3
+920569,Sycamore Creek Elementary,63.2
+920570,Timber Drive Elementary,31
+920571,Turner Creek Elementary,39.6
+920572,Underwood Elementary,31.6
+920576,Vance Elementary,39
+920580,Vandora Springs Elementary,35.9
+920581,Vernon Malone College and Career Academy,65.3
+920582,Wake STEM Early College High School,N/A
+920583,Wake Early College of Health and Science,>95
+920584,Wake Forest Elementary,45.3
+920585,Wake Young Men's Leadership Academy,74.8
+920586,Wake Young Women's Leadership Academy,90.1
+920562,Southeast Raleigh High,29.8
+920592,Wake Forest Middle School,39.5
+920593,Wakefield Elementary,35.6
+920594,Wakefield Middle,40.9
+920588,Wake Forest High School,33.3
+920596,Washington Elementary,31.2
+920597,Wakelon Elementary,45.5
+920598,Weatherstone Elementary,53.9
+920599,Walnut Creek Elementary,35.9
+920600,Wendell Elementary,37.7
+920601,Wendell Middle,39
+920604,West Cary Middle,47.5
+920606,West Lake Elementary,31.3
+920607,West Lake Middle,39.4
+920608,West Millbrook Middle,31.8
+920614,White Oak Elementary,N/A
+920616,Wilburn Elementary,45.7
+920618,Wildwood Forest Elementary,32.4
+920620,Wiley Elementary,20.5
+920624,Willow Springs Elementary,69.8
+920626,Yates Mill Elementary,49
+920628,York Elementary,51.1
+920632,Zebulon Elementary,31.9
+920636,Zebulon Middle,46.6
+930330,Mariam Boyd Elementary,40.5
+930340,Northside K-8,36.5
+930344,South Warren Elementary,46.4
+930348,Vaughan Elementary,50
+920595,Wakefield High,35.4
+930354,Warren County Middle,30.6
+930360,Warren Early College High,N/A
+930352,Warren County High,17.1
+940306,Creswell Elementary,36.5
+940314,Pines Elementary,31.6
+940328,Washington County Middle,27.5
+940330,Washington Early College High,N/A
+950308,Bethel Elementary,46.7
+950312,Blowing Rock Elementary,64.6
+950316,Cove Creek Elementary,52.2
+950320,Green Valley Elementary,50.3
+950322,Hardin Park Elementary,54.8
+950324,Mabel Elementary,47.8
+950328,Parkway Elementary,57.4
+950332,Valle Crucis Elementary,45.1
+950336,Watauga High,48.3
+950338,Watauga Innovation Academy,63
+960312,Brogden Middle,28.2
+960314,Brogden Primary,35.9
+960316,Carver Elementary,39
+960318,Carver Heights Elementary,27.2
+960324,Charles B Aycock High,42.9
+930700,Warren New Tech High,24.2
+960326,Dillard Middle,17.2
+960329,Eastern Wayne Elementary,37.9
+960330,Eastern Wayne High,35
+940316,Washington County High,18.8
+960331,Eastern Wayne Middle,33.5
+960332,Edgewood Cmty Developmental,N/A
+960334,Fremont STARS Elementary,51.4
+960336,Grantham Elementary,67.4
+960338,Grantham Middle,36.3
+960340,Greenwood Middle,44
+960344,Meadow Lane Elementary,52.9
+960348,Mount Olive Middle,34.7
+960360,Norwayne Middle,44.8
+960370,Rosewood Elementary,45.2
+960372,Rosewood High,38.7
+960374,Rosewood Middle,38.7
+960335,Goldsboro High,11.1
+960382,Spring Creek Elementary,49.3
+960380,Southern Wayne High,27.5
+960386,Spring Creek High,37
+960387,Spring Creek Middle,42.5
+960388,Tommy's Road Elementary,48.9
+960390,North Drive Elementary,N/A
+960450,Northeast Elementary,53.7
+960454,Northwest Elementary,47.3
+960488,Wayne Middle / High Academy,N/A
+960490,Wayne Early / Middle College High,86.6
+960700,Wayne School of Engineering,72.6
+970308,Boomer-Ferguson Elementary School,67.9
+970310,C B Eller Elementary School,60.5
+970312,C C Wright Elementary School,50.6
+970315,Central Wilkes Middle School,42.3
+970320,East Wilkes High School,46.8
+970322,East Wilkes Middle School,55.2
+970337,Millers Creek Elementary School,44.8
+970340,Moravian Falls Elementary School,72.8
+970344,Mount Pleasant Elementary School,50
+970348,Mountain View Elementary School,36
+970352,Mulberry Elementary School,60
+970356,North Wilkes High School,51
+970358,North Wilkes Middle School,38
+970360,North Wilkesboro Elementary School,54.5
+970368,Roaring River Elementary School,51.6
+970370,Ronda-Clingman Elementary School,57.9
+970376,Traphill Elementary School,50
+970388,West Wilkes High School,30.1
+970389,West Wilkes Middle School,51.5
+970390,Wilkes Central High School,30.7
+422315,Weldon STEM High School Career Academies,10.8
+970392,Wilkesboro Elementary School,43.1
+970393,Wilkes Early College High School,>95
+980306,Milton M Daniels Learning Center,N/A
+980308,B O Barnes Elementary,18
+980317,Charles H Darden Middle,39.1
+980318,Beddingfield High,58.6
+980320,Frederick Douglass Elementary,52.5
+980324,Elm City Middle,52.1
+980336,Fike High,43.2
+980338,Forest Hills Middle,59.9
+980340,Gardners Elementary,70.9
+980342,James Hunt High,55.3
+980344,John W Jones Elementary,40.1
+980348,Lee Woodard Elementary,52.3
+980352,Lucama Elementary,62.2
+980356,Margaret Hearne Elementary,22.7
+980357,Vick Elementary,31.3
+980360,New Hope Elementary,64.2
+980364,Rock Ridge Elementary,78.6
+980380,Speight Middle,47.2
+980384,Springfield Middle,71.2
+980388,Stantonsburg Elementary,47.9
+980390,Toisnot Middle,48.1
+980392,Vinson-Bynum Elementary,53.1
+980396,Wells Elementary,53.6
+980397,Wilson Academy of Applied Technology,75
+980398,Wilson Early College Academy,N/A
+980400,Winstead Elementary,35.7
+990304,Boonville Elementary,62.1
+990308,Courtney Elementary,64.9
+990312,East Bend Elementary,46.9
+990316,Fall Creek Elementary,56.3
+990320,Forbush Elementary,59
+990321,Forbush Middle,51.4
+990322,Forbush High,45.4
+990324,Jonesville Elementary,51.8
+990325,Starmount Middle,53.4
+990326,Starmount High,45.6
+990328,West Yadkin Elementary,48.2
+990332,Yadkin Early College,85.4
+990336,Yadkinville Elementary,51.4
+990340,Yadkin Success Academy,N/A
+995304,Bald Creek Elementary,84.4
+995312,Burnsville Elementary,40.6
+995316,Cane River Middle,51.7
+995320,Clearmont Elementary,46
+995324,East Yancey Middle,53.1
+995328,Micaville Elementary,52
+995330,Mountain Heritage High,49
+995336,South Toe Elementary,54.3
+34Z000,Appalachian Academy at Middle Fork,N/A
+50Z000,Catamount School,40
+65Z000,D.C. Virgo Preparatory Academy,25.2
+74Z000,ECU Community School,N/A
+79Z000,Moss Street Partnership School,12.7
+94Z000,Northeast Regional School - Biotech/Agri,69.4
+00A000,North Carolina Cyber Academy,30
+00B000,NC Virtual Academy,34.9
+01B000,River Mill Academy,49.5
+01C000,Clover Garden,56.3
+01D000,The Hawbridge School,53.1
+06A000,Grandfather Academy,N/A
+06B000,Marjorie Williams Academy,36.4
+07A000,Washington Montessori,54.8
+08A000,Three Rivers Academy,7.6
+09A000,Paul R Brown Leadership Academy,22.1
+09B000,Emereau Bladen,44
+10A000,Charter Day School,69.4
+10B000,South Brunswick Charter,67.9
+11A000,Evergreen Community Charter,67.2
+11B000,ArtSpace Charter School,61
+11C000,IC Imagine,43.6
+11D000,The Franklin School of Innovation,51.9
+11K000,Francine Delany New School,53.1
+12A000,New Dimensions,50
+13A000,Carolina International School,41.1
+13B000,Cabarrus Charter Academy,35.8
+13C000,A.C.E. Academy,33.3
+13D000,Concord Lake STEAM Academy,32.9
+16B000,Tiller School,63.3
+19A000,Chatham Charter,50.6
+19B000,Woods Charter,N/A
+19C000,Willow Oak Montessori,N/A
+20A000,The Learning Center,44.7
+23A000,Pinnacle Classical Academy,66.3
+24B000,Thomas Academy,N/A
+24N000,Columbus Charter School,55.6
+26B000,Alpha Academy,61.5
+26C000,The Capitol Encore Academy,38.2
+27A000,Water's Edge Village School,N/A
+29A000,Davidson Charter Academy CFA,36.4
+32A000,Maureen Joy Charter School,58.8
+32B000,Healthy Start Academy,39.3
+32C000,Carter Community Charter,26.8
+32D000,Kestrel Heights School,28.6
+32H000,Research Triangle Charter,43.7
+32K000,Central Park School For Child,34.6
+32L000,Voyager Academy,55
+32M000,Global Scholars Academy,47.8
+32N000,Research Triangle High School,N/A
+32P000,The Institute Development Young Leaders,33
+32Q000,Reaching All Minds Academy,19.2
+32R000,Excelsior Classical Academy,27.3
+32S000,KIPP Durham College Preparatory,34.6
+33A000,North East Carolina Prep,38.8
+34B000,Quality Education Academy,37.1
+34D000,Carter G Woodson School,24.5
+34F000,Forsyth Academy,44.1
+34G000,The Arts Based School,34.8
+34H000,NC Leadership Charter Academy,74.3
+35A000,Crosscreek Charter School,40.6
+35B000,Youngsville Academy,N/A
+36B000,Piedmont Community Charter School,59.5
+36C000,Mountain Island Charter School,65
+39A000,Falls Lake Academy,64.7
+39B000,Oxford Preparatory,43.9
+41B000,Greensboro Academy,75
+41C000,Guilford Preparatory Academy,43.3
+41D000,"Phoenix Academy- Primary, Elem. IB MYP",48.8
+41F000,Triad Math and Science Academy,52.3
+41G000,Cornerstone Charter Academy-CFA,54.1
+41H000,College Prep and Leadership Academy,42.6
+41J000,Summerfield Charter Academy,75
+41L000,Gate City Charter,39.8
+41M000,Next Generation Academy,N/A
+41N000,The Experiential School of Greensboro,32.7
+42A000,KIPP Halifax College Prep,37.3
+43C000,Anderson Creek Academy,N/A
+44A000,Shining Rock Classical Academy CFA,36.3
+45A000,The Mountain Community Sch,63.2
+45B000,FernLeaf Community Charter School,47.1
+49B000,American Renaissance School,54.8
+49D000,Success Institute Charter,27.4
+4.90E+01,Pine Lake Preparatory,52.1
+49F000,Langtree Charter Academy,50.7
+49G000,Iredell Charter Academy,33.8
+50A000,Summit Charter,N/A
+51A000,Neuse Charter School,53.6
+51B000,Johnston Charter Academy,52.4
+53B000,Ascend Leadership Academy Lee County,31.5
+54A000,Children's Village Academy,28.4
+55A000,Lincoln Charter School,72
+58B000,Bear Grass Charter School,59
+60B000,Sugar Creek Charter,52.1
+60D000,Lake Norman Charter,72.7
+60F000,Metrolina Reg Scholars Academy,N/A
+60G000,Queen's Grant Community School,51.6
+60I000,Community School of Davidson,N/A
+60J000,Socrates Academy,62.9
+60K000,Charlotte Secondary,31.5
+60L000,KIPP Charlotte,31
+60M000,Corvian Community School,65.3
+60N000,Aristotle Preparatory Academy,46.1
+60P000,Charlotte Choice Charter,26.1
+60Q000,Invest Collegiate Transform,23
+60S000,Bradford Preparatory School,46.7
+60U000,Commonwealth High,N/A
+60V000,Charlotte Learning Academy,12.8
+60Y000,Pioneer Springs Community School,N/A
+61J000,Lakeside Charter Academy,N/A
+61K000,United Community School,46.9
+61L000,Stewart Creek High,N/A
+61M000,Charlotte Lab School,37.5
+61N000,Queen City STEM School,34.6
+61P000,"VERITAS Community School, CFA",25
+61Q000,Mallard Creek STEM Academy,46.3
+61R000,Matthews Charter Academy,50.3
+61S000,Unity Classical Charter,N/A
+61T000,Movement Charter School,40.8
+61U000,UpROAR Leadership Academy,<5
+61W000,East Voyager Academy of Charlotte,N/A
+61X000,Mountain Island Day Community Charter,29.5
+63A000,The Academy of Moore County,80.8
+63B000,STARS Charter,65.4
+63C000,Moore Montessori Community School,N/A
+64A000,Rocky Mount Preparatory,29.9
+65A000,Cape Fear Center for Inquiry,61
+65B000,Wilmington Preparatory Academy,42.1
+65C000,Douglass Academy,43.2
+65D000,Island Montessori Charter School,43.8
+65F000,Coastal Preparatory Academy,54.9
+65G000,Girls Leadership Academy of Wilmington,33
+66A000,KIPP Gaston College Preparatory,45.2
+67B000,Z.E.C.A. School of Arts and Technology,25
+68A000,Eno River Academy,N/A
+68C000,The Expedition School,N/A
+69A000,Arapahoe Charter School,51.4
+70A000,Northeast Academy of Aerospace & AdvTech,36.5
+73A000,Bethel Hill Charter,58.9
+73B000,Roxboro Community School,54.1
+74B000,Ignite Innovation Academy - Pitt,10.2
+74C000,Winterville Charter Academy,47.2
+76A000,Uwharrie Charter Academy,46.2
+78A000,CIS Academy,44
+78B000,Southeastern Academy,76.3
+79A000,Bethany Community School,56.4
+80B000,Essie Mae Kiser Foxx Charter,<5
+81A000,Thomas Jefferson Class Academy,80.7
+81B000,Lake Lure Classical Academy,62.9
+84B000,Gray Stone Day,74.4
+86T000,Millennium Charter Academy,58.2
+87A000,Mountain Discovery,42.1
+88A000,Brevard Academy,52.2
+90A000,Union Academy,48.1
+90B000,Union Day School,N/A
+90C000,Union Prep Academy at Indian Trail,60.8
+91A000,Vance Charter School,62.6
+91B000,Henderson Collegiate,72.5
+92B000,The Exploris School,N/A
+92D000,Magellan Charter,N/A
+9.20E+01,Sterling Montessori Academy,N/A
+92F000,Franklin Academy,N/A
+92G000,East Wake Academy,50.5
+92K000,Raleigh Charter High School,N/A
+92L000,Torchlight Academy,48.3
+92M000,PreEminent Charter,45.4
+92N000,Quest Academy,N/A
+92P000,Southern Wake Academy,46
+92Q000,Hope Charter Leadership Academy,25
+92R000,Casa Esperanza Montessori Charter School,28.1
+92S000,Endeavor Charter,N/A
+92T000,Triangle Math and Science Academy,66.7
+92U000,Longleaf School of the Arts,N/A
+92V000,Wake Forest Charter Academy,70.9
+92W000,Cardinal Charter Academy,51.3
+92Y000,Envision Science Academy,N/A
+93A000,Haliwa-Saponi Tribal School,31.7
+93J000,PAVE Southeast Raleigh Charter,36.2
+93L000,Central Wake High School,N/A
+93M000,Peak Charter Academy,61.8
+93N000,Pine Springs Prep Academy,N/A
+93P000,Rolesville Charter Academy,55.4
+93R000,Raleigh Oak Charter,N/A
+95A000,Two Rivers Community School,58.1
+96C000,Dillard Academy,31.7
+96F000,Wayne Preparatory Academy,33.7
+97D000,Bridges Academy,31.8
+98A000,Sallie B Howard School,59.9
+98B000,Wilson Preparatory Academy,50
