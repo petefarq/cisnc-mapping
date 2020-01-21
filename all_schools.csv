@@ -1,0 +1,734 @@
+affiliate,name,CISNC_school,code,county,city,full_address,Longitude,Latitude,district,region,title_I,percent_EDS,S_P_grade,growth_status,EOG,grad_rate
+N/A,Broadview Middle,no,10310,Alamance,Burlington,"2229 Broadview Drive, Burlington, NC 27217",-79.3969707,36.0874369,Alamance-Burlington Schools,Piedmont-Triad,Y,55.3,F,Not Met,28.1,N/A
+"CIS of Brunswick County, Inc.",Supply Elementary,yes,100338,Brunswick,Supply,"51 Benton Road SE, Supply, NC 28462",-78.258371,34.0251019,Brunswick County Schools,Southeast,Y,84.7,D,Not Met,44.8,N/A
+N/A,B Everett Jordan Elem,no,10346,Alamance,Graham,"5827 Church Road, Graham, NC 27253",-79.3267517,35.9397887,Alamance-Burlington Schools,Piedmont-Triad,Y,59.6,D,Not Met,41.6,N/A
+N/A,Graham Middle,no,10350,Alamance,Graham,"311 E Pine Street, Graham, NC 27253",-79.4052184,36.0683622,Alamance-Burlington Schools,Piedmont-Triad,Y,85.1,F,Not Met,30.9,N/A
+N/A,Grove Park Elementary,no,10351,Alamance,Burlington,"141 Trail One, Burlington, NC 27215",-79.4606761,36.0800356,Alamance-Burlington Schools,Piedmont-Triad,Y,60.9,D,Met,35.3,N/A
+N/A,Harvey R Newlin Elementary,no,10354,Alamance,Burlington,"316 Carden Street, Burlington, NC 27215",-79.4205411,36.0734088,Alamance-Burlington Schools,Piedmont-Triad,Y,69.1,D,Met,33.2,N/A
+N/A,Haw River Elementary,no,10357,Alamance,Haw River,"701 E Main Street, Haw River, NC 27258",-79.358827,36.092396,Alamance-Burlington Schools,Piedmont-Triad,Y,55.9,D,Met,34.6,N/A
+N/A,"Hillcrest Elementary, Burlington",no,10358,Alamance,Burlington,"1714 W Davis Street, Burlington, NC 27215",-79.4648653,36.1031392,Alamance-Burlington Schools,Piedmont-Triad,Y,57.6,D,Met,33.1,N/A
+N/A,North Graham Elementary,no,10364,Alamance,Graham,"1025 Trollinger Road, Graham, NC 27253",-79.3777934,36.0763205,Alamance-Burlington Schools,Piedmont-Triad,Y,63.2,D,Met,42.3,N/A
+N/A,"Pleasant Grove Elementary, Burlington",no,10372,Alamance,Burlington,"2847 Pleasant Grv Sch Road, Burlington, NC 27217",-79.3056019,36.217398,Alamance-Burlington Schools,Piedmont-Triad,Y,52,D,Not Met,46.9,N/A
+N/A,South Graham Elementary,no,10380,Alamance,Graham,"320 Ivey Road, Graham, NC 27253",-79.3936579,36.0520937,Alamance-Burlington Schools,Piedmont-Triad,Y,46.4,D,Met,45.3,N/A
+N/A,Sylvan Elementary,no,10392,Alamance,Snow Camp,"7718 Sylvan Road, Snow Camp, NC 27349",-79.4365221,35.8799967,Alamance-Burlington Schools,Piedmont-Triad,Y,62.3,D,Met,43.8,N/A
+N/A,Turrentine Middle,no,10394,Alamance,Burlington,"1710 Edgewood Avenue, Burlington, NC 27215",-79.4623901,36.0907285,Alamance-Burlington Schools,Piedmont-Triad,Y,65,D,Not Met,41.5,N/A
+"CIS of Brunswick County, Inc.",Cedar Grove Middle,yes,100309,Brunswick,Supply,"750 Grove Trail SW, Supply, NC 28462",-78.270573,33.9666753,Brunswick County Schools,Southeast,Y,75.5,C,Exceeded,50.9,N/A
+"CIS of Brunswick County, Inc.",Waccamaw,yes,100344,Brunswick,Ash,"5901 Waccamaw School Road NW, Ash, NC 28420",-78.5152684,34.063384,Brunswick County Schools,Southeast,Y,73.3,C,Met,56.9,N/A
+"CIS of Brunswick County, Inc.",Leland Middle,yes,100316,Brunswick,Leland,"927 Old Fayetteville Road NE, Leland, NC 28451",-78.033794,34.23541,Brunswick County Schools,Southeast,Y,69.4,D,Not Met,51.3,N/A
+"CIS of Brunswick County, Inc.",Shallotte Middle,yes,100332,Brunswick,Shallotte,"225 Village Road, Shallotte, NC 28459",-78.3883709,33.9637249,Brunswick County Schools,Southeast,Y,66.1,C,Met,59.8,N/A
+"CIS of Brunswick County, Inc.",South Brunswick Middle,yes,100335,Brunswick,Southport,"100 Cougar Drive BSL, Southport, NC 28461",-78.048488,34.00855,Brunswick County Schools,Southeast,Y,61.9,C,Met,53,N/A
+CIS of Buncombe County/ Children First,Eblen Intermediate,yes,110451,Buncombe,Asheville,"59 Lee's Creek Road, Asheville, NC 28806",-82.6198898,35.6186238,Buncombe County Schools,Western,Y,73.6,C,Exceeded,56.5,N/A
+CIS of Buncombe County/ Children First,Johnston Elementary,yes,110372,Buncombe,Asheville,"230 Johnston Boulevard, Asheville, NC 28806",-82.6198369,35.5866295,Buncombe County Schools,Western,Y,56.3,F,Not Met,30.7,N/A
+CIS of Buncombe County/ Children First,Emma Elementary,yes,110348,Buncombe,Asheville,"37 Brickyard Road, Asheville, NC 28806",-82.5922712,35.5983122,Buncombe County Schools,Western,Y,45.7,C,Met,49.2,N/A
+N/A,Anson High School,no,40306,Anson,Wadesboro,"96 Anson High School Road, Wadesboro, NC 28170",-80.1037392,34.9768643,Anson County Schools,Southwest,N,50.7,D,Not Met,23.5,86.2
+N/A,Anson Middle,no,40309,Anson,Wadesboro,"832 US Hwy 52 N, Wadesboro, NC 28170",-80.0882123,34.9896098,Anson County Schools,Southwest,N,55.2,D,Not Met,35.6,N/A
+N/A,Wadesboro Primary,no,40311,Anson,Wadesboro,"1542 Hwy 52 S, Wadesboro, NC 28170",-80.0577,34.941983,Anson County Schools,Southwest,Y,79.3,F,Exceeded,24.4,N/A
+N/A,Morven Elementary,no,40324,Anson,Morven,"6715 Hwy 52 S, Morven, NC 28119",-80.00664,34.879199,Anson County Schools,Southwest,Y,76.3,D,Met,38.3,N/A
+N/A,Wadesboro Elementary,no,40330,Anson,Wadesboro,"321 Camden Road, Wadesboro, NC 28710",-80.0790723,34.9622196,Anson County Schools,Southwest,Y,71.9,F,Not Met,22,N/A
+CIS of Buncombe County/ Children First,Estes Elementary,yes,110422,Buncombe,Asheville,"275 Overlook Road, Asheville, NC 28803",-82.539873,35.4878829,Buncombe County Schools,Western,Y,44.5,C,Met,63.6,N/A
+N/A,Avery High Viking Academy,no,60701,Avery,Newland,"401 Avery County High School Rd, Newland, NC 28657",-81.91897,36.0692387,Avery County Schools,Northwest,N,60,F,Met,10.5,N/A
+N/A,Grandfather Academy,no,06A000,Avery,Banner Elk,"64 Grandfather Home Drive, Banner Elk, NC 28604",-81.8783765,36.1521736,Charter Schools,Northwest,Y,50,F,Not Available,5,N/A
+N/A,Williams Academy,no,06B000,Avery,Crossnore,"129 Allen Circle, Crossnore, NC 28616",-81.928458,36.024783,Charter Schools,Northwest,Y,74.1,D,Met,43.2,N/A
+CIS of Buncombe County/ Children First,Claxton Elementary,yes,111312,Buncombe,Asheville,"241 Merrimon Avenue, Asheville, NC 28801",-82.553409,35.607753,Asheville City Schools,Western,Y,36.2,C,Met,64.8,N/A
+N/A,Bertie Middle,no,80314,Bertie,Windsor,"652 US Hwy 13 North, Windsor, NC 27983",-76.9645761,36.0476907,Bertie County Schools,Northeast,Y,58.2,D,Not Met,45,N/A
+N/A,West Bertie Elementary,no,80356,Bertie,Kelford,"3734 Governors Road, Kelford, NC 27847",-77.2149439,36.1578521,Bertie County Schools,Northeast,Y,68.9,D,Met,42.9,N/A
+N/A,Heritage Collegiate Leadership Academy,no,08A000,Bertie,Windsor,"118-B County Farm Road, Windsor, NC 27983",-76.9466248,35.9776865,Charter Schools,Northeast,Y,72.4,F,Not Met,8.6,N/A
+N/A,Bladen Lakes Primary,no,90318,Bladen,Elizabethtown,"9554 Johnsontown Road, Elizabethtown, NC 28337",-78.595286,34.711064,Bladen County Schools,Sandhills,Y,83.5,D,Met,47.3,N/A
+N/A,Dublin Primary,no,90324,Bladen,Dublin,"7048 Albert Street, Dublin, NC 28332",-78.7201518,34.6548787,Bladen County Schools,Sandhills,Y,85.2,D,Met,41.1,N/A
+N/A,East Arcadia Elementary,no,90328,Bladen,Riegelwood,"21451 NC Hwy 87 East, Riegelwood, NC 28456",-78.342192,34.4201,Bladen County Schools,Sandhills,Y,81.8,D,Met,37,N/A
+N/A,Elizabethtown Middle,no,90332,Bladen,Elizabethtown,"1496 Hwy 701 South, Elizabethtown, NC 28337",-78.6151174,34.6135997,Bladen County Schools,Sandhills,Y,75.5,D,Not Met,42,N/A
+N/A,Plain View Primary,no,90352,Bladen,Tar Heel,"1963 Chicken Foot Road, Tar Heel, NC 28392",-78.8399958,34.7385359,Bladen County Schools,Sandhills,Y,77.9,D,Met,43.2,N/A
+N/A,Tar Heel Middle,no,90365,Bladen,Tar Heel,"14888 Hwy 87 West, Tar Heel, NC 28392",-78.7943023,34.7366219,Bladen County Schools,Sandhills,Y,83.9,D,Not Met,42.8,N/A
+N/A,Paul R Brown Leadership Academy,no,09A000,Bladen,Elizabethtown,"1300 Martin L King Jr Dr, Elizabethtown, NC 28337",-78.6176359,34.6212429,Charter Schools,Sandhills,Y,72.3,F,Met,27.3,N/A
+CIS of Cape Fear,R Freeman Sch of Engineering,yes,650312,New Hanover,Wilmington,"2601 Princess Place Drive, Wilmington, NC 28405",-77.9134872,34.2451529,New Hanover County Schools,Southeast,Y,95,F,Met,21.5,N/A
+CIS of Cape Fear,West Pender Middle,yes,710348,Pender,Burgaw,"10750 NC Hwy 53 West, Burgaw, NC 28425",-78.104665,34.5274612,Pender County Schools,Southeast,Y,92.2,D,Met,42.2,N/A
+CIS of Cape Fear,A H Snipes Academy of Arts/Des,yes,650384,New Hanover,Wilmington,"2150 Chestnut Street, Wilmington, NC 28405",-77.9204058,34.2393823,New Hanover County Schools,Southeast,Y,91.5,D,Met,33.2,N/A
+CIS of Cape Fear,Malpass Corner Elementary,yes,710324,Pender,Burgaw,"4992 Malpass Corner Road, Burgaw, NC 28425",-78.0539806,34.5037157,Pender County Schools,Southeast,Y,90.7,D,Exceeded,41,N/A
+CIS of Cape Fear,Burgaw Elementary,yes,710312,Pender,Burgaw,"400 North Wright Street, Burgaw, NC 28425",-77.928072,34.556515,Pender County Schools,Southeast,Y,90.6,C,Exceeded,50,N/A
+CIS of Cape Fear,Sunset Park Elementary,yes,650368,New Hanover,Wilmington,"613 Alabama Ave, Wilmington, NC 28401",-77.9412036,34.2078187,New Hanover County Schools,Southeast,Y,90.4,C,Exceeded,46.4,N/A
+N/A,"Erwin Middle, Asheville",no,110342,Buncombe,Asheville,"20 Erwin Hills Road, Asheville, NC 28806",-82.6228321,35.6194901,Buncombe County Schools,Western,N,68.4,D,Not Met,45.8,N/A
+CIS of Cape Fear,Burgaw Middle,yes,710316,Pender,Burgaw,"500 South Wright Street, Burgaw, NC 28425",-77.9245567,34.5450238,Pender County Schools,Southeast,Y,88.3,C,Met,52.9,N/A
+CIS of Cape Fear,Forest Hills Global Elementary,yes,650328,New Hanover,Wilmington,"602 Colonial Drive, Wilmington, NC 28403",-77.9140674,34.2304516,New Hanover County Schools,Southeast,Y,81.9,D,Met,36.9,N/A
+N/A,Oakley Elementary,no,110384,Buncombe,Asheville,"753 Fairview Road, Asheville, NC 28803",-82.512424,35.564096,Buncombe County Schools,Western,Y,48.2,D,Not Met,41.9,N/A
+N/A,Avery's Creek Elementary,no,110410,Buncombe,Arden,"15 Park South Boulevard, Arden, NC 28704",-82.5792672,35.4774437,Buncombe County Schools,Western,Y,63.9,D,Met,48.5,N/A
+CIS of Cape Fear,Pender High,yes,710326,Pender,Burgaw,"5380 NC Hwy 53 W, Burgaw, NC 28425",-78.0123143,34.5452748,Pender County Schools,Southeast,N,81.5,C,Met,42.4,91
+CIS of Cape Fear,Cape Fear Elementary,yes,710318,Pender,Rocky Point,"1882 NC Hwy 133, Rocky Point, NC 28457",-77.9166413,34.4066433,Pender County Schools,Southeast,Y,80.9,C,Exceeded,59.7,N/A
+CIS of Cape Fear,Williston Middle,yes,650392,New Hanover,Wilmington,"401 S 10th St, Wilmington, NC 28401",-77.934147,34.2311,New Hanover County Schools,Southeast,Y,80,D,Not Met,36.1,N/A
+N/A,Mountain View Elementary,no,120354,Burke,Morganton,"805 Bouchelle St,Â Morganton, NCÂ 28655",-81.7015061,35.7538794,Burke County Schools,Northwest,Y,82.6,D,Not Met,44.4,N/A
+CIS of Cape Fear,Wrightsboro Elementary,yes,650404,New Hanover,Wilmington,"2716 Castle Hayne Rd, Wilmington, NC 28401",-77.9202316,34.2924175,New Hanover County Schools,Southeast,Y,79.9,D,Met,39.4,N/A
+CIS of Cape Fear,Cape Fear Middle,yes,710320,Pender,Rocky Point,"1886 NC Hwy 133, Rocky Point, NC 28457",-77.9162638,34.4058593,Pender County Schools,Southeast,Y,78.3,C,Not Met,48.4,N/A
+N/A,"Rocky River Elementary, Concord",no,130329,Cabarrus,Concord,"5454 Rocky River Road, Concord, NC 28025",-80.5980388,35.3422869,Cabarrus County Schools,Southwest,Y,65.2,D,Met,44.4,N/A
+N/A,Winecoff Elementary,no,130340,Cabarrus,Concord,"375 Winecoff Sch Road, Concord, NC 28027",-80.6179398,35.4464301,Cabarrus County Schools,Southwest,Y,43.6,D,Met,45.2,N/A
+N/A,GW Carver Elementary,no,132314,Cabarrus,Kannapolis,"525 East C St, Kannapolis, NC 28083",-80.6173412,35.4933308,Kannapolis City Schools,Southwest,Y,30.6,D,Met,42.7,N/A
+N/A,Kannapolis Middle,no,132330,Cabarrus,Kannapolis,"1445 Oakwood Avenue, Kannapolis, NC 28081",-80.6387447,35.467353,Kannapolis City Schools,Southwest,N,39.7,D,Not Met,44.4,N/A
+N/A,Woodrow Wilson Elementary,no,132336,Cabarrus,Kannapolis,"800 N Walnut Street, Kannapolis, NC 28081",-80.6191188,35.508243,Kannapolis City Schools,Southwest,Y,43.5,D,Met,45.2,N/A
+N/A,Cabarrus Charter Academy,no,13B000,Cabarrus,Concord,"355 Poplar Crossing Dr NW, Concord, NC 28027",-80.668976,35.4087319,Charter Schools,Southwest,Y,36.1,D,Not Met,47,N/A
+N/A,A.C.E. Academy,no,13C000,Cabarrus,Harrisburg,"7807 Caldwell Road, Harrisburg, NC 28075",-80.6730051,35.3082994,Charter Schools,Southwest,Y,57.1,D,Met,39.1,N/A
+N/A,Kannapolis Charter Academy,no,13D000,Cabarrus,Kannapolis,"1911 Concord Lake Road, Kannapolis, NC 28083",-80.5991251,35.4595013,Charter Schools,Southwest,Y,50.1,D,Not Met,42.7,N/A
+N/A,Valmead Elementary,no,140388,Caldwell,Lenoir,"111 Elizabeth Drive NW, Lenoir, NC 28645",-81.539501,35.936797,Caldwell County Schools,Northwest,Y,67.5,D,Not Available,Not Available,N/A
+N/A,West Lenoir Elementary,no,140392,Caldwell,Lenoir,"125 Maple Drive NW, Lenoir, NC 28645",-81.5527916,35.9094654,Caldwell County Schools,Northwest,Y,68.3,D,Met,32.7,N/A
+N/A,N L Dillard Middle,no,170338,Caswell,Yanceyville,"255 Hatchett Road, Yanceyville, NC 27379",-79.3654755,36.4131177,Caswell County Schools,Piedmont-Triad,Y,66,D,Not Met,36.6,N/A
+N/A,"Stoney Creek Elementary, Reidsville",no,170344,Caswell,Reidsville,"1803 Stoney Creek School Road, Reidsville, NC 27320",-79.423574,36.345013,Caswell County Schools,Piedmont-Triad,Y,48.2,D,Met,41.3,N/A
+N/A,North Newton Elementary,no,182328,Catawba,Newton,"221 West 26th St, Newton, NC 28658",-81.221793,35.688814,Newton Conover City Schools,Northwest,Y,73.6,D,Not Met,43.3,N/A
+CIS of Cape Fear,Heide Trask High,yes,710321,Pender,Rocky Point,"14328 NC Hwy 210, Rocky Point, NC 28457",-77.8925501,34.4377804,Pender County Schools,Southeast,N,78,C,Met,44,91
+CIS of Cape Fear,Penderlea Elementary,yes,710328,Pender,Willard,"82 Penderlea School Road, Willard NC 28478",-78.0493347,34.6557174,Pender County Schools,Southeast,Y,75.5,C,Met,56.1,N/A
+CIS of Cape Fear,Virgo Middle,yes,650409,New Hanover,Wilmington,"813 Nixon St, Wilmington, NC 28401",-77.940458,34.250692,New Hanover County Schools,Southeast,Y,74.9,F,Not Met,26.4,N/A
+CIS of Cape Fear,College Park Elementary,yes,650316,New Hanover,Wilmington,"5001 Oriole Dr. , Wilmington, NC 28403",-77.86336,34.236268,New Hanover County Schools,Southeast,Y,73.3,C,Met,48.1,N/A
+CIS of Cape Fear,Career Readiness Academy at Mosley PLC,yes,650355,New Hanover,Wilmington,"3702 Princess Place Drive, Wilmington, NC 28405",-77.900543,34.243048,New Hanover County Schools,Southeast,N,70.3,ALT system,ALT system,ALT system,N/A
+CIS of Cape Fear,Edwin A Alderman Elementary,yes,650324,New Hanover,Wilmington,"2025 Independence Boulevard , Wilmington, NC 28403",-77.90728,34.205779,New Hanover County Schools,Southeast,Y,67.8,C,Met,44.7,N/A
+CIS of Cape Fear,Holly Shelter Middle,yes,650343,New Hanover,Castle Hayne,"3921 Roger Haynes Dr, Castle Hayne, NC 28429",-77.8921642,34.350508,New Hanover County Schools,Southeast,Y,65.4,C,Not Met,57.9,N/A
+CIS of Cape Fear,Castle Hayne Elementary,yes,650309,New Hanover,Castle Hayne,"3925 Roger Haynes Drive, Castle Hayne, NC 28429",-77.8914786,34.3509008,New Hanover County Schools,Southeast,Y,62.2,C,Not Met,58.7,N/A
+CIS of Cape Fear,Murrayville Elementary,yes,650348,New Hanover,Wilmington,"225 Mabee Way, Wilmington, NC 28411",-77.8510147,34.298352,New Hanover County Schools,Southeast,Y,61.9,B,Not Met,69.3,N/A
+CIS of Cape Fear,Williams Elementary,yes,110412,New Hanover,Wilmington,"801 Silver Lake Road, Wilmington, NC 28412",-82.4025554,35.6042883,New Hanover County Schools,Southeast,Y,59.7,C,Met,49.8,N/A
+CIS of Cape Fear,The International School at Gregory,yes,650332,New Hanover,Wilmington,"319 S. Tenth St , Wilmington, NC 28401",-77.9362636,34.2322206,New Hanover County Schools,Southeast,Y,56.9,C,Met,51.1,N/A
+CIS of Cape Fear,Emma B Trask Middle,yes,650325,New Hanover,Wilmington,"2900 N College Rd, Wilmington, NC 28405",-77.8729674,34.3012724,New Hanover County Schools,Southeast,Y,55.7,B,Met,66.7,N/A
+N/A,Graham Elementary,no,230342,Cleveland,Shelby,"1100 Blanton Street, Shelby, NC 28150",-81.558864,35.288762,Cleveland County Schools,Southwest,Y,78.3,F,Not Met,25,N/A
+CIS of Cape Fear,Pine Valley Elementary,yes,650362,New Hanover,Wilmington,"440 John S Mosby Dr, Wilmington, NC 28412",-77.8996547,34.1794746,New Hanover County Schools,Southeast,Y,55,B,Met,66,N/A
+CIS of Cape Fear,New Hanover High,yes,650352,New Hanover,Wilmington,"1307 Market St, Wilmington, NC 28401",-77.9323226,34.2373594,New Hanover County Schools,Southeast,N,54.6,C,Met,46.9,80.9
+CIS of Cape Fear,John J Blair Elementary,yes,650341,New Hanover,Wilmington,"6510 Market Street , Wilmington, NC 28405",-77.83933,34.2565979,New Hanover County Schools,Southeast,Y,49.8,C,Met,67.1,N/A
+CIS of Cape Fear,Myrtle Grove Middle,yes,650351,New Hanover,Wilmington,"901 Piner Rd, Wilmington, NC 28409",-77.8840061,34.1373085,New Hanover County Schools,Southeast,Y,49.8,C,Met,65.8,N/A
+N/A,Acme Delco Elementary,no,240308,Columbus,Riegelwood,"16337 Old Lake Road, Riegelwood, NC 28456",-78.2544189,34.3475806,Columbus County Schools,Sandhills,Y,82.1,D,Not Met,48,N/A
+N/A,Chadbourn Elementary,no,240332,Columbus,Chadbourn,"409 E Third Avenue, Chadbourn, NC 28431",-78.8215184,34.3258017,Columbus County Schools,Sandhills,Y,91.3,D,Not Met,47.7,N/A
+N/A,Evergreen Elementary,no,240344,Columbus,Evergreen,"7211 Old 74 Hwy, Evergreen, NC 28438",-80.4392229,34.9810153,Columbus County Schools,Sandhills,Y,85.8,D,Met,43.9,N/A
+N/A,Tabor City Elementary,no,240372,Columbus,Tabor City,"203 Stake Road, Tabor City, NC 28463",-78.8739183,34.1517631,Columbus County Schools,Sandhills,Y,75.3,D,Not Met,47.1,N/A
+N/A,Tabor City Middle,no,240376,Columbus,Tabor City,"701 W Sixth Street, Tabor City, NC 28463",-78.8862692,34.1487488,Columbus County Schools,Sandhills,Y,78.4,D,Met,34.1,N/A
+N/A,Vanceboro-Farm Life Elementary,no,250320,Craven,Vanceboro,"2000 Farm Life Avenue, Vanceboro, NC 28586",-77.1465944,35.3070019,Craven County Schools,Southeast,Y,79.6,D,Not Met,45.6,N/A
+N/A,H J MacDonald Middle,no,250332,Craven,New Bern,"3127 Elizabeth Avenue, New Bern, NC 28562",-77.0977115,35.1173264,Craven County Schools,Southeast,N,67.1,D,Not Met,48.4,N/A
+N/A,Havelock Middle,no,250344,Craven,Havelock,"102 Middle School Lane, Havelock, NC 28532",-76.8982898,34.877554,Craven County Schools,Southeast,N,67.5,D,Not Met,46.7,N/A
+N/A,J T Barber Elementary,no,250348,Craven,New Bern,"1700 Cobb Street, New Bern, NC 28560",-77.0638683,35.1194548,Craven County Schools,Southeast,Y,87.6,D,Met,27.7,N/A
+N/A,Oaks Road Elementary,no,250360,Craven,New Bern,"2811 Oaks Road, New Bern, NC 28560",-77.0655386,35.1277177,Craven County Schools,Southeast,Y,80.6,D,Met,32.6,N/A
+N/A,West Craven Middle,no,250376,Craven,New Bern,"515 NW Craven Mid School Road, New Bern, NC 28562",-77.1508531,35.217075,Craven County Schools,Southeast,N,72.9,D,Not Met,38.7,N/A
+CIS of Cape Fear,Pender Early College High,yes,710LEA,Pender,Burgaw,"925 Penderlea Hwy, Burgaw, NC 28425",-77.9405776,34.5528868,Pender County Schools,Southeast,N,49.3,A,Exceeded,95,95
+N/A,Loyd E Auman Elementary,no,260310,Cumberland,Fayetteville,"6882 Raeford Road, Fayetteville, NC 28304",-79.0110444,35.0380906,Cumberland County Schools,Sandhills,Y,65.5,D,Met,40.7,N/A
+N/A,Douglas Byrd Middle,no,260321,Cumberland,Fayetteville,"1616 Ireland Drive, Fayetteville, NC 28304",-78.948283,35.034917,Cumberland County Schools,Sandhills,Y,75.6,D,Not Met,34.2,N/A
+N/A,Douglas Byrd High,no,260322,Cumberland,Fayetteville,"1624 Ireland Drive, Fayetteville, NC 28304",-78.950225,35.032099,Cumberland County Schools,Sandhills,Y,71.4,D,Not Met,29.1,73.7
+N/A,Anne Chesnutt Middle,no,260336,Cumberland,Fayetteville,"2121 Skibo Road, Fayetteville, NC 28314",-78.9734273,35.0503665,Cumberland County Schools,Sandhills,N,63.1,D,Not Met,39.2,N/A
+N/A,Luther Nick Jeralds Middle,no,260358,Cumberland,Fayetteville,"2517 Ramsey Street, Fayetteville, NC 28301",-78.8788675,35.0928179,Cumberland County Schools,Sandhills,Y,82.9,D,Not Met,39,N/A
+N/A,Ferguson-Easley Elementary,no,260361,Cumberland,Fayetteville,"1857 Seabrook Road, Fayetteville, NC 28301",-78.8992413,35.0849912,Cumberland County Schools,Sandhills,Y,90,D,Met,35.8,N/A
+N/A,Hope Mills Middle,no,260368,Cumberland,Hope Mills,"4975 Cameron Road, Hope Mills, NC 28348",-78.9399003,34.9655563,Cumberland County Schools,Sandhills,N,55.1,D,Not Met,47.4,N/A
+N/A,Ed V Baldwin Elementary,no,260370,Cumberland,Hope Mills,"4441 Legion Road, Hope Mills, NC 28348",-78.9336749,34.978952,Cumberland County Schools,Sandhills,Y,56.9,D,Met,44.7,N/A
+CIS of Cape Fear,Wilmington Early College High,yes,650394,New Hanover,Wilmington,"4500 Blue Clay Rd, WECHS Bldg.ND122, Castle Hayne, NC 28429",-77.8801909,34.3228604,New Hanover County Schools,Southeast,N,48.6,A,Met,89.1,95
+CIS of Cape Fear,Emsley A Laney High,yes,650326,New Hanover,Wilmington,"2700 N College Rd, Wilmington, NC 28405",-77.871969,34.297823,New Hanover County Schools,Southeast,N,48,B,Met,62,87.5
+N/A,Margaret Willis Elementary,no,260386,Cumberland,Fayetteville,"1412 Belvedere Avenue, Fayetteville, NC 28305",-78.904391,35.071097,Cumberland County Schools,Sandhills,Y,81.5,D,Not Met,39.2,N/A
+N/A,Mary McArthur Elementary,no,260396,Cumberland,Fayetteville,"3809 Village Drive, Fayetteville, NC 28304",-78.940757,35.0251178,Cumberland County Schools,Sandhills,Y,72.1,D,Not Met,41.9,N/A
+N/A,Morganton Road Elementary,no,260401,Cumberland,Fayetteville,"102 Bonanza Drive, Fayetteville, NC 28303",-78.9872365,35.0796853,Cumberland County Schools,Sandhills,Y,66.8,D,Not Met,44.5,N/A
+N/A,Manchester Elementary,no,260402,Cumberland,Spring Lake,"611 Spring Avenue, Spring Lake, NC 28390",-78.9669597,35.1706698,Cumberland County Schools,Sandhills,Y,73.2,D,Met,42.7,N/A
+N/A,William H Owen Elementary,no,260404,Cumberland,Fayetteville,"4533 Raeford Road, Fayetteville, NC 28304",-78.9541728,35.0420546,Cumberland County Schools,Sandhills,Y,72,D,Not Met,46.7,N/A
+N/A,Lake Rim Elementary,no,260407,Cumberland,Fayetteville,"1455 Hoke Loop Road, Fayetteville, NC 28314",-79.0765981,35.0494197,Cumberland County Schools,Sandhills,Y,50,D,Not Met,45.8,N/A
+N/A,Benjamin J Martin Elementary,no,260414,Cumberland,Fayetteville,"430 N Reilly Road, Fayetteville, NC 28303",-79.0094964,35.0929339,Cumberland County Schools,Sandhills,Y,68.8,D,Not Met,47.7,N/A
+N/A,Reid Ross Classical Middle,no,260419,Cumberland,Fayetteville,"3200 Ramsey Street, Fayetteville, NC 28301",-78.8759571,35.1016501,Cumberland County Schools,Sandhills,N,77.3,D,Not Met,49.2,N/A
+N/A,South View Middle,no,260425,Cumberland,Hope Mills,"4100 Elk Road, Hope Mills, NC 28348",-78.9299734,34.9807669,Cumberland County Schools,Sandhills,Y,60.3,D,Not Met,40.4,N/A
+N/A,Sherwood Park Elementary,no,260426,Cumberland,Fayetteville,"2115 Hope Mills Road, Fayetteville, NC 28304",-78.9623206,35.0179162,Cumberland County Schools,Sandhills,Y,74.1,D,Met,38.3,N/A
+N/A,Spring Lake Middle,no,260428,Cumberland,Spring Lake,"612 Spring Avenue, Spring Lake, NC 28390",-78.965325,35.168865,Cumberland County Schools,Sandhills,Y,72.7,D,Not Met,37.6,N/A
+N/A,Sunnyside Elementary,no,260440,Cumberland,Fayetteville,"3876 Sunnyside School Road, Fayetteville, NC 28312",-78.796946,35.028197,Cumberland County Schools,Sandhills,Y,73.1,D,Met,37.2,N/A
+N/A,Teresa C Berrien Elementary,no,260444,Cumberland,Fayetteville,"800 North Street, Fayetteville, NC 28301",-78.8745401,35.0653695,Cumberland County Schools,Sandhills,Y,90.2,F,Not Met,25.4,N/A
+N/A,Westarea Elementary,no,260452,Cumberland,Fayetteville,"941 Country Club Drive, Fayetteville, NC 28301",-78.912423,35.0979749,Cumberland County Schools,Sandhills,Y,80.8,D,Exceeded,40.6,N/A
+N/A,The Capitol Encore Academy,no,26C000,Cumberland,Fayetteville,"126 Hay Street, Fayetteville, NC 28301",-78.8790444,35.0534229,Charter Schools,Sandhills,Y,59.1,D,Not Met,46.8,N/A
+CIS of Cape Fear,Edwin A Anderson Elementary,yes,650323,New Hanover,Wilmington,"455 Halyburton Drive , Wilmington, NC 28512",-77.9074609,34.1775833,New Hanover County Schools,Southeast,Y,44.2,B,Met,67.6,N/A
+N/A,Fair Grove Elementary,no,290328,Davidson,Thomasville,"217 Cedar Lodge Road, Thomasville, NC 27360",-80.078673,35.8476484,Davidson County Schools,Piedmont-Triad,Y,48.3,D,Not Met,50.2,N/A
+CIS of Cape Fear,Heyward C Bellamy Elem,yes,650338,New Hanover,Wilmington,"70 Sanders Rd. , Wilmington, NC 28412",-77.909028,34.122656,New Hanover County Schools,Southeast,Y,43.1,B,Exceeded,79.3,N/A
+CIS of Cape Fear,South Topsail Elementary,yes,710347,Pender,Hampstead,"997 Hoover Road, Hampstead, NC 28443",-77.713498,34.384254,Pender County Schools,Southeast,N,42.9,B,Exceeded,74.8,N/A
+CIS of Cape Fear,Eugene Ashley High,yes,650327,New Hanover,Wilmington,"555 Halyburton Memorial Parkway , Wilmington, NC 28412",-77.9110479,34.1005137,New Hanover County Schools,Southeast,N,42.5,C,Not Met,49.6,89.2
+CIS of Cape Fear,Surf City Elementary,yes,710350,Pender,Holly Ridge,"12345-A Literacy Ln, Hampstead, NC 28443",-77.575036,34.4618621,Pender County Schools,Southeast,N,39.3,B,Met,74.8,N/A
+N/A,South Lexington School,no,291348,Davidson,Lexington,"1000 Cotton Grove Road, Lexington, NC 27292",-80.2612207,35.7964983,Lexington City Schools,Piedmont-Triad,Y,68.3,D,Not Available,Not Available,N/A
+N/A,Southwest Elementary School,no,291352,Davidson,Lexington,"434 Central Avenue, Lexington, NC 27292",-80.280445,35.8178793,Lexington City Schools,Piedmont-Triad,Y,57.3,D,Not Met,50.4,N/A
+CIS of Cape Fear,Charles P Murray Middle,yes,650310,New Hanover,Wilmington,"655 Halyburton Memorial Parkwy, Wilmington, NC 28412",-77.9075709,34.0985243,New Hanover County Schools,Southeast,N,37.6,B,Exceeded,78.7,N/A
+CIS of Cape Fear,Roland-Grise Middle,yes,650364,New Hanover,Wilmington,"4412 Lake Ave, Wilmington, NC 28403",-77.8904359,34.205386,New Hanover County Schools,Southeast,N,37,B,Not Met,70.5,N/A
+CIS of Cape Fear,M C S Noble Middle,yes,650350,New Hanover,Wilmington,"6520 Market St, Wilmington, NC 28405",-77.8361856,34.2532655,New Hanover County Schools,Southeast,N,35.7,B,Met,76.7,N/A
+N/A,Davidson Charter Academy CFA,no,29A000,Davidson,Lexington,"500 Biesecker Rd, Lexington, NC 27295",-80.2690538,35.8457638,Charter Schools,Piedmont-Triad,N,22.7,D,Not Met,42.3,N/A
+N/A,B F Grady Elementary,no,310304,Duplin,Albertson,"2627 N NC 11 & 903, Albertson, NC 28508",-77.8266212,35.0568712,Duplin County Schools,Southeast,Y,69.5,D,Met,43.2,N/A
+N/A,Warsaw Elementary,no,310336,Duplin,Warsaw,"158 Lanefield Road, Warsaw, NC 28398",-78.0759379,34.997008,Duplin County Schools,Southeast,Y,85,D,Met,35.5,N/A
+N/A,Rose Hill-Magnolia Elementary,no,310384,Duplin,Rose Hill,"1329 Brooks Quinn Road, Rose Hill, NC 28458",-78.024087,34.85104,Duplin County Schools,Southeast,Y,78.9,D,Exceeded,40,N/A
+N/A,Wallace Elementary,no,310388,Duplin,Wallace,"4266 NC 11 S, Wallace, NC 28466",-77.9775739,34.7341814,Duplin County Schools,Southeast,Y,74.7,D,Not Met,39.4,N/A
+CIS of Cape Fear,Isaac M Bear Early College High School,yes,650340,New Hanover,Wilmington,"630 MacMillan Avenue, Wilmington, NC 28403",-77.8811648,34.2204535,New Hanover County Schools,Southeast,N,35.4,A,Met,94.8,95
+N/A,Bethesda Elementary,no,320304,Durham,Durham,"2009 S Miami Boulevard, Durham, NC 27703",-78.8378281,35.9401449,Durham Public Schools,North Central,Y,56.3,D,Met,39.8,N/A
+N/A,"Brogden Middle, Durham",no,320306,Durham,Durham,"1001 Leon Street, Durham, NC 27704",-78.908729,36.0247847,Durham Public Schools,North Central,Y,74.2,D,Exceeded,40.2,N/A
+N/A,Eastway Elementary,no,320310,Durham,Durham,"610 North Alston Avenue, Durham, NC 27701",-78.885157,35.990755,Durham Public Schools,North Central,Y,69.5,D,Exceeded,26.8,N/A
+CIS of Cape Fear,North Topsail Elementary,yes,710323,Pender,Hampstead,"1310 Sloop Point Loop Road, Hampstead, NC 28443",-77.6361614,34.3993933,Pender County Schools,Southeast,N,34.9,B,Exceeded,76.1,N/A
+CIS of Cape Fear,Surf City Middle,yes,710352,Pender,Hampstead,"12345-B Literacy Ln, Hampstead, NC 28443",-77.575036,34.4618621,Pender County Schools,Southeast,N,32.4,B,Met,69.4,N/A
+CIS of Cape Fear,Holly Tree Elementary,yes,650339,New Hanover,Wilmington,"3020 Web Trace, Wilmington, NC 28409",-77.8849162,34.1916441,New Hanover County Schools,Southeast,N,31.5,B,Not Met,82.7,N/A
+CIS of Cape Fear,Topsail High,yes,710342,Pender,Hampstead,"245 St. Johns Church Road, Hampstead, NC 28443",-77.681496,34.3954802,Pender County Schools,Southeast,N,29,B,Met,68.4,93.9
+CIS of Cape Fear,John T Hoggard High,yes,650342,New Hanover,Wilmington,"4305 Shipyard Blvd, Wilmington, NC 28403",-77.8921411,34.1998549,New Hanover County Schools,Southeast,N,28.7,B,Not Met,70,90.9
+CIS of Cape Fear,Topsail Middle,yes,710346,Pender,Hampstead,"17445 US Hwy 17, Hampstead, NC 28443",-77.6777047,34.3976419,Pender County Schools,Southeast,N,28.4,B,Exceeded,76.2,N/A
+N/A,Lowe's Grove Middle,no,320346,Durham,Durham,"4418 S Alston Avenue, Durham, NC 27713",-78.8912966,35.9045436,Durham Public Schools,North Central,Y,80,D,Met,36.5,N/A
+N/A,Neal Middle,no,320355,Durham,Durham,"201 Baptist Road, Durham, NC 27704",-78.78184,35.9779327,Durham Public Schools,North Central,Y,76.2,D,Met,35.9,N/A
+N/A,"Oak Grove Elementary, Durham",no,320360,Durham,Durham,"3810 Wake Forest Road, Durham, NC 27703",-78.819459,35.979946,Durham Public Schools,North Central,Y,79.4,D,Not Met,43.4,N/A
+N/A,"Parkwood Elementary, Durham",no,320362,Durham,Durham,"5207 Revere Road, Durham, NC 27713",-78.905692,35.8914339,Durham Public Schools,North Central,Y,72.5,D,Not Met,36.4,N/A
+N/A,C C Spaulding Elementary,no,320374,Durham,Durham,"1531 S Roxboro Road, Durham, NC 27707",-78.905587,35.977736,Durham Public Schools,North Central,Y,74.6,F,Met,25.8,N/A
+N/A,W G Pearson Elementary,no,320388,Durham,Durham,"3501 Fayettville Street, Durham, NC 27707",-78.9077836,35.9584263,Durham Public Schools,North Central,Y,59.9,D,Met,39.8,N/A
+N/A,Y E Smith Elementary,no,320400,Durham,Durham,"2410 E Main Street, Durham, NC 27703",-78.8724657,35.9856279,Durham Public Schools,North Central,Y,70.6,D,Exceeded,32.5,N/A
+N/A,Healthy Start Academy,no,32B000,Durham,Durham,"807 West Chapel Hill Street, Durham, NC 27701",-78.9137691,35.996406,Charter Schools,North Central,Y,69.9,D,Exceeded,43.7,N/A
+N/A,Carter Community Charter,no,32C000,Durham,Durham,"1955 West Cornwallis Road, Durham, NC 27705",-78.955472,35.9812192,Charter Schools,North Central,Y,69.5,D,Met,33.1,N/A
+N/A,Global Scholars Academy,no,32M000,Durham,Durham,"311 Dowd St, Durham, NC 27701",-78.8929997,36.0008147,Charter Schools,North Central,Y,85.6,D,Not Met,49.2,N/A
+N/A,The Institute Development Young Leaders,no,32P000,Durham,Durham,"4300 S. Miami Blvd., Durham, NC 27703",-78.8511015,35.8997647,Charter Schools,North Central,Y,51.4,D,Met,34.7,N/A
+N/A,Reaching All Minds Academy,no,32Q000,Durham,Durham,"2703 Holloway St., Durham, NC 27703",-78.8515471,35.9891291,Charter Schools,North Central,Y,21.1,F,Met,29,N/A
+N/A,KIPP Durham College Preparatory,no,32S000,Durham,Durham,"1107 Holloway Street, Durham, NC 27701",-78.8811772,35.9948357,Charter Schools,North Central,Y,70.1,D,Exceeded,35.8,N/A
+N/A,G W Bulluck Elementary,no,330304,Edgecombe,Rocky Mount,"3090 Bulluck School Road, Rocky Mount, NC 27801",-77.7196558,35.8826226,Edgecombe County Public School,North Central,Y,60.3,D,Met,41.4,N/A
+N/A,Coker-Wimberly Elementary,no,330312,Edgecombe,Battleboro,"1619 NC 97 West, Battleboro, NC 27809",-77.6042147,35.9769077,Edgecombe County Public School,North Central,Y,61.2,D,Met,32,N/A
+N/A,"Phillips Middle, Battleboro",no,330332,Edgecombe,Battleboro,"4371 Battleboro-Leggett Road, Battleboro, NC 27809",-77.685968,36.001686,Edgecombe County Public School,North Central,Y,64.9,F,Not Met,19.8,N/A
+N/A,Princeville Elementary,no,330334,Edgecombe,Tarboro,"710 Panola Street, Tarboro, NC 27886",-77.5328765,35.9017803,Edgecombe County Public School,North Central,Y,71.7,D,Met,31.9,N/A
+N/A,South Edgecombe Middle,no,330340,Edgecombe,Pinetops,"230 Pinetops-Crisp Road, Pinetops, NC 27864",-77.643968,35.778073,Edgecombe County Public School,North Central,N,46.6,D,Met,36.4,N/A
+N/A,W A Pattillo Middle,no,330344,Edgecombe,Tarboro,"501 East Ave, Tarboro, NC 27886",-77.5238509,35.902929,Edgecombe County Public School,North Central,Y,65.3,D,Exceeded,32.4,N/A
+N/A,SouthWest Edgecombe High,no,330350,Edgecombe,Pinetops,"5912 NC 43 North, Pinetops, NC 27864",-77.657896,35.8366548,Edgecombe County Public School,North Central,N,41.8,D,Not Met,33.4,75.3
+N/A,Stocks Elementary,no,330354,Edgecombe,Tarboro,"400 Hope Lodge Street, Tarboro, NC 27886",-77.5518214,35.9110179,Edgecombe County Public School,North Central,Y,66.2,F,Not Met,27.9,N/A
+N/A,Tarboro High,no,330358,Edgecombe,Tarboro,"1400 Howard Avenue, Tarboro, NC 27886",-77.559107,35.9020577,Edgecombe County Public School,North Central,N,48.9,D,Met,28.7,77.6
+N/A,Ashley Academy,no,340308,Forsyth,Winston-Salem,"1647 Ashley School Circle, Winston-Salem, NC 27105",-80.2217616,36.1176872,Forsyth County Schools,Piedmont-Triad,Y,81.5,F,Met,19.4,N/A
+N/A,Bolton Elementary,no,340314,Forsyth,Winston Salem,"1250 Bolton Street, Winston Salem, NC 27103",-80.2918719,36.0741102,Forsyth County Schools,Piedmont-Triad,Y,63.1,D,Met,36.3,N/A
+N/A,Carver High,no,340330,Forsyth,Winston Salem,"3545 Carver School Road, Winston Salem, NC 27105",-80.2071071,36.1342371,Forsyth County Schools,Piedmont-Triad,Y,69.2,D,Exceeded,24.3,67
+N/A,Cook Literacy Model School,no,340351,Forsyth,Winston-Salem,"920 11th Street NW, Winston-Salem, NC 27105",-80.2568315,36.1078495,Forsyth County Schools,Piedmont-Triad,Y,87.8,D,Exceeded,28.5,N/A
+N/A,East Forsyth Middle School,no,340366,Forsyth,Kernersville,"810 Bagley Drive, Kernersville, NC 27284",-80.1289634,36.133569,Forsyth County Schools,Piedmont-Triad,Y,51.8,D,Not Met,33.8,N/A
+N/A,Easton Elementary School,no,340368,Forsyth,Winston Salem,"734 E Clemmonsville Road, Winston Salem, NC 27107",-80.2217137,36.0582669,Forsyth County Schools,Piedmont-Triad,Y,70.4,F,Met,23.1,N/A
+N/A,"Flat Rock Middle, Winston-Salem",no,340372,Forsyth,Winston-Salem,"4648 Ebert Rd, Winston-Salem, NC 27284",-80.303403,36.0089929,Forsyth County Schools,Piedmont-Triad,Y,48,D,Met,42.7,N/A
+N/A,"Forest Park Elementary, Winston-Salem",no,340376,Forsyth,Winston Salem,"2019 Milford Street, Winston Salem, NC 27107",-80.2156541,36.0717656,Forsyth County Schools,Piedmont-Triad,Y,71,D,Met,29.4,N/A
+N/A,Gibson Elementary,no,340380,Forsyth,Winston-Salem,"2020 Walker Road, Winston-Salem, NC 27106",-80.311353,36.186613,Forsyth County Schools,Piedmont-Triad,Y,63.5,D,Exceeded,43.5,N/A
+N/A,Griffith Elementary,no,340384,Forsyth,Winston Salem,"1385 W Clemmonsville Road, Winston Salem, NC 27127",-80.2645469,36.041069,Forsyth County Schools,Piedmont-Triad,Y,53.8,D,Exceeded,41.1,N/A
+N/A,Hall-Woodward Elementary,no,340390,Forsyth,Winston Salem,"125 Nicholson Road, Winston Salem, NC 27107",-80.174661,36.0807519,Forsyth County Schools,Piedmont-Triad,Y,64.3,D,Met,34,N/A
+N/A,Ibraham Elementary,no,340400,Forsyth,Winston Salem,"5036 Old Walkertown, Winston Salem, NC 27105",-80.2008123,36.1593968,Forsyth County Schools,Piedmont-Triad,Y,69.2,F,Not Met,23.2,N/A
+N/A,Kimberley Park Elementary,no,340424,Forsyth,Winston Salem,"1700 Old Cherry Street, Winston Salem, NC 27105",-80.2538252,36.1161093,Forsyth County Schools,Piedmont-Triad,Y,79.3,F,Met,16.1,N/A
+N/A,Konnoak Elementary,no,340428,Forsyth,Winston Salem,"3200 Renon Road, Winston Salem, NC 27127",-80.2473786,36.0513064,Forsyth County Schools,Piedmont-Triad,Y,58.7,D,Exceeded,41.6,N/A
+N/A,Diggs-Latham Elementary,no,340430,Forsyth,Winston Salem,"986 Hutton Street, Winston Salem, NC 27101",-80.256586,36.07895,Forsyth County Schools,Piedmont-Triad,Y,66.7,D,Not Met,35.4,N/A
+N/A,Mineral Springs Middle,no,340452,Forsyth,Winston Salem,"4559 Ogburn Avenue, Winston Salem, NC 27105",-80.235449,36.157342,Forsyth County Schools,Piedmont-Triad,Y,67.9,D,Met,35.3,N/A
+N/A,Moore Magnet Elementary,no,340453,Forsyth,Winston Salem,"451 Knollwood Street, Winston Salem, NC 27103",-80.2850058,36.0877009,Forsyth County Schools,Piedmont-Triad,Y,47.2,D,Not Met,49,N/A
+N/A,North Forsyth High,no,340460,Forsyth,Winston Salem,"5705 Shattalon Drive, Winston Salem, NC 27105",-80.2813366,36.174504,Forsyth County Schools,Piedmont-Triad,Y,44.7,D,Not Met,27.3,78.5
+N/A,North Hills Elementary,no,340462,Forsyth,Winston-Salem,"340 Alspaugh Drive, Winston-Salem, NC 27105",-80.2525004,36.149384,Forsyth County Schools,Piedmont-Triad,Y,79.7,D,Exceeded,32.9,N/A
+N/A,Northwest Middle,no,340464,Forsyth,Winston Salem,"5501 Murray Road, Winston Salem, NC 27106",-80.3067049,36.19201,Forsyth County Schools,Piedmont-Triad,Y,45.9,D,Exceeded,41.9,N/A
+N/A,Old Town Elementary,no,340476,Forsyth,Winston Salem,"3930 Reynolda Road, Winston Salem, NC 27106",-80.332389,36.164581,Forsyth County Schools,Piedmont-Triad,Y,61,F,Not Met,31.3,N/A
+N/A,Parkland High,no,340486,Forsyth,Winston Salem,"1600 Brewer Road, Winston Salem, NC 27127",-80.2573,36.057116,Forsyth County Schools,Piedmont-Triad,Y,46.3,D,Met,29.5,73.7
+N/A,Petree Elementary,no,340490,Forsyth,Winston-Salem,"3815 Old Greensboro Road, Winston-Salem, NC 27101",-80.1912812,36.1133308,Forsyth County Schools,Piedmont-Triad,Y,80,F,Met,17.2,N/A
+N/A,Philo-Hill Magnet Academy,no,340492,Forsyth,Winston Salem,"410 Haverhill Street, Winston Salem, NC 27127",-80.2481969,36.0543243,Forsyth County Schools,Piedmont-Triad,Y,72.4,F,Not Met,15.2,N/A
+N/A,Smith Farm Elementary,no,340514,Forsyth,Winston-Salem,"4250 Johnny Knoll Lane, Winston-Salem, NC 27107",-80.1408877,36.0800672,Forsyth County Schools,Piedmont-Triad,Y,40.6,D,Met,36,N/A
+N/A,Speas Elementary,no,340530,Forsyth,Winston Salem,"2000 W Polo Road, Winston Salem, NC 27106",-80.2962505,36.1304261,Forsyth County Schools,Piedmont-Triad,Y,50.3,D,Met,45.6,N/A
+N/A,Ward Elementary,no,340548,Forsyth,Winston-Salem,"3775 Fraternity Church Road, Winston-Salem, NC 27127",-80.3365552,36.0277227,Forsyth County Schools,Piedmont-Triad,Y,67.2,D,Met,44,N/A
+N/A,Winston-Salem Preparatory Acad,no,340568,Forsyth,Winston-Salem,"1215 North Cameron Avenue, Winston-Salem, NC 27101",-80.221514,36.11106,Forsyth County Schools,Piedmont-Triad,Y,70.9,F,Not Met,15.9,95
+N/A,Carter G Woodson School,no,34D000,Forsyth,Winston-Salem,"437 Goldfloss Street, Winston-Salem, NC 27127",-80.2304324,36.0675488,Charter Schools,Piedmont-Triad,Y,67.3,F,Not Met,26.3,83.3
+N/A,Forsyth Academy,no,34F000,Forsyth,Winston-Salem,"5426 Shattalon Drive, Winston-Salem, NC 27106",-80.2992777,36.1692078,Charter Schools,Piedmont-Triad,Y,81.9,D,Not Met,46.1,N/A
+N/A,Appalachian Academy at Middle Fork,no,34Z000,Forsyth,Walkertown,"3125 Williston Rd, Walkertown, NC 27051",-80.1683575,36.1412787,Lab Schools,Piedmont-Triad,Y,5,D,Met,25.4,N/A
+CIS of Cape Fear,Dr John Codington Elem,yes,650366,New Hanover,Wilmington,"4321 Carolina Beach Rd. , Wilmington, NC 28412",-77.9174471,34.1665203,New Hanover County Schools,Southeast,N,28.1,B,Not Met,83.8,N/A
+N/A,Bessemer City Central Elem,no,360332,Gaston,Bessemer City,"1400 Puett's Chapel Road, Bessemer City, NC 28016",-81.2753965,35.3025408,Gaston County Schools,Southwest,Y,60.2,D,Not Met,33.1,N/A
+N/A,Bessemer City High,no,360336,Gaston,Bessemer City,"119 Yellow Jacket Lane, Bessemer City, NC 28016",-81.2807176,35.2979309,Gaston County Schools,Southwest,N,63.6,D,Not Met,26.8,77.6
+N/A,Bessemer City Primary,no,360338,Gaston,Bessemer City,"1320 North 12th Street, Bessemer City, NC 28016",-81.275058,35.300151,Gaston County Schools,Southwest,Y,61,D,Not Available,Not Available,N/A
+N/A,Brookside Elementary,no,360340,Gaston,Gastonia,"1925 Auten Rd., Gastonia, NC 28054",-81.1512179,35.2936803,Gaston County Schools,Southwest,Y,47.4,D,Not Met,43.2,N/A
+CIS of Cape Fear,Dr Hubert Eaton Sr Elem,yes,650353,New Hanover,Wilmington,"6701 Gordon Road, Wilmington, NC 28405",-77.8341825,34.2663283,New Hanover County Schools,Southeast,N,25.4,B,Met,79.2,N/A
+N/A,Edward D Sadler Jr Elementary School,no,360392,Gaston,Gastonia,"3950 West Franklin Boulevard, Gastonia, NC 28052",-81.2595319,35.258803,Gaston County Schools,Southwest,Y,64.3,D,Met,42.2,N/A
+N/A,W P Grier Middle School,no,360408,Gaston,Gastonia,"1622 E Garrison Boulevard, Gastonia, NC 28054",-81.155406,35.254199,Gaston County Schools,Southwest,Y,55.5,D,Not Met,42.6,N/A
+N/A,Lingerfeldt Elementary,no,360438,Gaston,Gastonia,"1601 Madison Street, Gastonia, NC 28052",-81.1923648,35.2407278,Gaston County Schools,Southwest,Y,72.8,D,Met,29.8,N/A
+N/A,Pleasant Ridge Elementary,no,360480,Gaston,Gastonia,"1260 Floyd Lane, Gastonia, NC 28052",-81.2057571,35.2502441,Gaston County Schools,Southwest,Y,48.1,D,Not Met,50.7,N/A
+N/A,Sherwood Elementary,no,360490,Gaston,Gastonia,"1744 Dixon Road, Gastonia, NC 28054",-81.1546791,35.2493262,Gaston County Schools,Southwest,Y,76.1,D,Met,41.4,N/A
+N/A,H H Beam Elementary,no,360492,Gaston,Gastonia,"200 Davis Park Road, Gastonia, NC 28052",-81.202048,35.2231519,Gaston County Schools,Southwest,Y,63.2,D,Not Met,33.4,N/A
+N/A,York Chester Middle,no,360526,Gaston,Gastonia,"601 S Clay Street, Gastonia, NC 28052",-81.192534,35.255431,Gaston County Schools,Southwest,Y,60.9,D,Met,45.5,N/A
+N/A,T S Cooper Elementary,no,370324,Gates,Sunbury,"237 NC 32 South, Sunbury, NC 27979",-76.6067607,36.4244573,Gates County Schools,Northeast,Y,51.8,D,Met,40.2,N/A
+CIS of Cape Fear,Topsail Elementary,yes,710344,Pender,Hampstead,"17385 US Hwy 17, Hampstead, NC 28443",-77.679578,34.396447,Pender County Schools,Southeast,N,22.8,A,Exceeded,83.6,N/A
+N/A,Butner-Stem Middle,no,390309,Granville,Butner,"501 East D St, Butner, NC 27509",-78.7539691,36.140779,Granville County Schools,North Central,Y,69.6,D,Not Met,44.1,N/A
+N/A,Butner-Stem Elementary,no,390311,Granville,Butner,"201 East D St, Butner, NC 27509",-78.7581486,36.1371437,Granville County Schools,North Central,Y,72,D,Not Met,43.3,N/A
+N/A,C. G. Credle Elementary,no,390312,Granville,Oxford,"223 College St, Oxford, NC 27565",-78.592472,36.31453,Granville County Schools,North Central,Y,78.6,D,Met,45.8,N/A
+N/A,Creedmoor Elementary,no,390316,Granville,Creedmoor,"305 E Wilton Ave, Creedmoor, NC 27522",-78.6783867,36.1233173,Granville County Schools,North Central,Y,76.2,D,Met,41.5,N/A
+N/A,Granville Academy,no,390321,Granville,Oxford,"200 Taylor Street, Oxford, NC 27565",-78.5862227,36.3165557,Granville County Schools,North Central,N,38.6,D,Met,48.9,N/A
+N/A,Mary Potter Middle,no,390331,Granville,Oxford,"200 Taylor St, Oxford, NC 27565",-78.5862227,36.3165557,Granville County Schools,North Central,Y,76,D,Not Met,42.3,N/A
+N/A,Northern Granville Middle,no,390334,Granville,Oxford,"3144 Webb School Rd, Oxford, NC 27565",-78.6052655,36.3435764,Granville County Schools,North Central,Y,76.8,F,Not Met,31.6,N/A
+N/A,Stovall-Shaw Elementary,no,390360,Granville,Stovall,"7696 Hwy 15 N, Stovall, NC 27582",-78.5763221,36.4386131,Granville County Schools,North Central,Y,65,D,Not Met,47.1,N/A
+N/A,West Oxford Elementary,no,390364,Granville,Oxford,"412 Ivey Day Rd, Oxford, NC 27565",-78.611949,36.322188,Granville County Schools,North Central,Y,86.3,D,Met,32.7,N/A
+N/A,Greene County Middle,no,400312,Greene,Snow Hill,"485 Middle School Road, Snow Hill, NC 28580",-77.669652,35.4911521,Greene County Schools,Southeast,Y,70.1,D,Not Met,38.5,N/A
+N/A,Snow Hill Primary,no,400321,Greene,Snow Hill,"502 SE 2nd Street, Snow Hill, NC 28580",-77.6640815,35.4508459,Greene County Schools,Southeast,Y,71.8,D,Not Available,Not Available,N/A
+N/A,West Greene Elementary,no,400332,Greene,Snow Hill,"303 Kingold Boulevard, Snow Hill, NC 28580",-77.6864488,35.4539507,Greene County Schools,Southeast,Y,76.1,D,Not Met,43.3,N/A
+CIS of Cape Fear,Ogden Elementary,yes,650356,New Hanover,Wilmington,"3637 Middle Sound Rd, Wilmington, NC 28411",-77.809496,34.2661541,New Hanover County Schools,Southeast,N,18.3,A,Met,91.3,N/A
+N/A,"Edwin A Alderman Elementary, Greensboro",no,410307,Guilford,Greensboro,"4211 Chateau Drive, Greensboro, NC 27407",-79.8679836,36.0402338,Guilford County Schools,Piedmont-Triad,Y,55,D,Not Met,50.8,N/A
+CIS of Charlotte-Mecklenburg,Walter G Byers School,yes,600574,Mecklenburg,Charlotte,"1415 Hamilton St, Charlotte, NC 28206",-80.8414549,35.2439448,Charlotte-Mecklenburg Schools,Southwest,Y,80.1,D,Exceeded,40.2,N/A
+N/A,Southern Guilford Middle,no,410313,Guilford,Greensboro,"5747 Drake Rd, Greensboro, NC 27406",-79.8508875,35.9434977,Guilford County Schools,Piedmont-Triad,Y,52.5,D,Met,47.4,N/A
+N/A,Allen Middle,no,410316,Guilford,Greensboro,"1108 Glendale Drive, Greensboro, NC 27406",-79.8234499,36.011131,Guilford County Schools,Piedmont-Triad,Y,59.5,D,Not Met,39.2,N/A
+CIS of Charlotte-Mecklenburg,Druid Hills Academy,yes,600374,Mecklenburg,Charlotte,"2801 Lucena Ave, Charlotte, NC 28206",-80.8242841,35.2572334,Charlotte-Mecklenburg Schools,Southwest,Y,79.5,F,Not Met,25.8,N/A
+N/A,Swann Middle School,no,410325,Guilford,Greensboro,"811 Cypress Street, Greensboro, NC 27405",-79.780809,36.0841568,Guilford County Schools,Piedmont-Triad,Y,58.2,D,Not Met,44.2,N/A
+N/A,Bessemer Elementary,no,410328,Guilford,Greensboro,"918 Huffine Mill Road, Greensboro, NC 27405",-79.736291,36.0895579,Guilford County Schools,Piedmont-Triad,Y,81.3,D,Met,34.2,N/A
+N/A,Bluford Elementary,no,410331,Guilford,Greensboro,"1901 Tuscaloosa Street, Greensboro, NC 27401",-79.7646078,36.0577655,Guilford County Schools,Piedmont-Triad,Y,74.3,D,Met,30.8,N/A
+N/A,Brightwood Elementary,no,410334,Guilford,Greensboro,"2001 Brightwood School Road, Greensboro, NC 27405",-79.7515391,36.147817,Guilford County Schools,Piedmont-Triad,Y,70.9,D,Met,40.4,N/A
+N/A,Ceasar Cone Elementary,no,410349,Guilford,Greensboro,"2501 North Church Street, Greensboro, NC 27405",-79.7813281,36.1080744,Guilford County Schools,Piedmont-Triad,Y,82,F,Not Met,26,N/A
+CIS of Charlotte-Mecklenburg,Reid Park Academy,yes,600517,Mecklenburg,Charlotte,"4108 W Tyvola Rd, Charlotte, NC 28208",-80.90523,35.204946,Charlotte-Mecklenburg Schools,Southwest,Y,78.1,D,Met,43.7,N/A
+CIS of Charlotte-Mecklenburg,Renaissance West STEAM Academy,yes,600515,Mecklenburg,Charlotte,"3241 New Renaissance Way, Charlotte, NC 28208",-80.9209172,35.2076074,Charlotte-Mecklenburg Schools,Southwest,Y,76.1,F,Not Met,22.4,N/A
+N/A,Waldo C Falkener Sr Elementary,no,410366,Guilford,Greensboro,"3931 Naco Road, Greensboro, NC 27401",-79.7363892,36.0820795,Guilford County Schools,Piedmont-Triad,Y,79,D,Not Met,35.1,N/A
+CIS of Charlotte-Mecklenburg,Bruns Avenue Elementary,yes,600489,Mecklenburg,Charlotte,"501 S. Bruns Ave, Charlotte, NC 28208",-80.8648481,35.2391236,Charlotte-Mecklenburg Schools,Southwest,Y,75.3,F,Met,20.2,N/A
+N/A,Julius I Foust Elementary,no,410373,Guilford,Greensboro,"2610 Floyd Street, Greensboro, NC 27406",-79.8092312,36.0372463,Guilford County Schools,Piedmont-Triad,Y,67.2,D,Met,38.4,N/A
+N/A,Cyrus P Frazier Elementary,no,410376,Guilford,Greensboro,"4215 Galway Drive, Greensboro, NC 27406",-79.8251234,36.0121973,Guilford County Schools,Piedmont-Triad,Y,69.3,D,Met,44.4,N/A
+N/A,Gillespie Park Elementary,no,410385,Guilford,Greensboro,"1900 Martin Luther King Jr Drive, Greensboro, NC 27406",-79.7784483,36.0490322,Guilford County Schools,Piedmont-Triad,Y,77.2,D,Met,29,N/A
+N/A,Western Guilford Middle,no,410397,Guilford,Greensboro,"401 College Road, Greensboro, NC 27410",-79.8946519,36.083142,Guilford County Schools,Piedmont-Triad,Y,76.4,D,Not Met,47.5,N/A
+N/A,Doris Henderson Newcomers Sch,no,410398,Guilford,Greensboro,"411 Friendway Road, Greensboro, NC 27410",-79.9042984,36.0819119,Guilford County Schools,Piedmont-Triad,Y,40.8,F,Not Available,5,N/A
+N/A,Otis L Hairston Sr Middle,no,410402,Guilford,Greensboro,"3911 Naco Rd, Greensboro, NC 27401",-79.7384171,36.0814709,Guilford County Schools,Piedmont-Triad,Y,78.3,D,Met,29.4,N/A
+N/A,Hampton Elem Univ Partnership,no,410403,Guilford,Greensboro,"2301 Trade Street, Greensboro, NC 27401",-79.7544451,36.0668121,Guilford County Schools,Piedmont-Triad,Y,76.4,D,Exceeded,39.4,N/A
+CIS of Charlotte-Mecklenburg,Ashley Park PreK-8 School,yes,600311,Mecklenburg,Charlotte,"2401 Belfast Dr, Charlotte, NC 28208",-80.891217,35.232769,Charlotte-Mecklenburg Schools,Southwest,Y,74.2,D,Met,31.1,N/A
+N/A,Jackson Middle,no,410415,Guilford,Greensboro,"2200 Ontario Street, Greensboro, NC 27403",-79.8275254,36.0479436,Guilford County Schools,Piedmont-Triad,Y,66.4,D,Met,36.4,N/A
+N/A,Kirkman Park Elementary,no,410439,Guilford,High Point,"1101 North Centennial Street, High Point, NC 27262",-80.003043,35.973671,Guilford County Schools,Piedmont-Triad,Y,74.5,D,Met,30.7,N/A
+N/A,Eastern Guilford Middle,no,410460,Guilford,Gibsonville,"435 Peeden Drive, Gibsonville, NC 27249",-79.6149641,36.0987373,Guilford County Schools,Piedmont-Triad,Y,45.7,D,Not Met,44,N/A
+N/A,Ronald E. McNair Elementary,no,410462,Guilford,Browns Summit,"4603 Yanceyville Road, Browns Summit, NC 27214",-79.7735431,36.1605354,Guilford County Schools,Piedmont-Triad,Y,64.4,D,Not Met,41.8,N/A
+CIS of Charlotte-Mecklenburg,Allenbrook Elementary,yes,600308,Mecklenburg,Charlotte,"1430 Allenbrook Dr, Charlotte, NC 28208",-80.9151119,35.261705,Charlotte-Mecklenburg Schools,Southwest,Y,73.4,F,Not Met,30.4,N/A
+N/A,Murphey Traditional Academy,no,410478,Guilford,Greensboro,"2306 Ontario Street, Greensboro, NC 27403",-79.8297537,36.0465966,Guilford County Schools,Piedmont-Triad,Y,70.5,D,Met,34.1,N/A
+N/A,Northeast Guilford Middle,no,410487,Guilford,McLeansville,"6720 McLeansville Road, McLeansville, NC 27301",-79.6751128,36.1613338,Guilford County Schools,Piedmont-Triad,Y,55,D,Exceeded,41.1,N/A
+CIS of Charlotte-Mecklenburg,Westerly Hills Academy,yes,600577,Mecklenburg,Charlotte,"4420 Denver Ave, Charlotte, NC 28208",-80.9110091,35.2322231,Charlotte-Mecklenburg Schools,Southwest,Y,72.9,D,Met,41.8,N/A
+N/A,Oak View Elementary,no,410505,Guilford,High Point,"614 Oakview Road, High Point, NC 27265",-80.0160023,35.9999141,Guilford County Schools,Piedmont-Triad,Y,64,D,Not Met,37.2,N/A
+N/A,Parkview Village Elementary,no,410511,Guilford,High Point,"325 Gordon Street, High Point, NC 27260",-79.9830726,35.9693771,Guilford County Schools,Piedmont-Triad,Y,82.1,D,Met,34.5,N/A
+N/A,Clara J Peck Elementary,no,410514,Guilford,Greensboro,"1601 West Florida Street, Greensboro, NC 27403",-79.8176267,36.0512123,Guilford County Schools,Piedmont-Triad,Y,78,D,Met,36,N/A
+N/A,Peeler Open Elementary,no,410517,Guilford,Greensboro,"2200 Randall Street, Greensboro, NC 27401",-79.75761,36.051725,Guilford County Schools,Piedmont-Triad,Y,68,D,Met,36.8,N/A
+N/A,Reedy Fork Elementary,no,410530,Guilford,Greensboro,"4571 Reedy Fork Parkway, Greensboro, NC 27405",-79.6963377,36.186193,Guilford County Schools,Piedmont-Triad,Y,72.3,D,Not Met,46.2,N/A
+N/A,Rankin Elementary,no,410532,Guilford,Greensboro,"1501 Spry Street, Greensboro, NC 27405",-79.763688,36.120172,Guilford County Schools,Piedmont-Triad,Y,71.4,D,Met,35.9,N/A
+N/A,"Sedgefield Elementary, Greensboro",no,410538,Guilford,Greensboro,"2905 Groometown Road, Greensboro, NC 27407",-79.865345,36.028822,Guilford County Schools,Piedmont-Triad,Y,60.9,D,Not Met,38.6,N/A
+N/A,George C Simkins Jr Elementary,no,410542,Guilford,Greensboro,"3511 East Lee St, Greensboro, NC 27406",-79.725501,36.044825,Guilford County Schools,Piedmont-Triad,Y,80.3,D,Not Met,46.6,N/A
+CIS of Charlotte-Mecklenburg,Thomasboro Academy,yes,600553,Mecklenburg,Charlotte,"538 Bradford Dr, Charlotte, NC 28208",-80.8987366,35.2544538,Charlotte-Mecklenburg Schools,Southwest,Y,67.7,D,Exceeded,30.5,N/A
+N/A,Sumner Elementary,no,410577,Guilford,Greensboro,"1915 Harris Drive, Greensboro, NC 27406",-79.8308492,35.9850207,Guilford County Schools,Piedmont-Triad,Y,63.8,D,Not Met,44,N/A
+N/A,Vandalia Elementary,no,410583,Guilford,Greensboro,"407 East Vandalia Road, Greensboro, NC 27406",-79.7798575,36.0173521,Guilford County Schools,Piedmont-Triad,Y,67.8,D,Met,31.9,N/A
+N/A,"Washington Elementary, Greensboro",no,410586,Guilford,Greensboro,"1110 East Washington Street, Greensboro, NC 27401",-79.773987,36.068205,Guilford County Schools,Piedmont-Triad,Y,73.8,D,Exceeded,30,N/A
+N/A,Wiley Accel/Enrichment,no,410598,Guilford,Greensboro,"600 West Terrell Street, Greensboro, NC 27406",-79.8024983,36.0486215,Guilford County Schools,Piedmont-Triad,Y,85.9,F,Not Met,22,N/A
+N/A,College Prep and Leadership Academy,no,41H000,Guilford,Jamestown,"4201 Furniture Avenue, Jamestown, NC 27282",-79.922666,35.968148,Charter Schools,Piedmont-Triad,Y,62,D,Not Met,46.4,N/A
+N/A,Gate City Charter,no,41L000,Guilford,Greensboro,"123 Flemingfield Road, Greensboro, NC 27405",-79.710089,36.090168,Charter Schools,Piedmont-Triad,Y,67.2,D,Met,43.6,N/A
+N/A,The Experiential School of Greensboro,no,41N000,Guilford,Greensboro," 301 S Church St, Greensboro, NC 27401",-79.786686,36.0706149,Charter Schools,Piedmont-Triad,N,18.7,D,Not Met,50,N/A
+CIS of Charlotte-Mecklenburg,Hidden Valley Elementary,yes,600412,Mecklenburg,Charlotte,"5100 Snow White Ln, Charlotte, NC 28213",-80.784279,35.268156,Charlotte-Mecklenburg Schools,Southwest,Y,65.6,D,Met,44.1,N/A
+N/A,Scotland Neck Elementary Leadership Acad,no,420316,Halifax,Scotland Neck,"901 Junior High School Road, Scotland Neck, NC 27874",-77.4281162,36.1269172,Halifax County Schools,Northeast,Y,76.6,F,Not Met,29.8,N/A
+N/A,Enfield Middle S.T.E.A.M. Academy,no,420324,Halifax,Enfield,"13723 Hwy 481, Enfield, NC 27823",-77.6973623,36.1785217,Halifax County Schools,Northeast,Y,72,D,Met,32.8,N/A
+N/A,Everetts Elementary S.T.E.M. Academy,no,420328,Halifax,Roanoke Rapids,"4391 Highway 158, Roanoke Rapids, NC 27870",-77.7446678,36.4449469,Halifax County Schools,Northeast,Y,71.2,F,Met,29.5,N/A
+CIS of Charlotte-Mecklenburg,Wilson STEM Academy,yes,600583,Mecklenburg,Charlotte,"7020 Tuckaseegee Rd. , Charlotte, NC 28214",-80.945733,35.249473,Charlotte-Mecklenburg Schools,Southwest,Y,64.7,F,Not Met,24.3,N/A
+N/A,Southeast Halifax Collegiate Prep Academ,no,420358,Halifax,Halifax,"16683 Hwy 125, Halifax, NC 27839",-77.5507677,36.2193662,Halifax County Schools,Northeast,Y,64.2,D,Met,11.2,74.7
+N/A,William R Davie Middle S.T.E.M. Academy,no,420376,Halifax,Roanoke Rapids,"4391 Hwy 158, Roanoke Rapids, NC 27870",-77.7446678,36.4449469,Halifax County Schools,Northeast,Y,61.5,D,Met,39.2,N/A
+N/A,Weldon Elementary Global Academy,no,422314,Halifax,Weldon,"805 Washington Ave, Weldon, NC 27890",-77.6005263,36.4210276,Weldon City Schools,Northeast,Y,71.3,F,Not Met,25.2,N/A
+N/A,Weldon Middle,no,422318,Halifax,Halifax,"4489 Highway 301, Halifax, NC 27839",-77.5894446,36.3683802,Weldon City Schools,Northeast,Y,70.9,D,Not Met,34.9,N/A
+N/A,KIPP Halifax College Prep,no,42A000,Halifax,Halifax,"9986 Hwy 903, Halifax, NC 27839",-77.6812959,36.3675464,Charter Schools,Northeast,Y,61.2,D,Met,44.4,N/A
+N/A,Anderson Creek Primary,no,430304,Harnett,Bunnlevel,"914 Anderson Creek Sch Rd, Bunnlevel, NC 28323",-78.9174683,35.2817479,Harnett County Schools,North Central,Y,57.1,D,Not Available,Not Available,N/A
+N/A,Angier Elementary,no,430308,Harnett,Angier,"130 E McIver St, Angier, NC 27501",-78.7361073,35.5028926,Harnett County Schools,North Central,Y,73.5,D,Exceeded,41.9,N/A
+N/A,Boone Trail Elementary,no,430316,Harnett,Lillington,"1425 Adcock Road, Lillington, NC 27546",-78.9506556,35.4000394,Harnett County Schools,North Central,Y,69.3,D,Not Met,46.7,N/A
+N/A,Dunn Middle,no,430332,Harnett,Dunn,"1301 Meadowlark Road, Dunn, NC 28334",-78.6116773,35.3352176,Harnett County Schools,North Central,N,67.9,D,Met,43.8,N/A
+N/A,Erwin Elementary,no,430336,Harnett,Erwin,"301 S 10th St, Erwin, NC 28339",-78.6699864,35.3254214,Harnett County Schools,North Central,Y,58.4,D,Met,46.3,N/A
+N/A,Gentry Primary,no,430340,Harnett,Erwin,"114 Porter Drive, Erwin, NC 28339",-78.6702903,35.3374983,Harnett County Schools,North Central,Y,67.3,D,Not Available,Not Available,N/A
+N/A,Harnett Central Middle,no,430347,Harnett,Angier,"2529 Harnett Central Rd, Angier, NC 27501",-78.7861368,35.4627231,Harnett County Schools,North Central,N,59.3,D,Not Met,46.9,N/A
+N/A,North Harnett Primary,no,430368,Harnett,Angier,"282 N Harnett School Rd, Angier, NC 27501",-78.779675,35.4779323,Harnett County Schools,North Central,Y,73.8,D,Not Available,Not Available,N/A
+N/A,South Harnett Elementary,no,430376,Harnett,Bunnlevel,"8335 NC 210 South, Bunnlevel, NC 28323",-78.8954255,35.2979077,Harnett County Schools,North Central,Y,65.4,D,Met,47.9,N/A
+N/A,Wayne Avenue Elem,no,430380,Harnett,Dunn,"910 W Harnett St, Dunn, NC 28334",-78.6177517,35.315864,Harnett County Schools,North Central,Y,71.2,F,Not Met,29.4,N/A
+CIS of Charlotte-Mecklenburg,Highland Renaissance Academy,yes,600414,Mecklenburg,Charlotte,"125 W Craighead Rd, Charlotte, NC 28206",-80.8036049,35.255572,Charlotte-Mecklenburg Schools,Southwest,Y,63.5,D,Not Met,39.6,N/A
+N/A,Ahoskie Elementary,no,460308,Hertford,Ahoskie,"200 N Talmage St, Ahoskie, NC 27910",-76.994518,36.2916745,Hertford County Schools,Northeast,Y,63.7,F,Not Met,34.3,N/A
+N/A,Hertford County Middle,no,460318,Hertford,Murfreesboro,"1850 Hwy 11N, Murfreesboro, NC 27855",-77.0887329,36.429706,Hertford County Schools,Northeast,Y,58.2,D,Exceeded,28.5,N/A
+N/A,Hertford County High,no,460320,Hertford,Ahoskie,"1500 W First St, Ahoskie, NC 27910",-76.997607,36.2962907,Hertford County Schools,Northeast,Y,55.2,D,Not Met,24.5,74.7
+N/A,East Hoke Middle,no,470332,Hoke,Raeford,"4702 Fayetteville Rd, Raeford, NC 28376",-79.1709903,35.0062456,Hoke County Schools,Sandhills,Y,69.8,D,Not Met,46,N/A
+N/A,Mattamuskeet Elementary,no,480306,Hyde,Swan Quarter,"60 Juniper Bay Road, Swan Quarter, NC 27885",-76.217128,35.440926,Hyde County Schools,Northeast,Y,71,D,Met,43.8,N/A
+N/A,Cloverleaf Elementary,no,490319,Iredell,Statesville,"300 James Farm Rd, Statesville, NC 28625",-80.862627,35.8233,Iredell-Statesville Schools,Southwest,Y,64.2,D,Met,37.1,N/A
+N/A,East Iredell Middle,no,490327,Iredell,Statesville,"590 Chestnut Grove Road, Statesville, NC 28625",-80.7901044,35.8368572,Iredell-Statesville Schools,Southwest,N,73.3,D,Exceeded,39,N/A
+N/A,N B Mills Elementary,no,490345,Iredell,Statesville,"1410 Pearl St, Statesville, NC 28677",-80.9112357,35.7881576,Iredell-Statesville Schools,Southwest,Y,87.9,F,Not Met,28.2,N/A
+N/A,Statesville Middle,no,490352,Iredell,Statesville,"321 Clegg St, Statesville, NC 28677",-80.8716356,35.7870265,Iredell-Statesville Schools,Southwest,N,82.2,F,Met,23,N/A
+N/A,Statesville High,no,490354,Iredell,Statesville,"474 N Center St, Statesville, NC 28677",-80.8918139,35.7935193,Iredell-Statesville Schools,Southwest,N,62.5,D,Not Met,27.8,82.9
+N/A,Troutman Middle,no,490366,Iredell,Troutman,"305 Rumple St, Troutman, NC 28166",-80.8853386,35.6975947,Iredell-Statesville Schools,Southwest,N,47.1,D,Not Met,50.4,N/A
+N/A,Success Institute Charter,no,49D000,Iredell,Statesville,"1424-2 Rickert St, Statesville, NC 28677",-80.878632,35.766089,Charter Schools,Southwest,Y,60,D,Met,35,N/A
+N/A,Iredell Charter Academy,no,49G000,Iredell,Troutman,"251 Home Improvement Street, Troutman, NC 28166",-80.85152,35.6692536,Charter Schools,Southwest,Y,36.1,D,Not Met,43.3,N/A
+CIS of Charlotte-Mecklenburg,Winterfield Elementary,yes,600589,Mecklenburg,Charlotte,"3100 Winterfield Pl, Charlotte, NC 28205",-80.766898,35.208093,Charlotte-Mecklenburg Schools,Southwest,Y,63.1,D,Met,36.2,N/A
+CIS of Charlotte-Mecklenburg,Marie G Davis,yes,600366,Mecklenburg,Charlotte,"3351 W Griffith St, Charlotte, NC 28203",-80.876607,35.2025539,Charlotte-Mecklenburg Schools,Southwest,Y,61.7,D,Not Met,37.7,N/A
+N/A,Blue Ridge School,no,500316,Jackson,Cashiers,"95 Bobcat Drive, Cashiers, NC 28717",-83.1202056,35.1284311,Jackson County Schools,Western,Y,42,D,Not Met,49,N/A
+N/A,Catamount School,no,50Z000,Jackson,Sylva,"100 Smoky Mountain Dr, Sylva, NC 28779",-83.199302,35.3535224,Lab Schools,Western,Y,45.5,D,Not Met,46.4,N/A
+N/A,Benson Elementary,no,510308,Johnston,Benson,"2040 Hwy 50 N, Benson, NC 27504",-78.5550559,35.400258,Johnston County Schools,North Central,Y,67.7,D,Not Met,37.1,N/A
+N/A,Benson Middle,no,510310,Johnston,Benson,"1600 N Wall Street, Benson, NC 27504",-78.532152,35.389153,Johnston County Schools,North Central,Y,63.2,D,Met,39.5,N/A
+N/A,West Clayton Elementary,no,510326,Johnston,Clayton,"1012 S Lombard St, Clayton, NC 27520",-78.4698663,35.6434764,Johnston County Schools,North Central,N,43.2,D,Not Met,48.4,N/A
+N/A,Cooper Academy,no,510330,Johnston,Clayton,"849 North Mial St, Clayton, NC 27520",-78.451331,35.656123,Johnston County Schools,North Central,Y,59.2,D,Met,31,N/A
+N/A,Corinth-Holders Elementary,no,510332,Johnston,Zebulon,"3976 NC 231, Zebulon, NC 27597",-78.297015,35.7331302,Johnston County Schools,North Central,Y,59.1,D,Not Met,44.3,N/A
+N/A,Micro Elementary,no,510343,Johnston,Micro,"301 E Main St, Micro, NC 27555",-78.2012374,35.5588812,Johnston County Schools,North Central,Y,69,D,Met,36,N/A
+N/A,North Johnston Middle,no,510344,Johnston,Micro,"435 Oil Company Road, Micro, NC 27555",-78.2090722,35.5637019,Johnston County Schools,North Central,Y,61.1,F,Not Met,31.8,N/A
+N/A,Selma Elementary,no,510388,Johnston,Selma,"311 W Richardson St, Selma, NC 27576",-78.2823172,35.5409764,Johnston County Schools,North Central,Y,67.2,D,Exceeded,37.9,N/A
+N/A,Selma Middle School,no,510390,Johnston,Selma,"1533 Hwy 301 N, Selma, NC 27576",-78.2748438,35.5503635,Johnston County Schools,North Central,Y,68.9,F,Not Met,23.6,N/A
+N/A,West Smithfield Elementary,no,510396,Johnston,Smithfield,"2665 Galilee Road, Smithfield, NC 27577",-78.406682,35.501511,Johnston County Schools,North Central,Y,70.7,D,Met,27.7,N/A
+N/A,Smithfield Middle,no,510397,Johnston,Smithfield,"1455 Buffalo Rd, Smithfield, NC 27577",-78.3350609,35.5288456,Johnston County Schools,North Central,Y,81.3,D,Not Met,41,N/A
+N/A,South Smithfield Elementary,no,510404,Johnston,Smithfield,"201 W Sanders St, Smithfield, NC 27577",-78.3582032,35.500592,Johnston County Schools,North Central,Y,66.1,D,Not Met,34.8,N/A
+N/A,Wilson's Mills Elementary,no,510408,Johnston,Wilson's Mills,"4654 Wilson's Mills Rd, Wilson's Mills, NC 27593",-78.358707,35.58402,Johnston County Schools,North Central,Y,75.6,D,Met,41.9,N/A
+N/A,Polenta Elementary,no,510410,Johnston,Garner,"105 Josephine Road, Garner, NC 27529",-78.5125549,35.5677849,Johnston County Schools,North Central,N,35.3,D,Not Met,51.5,N/A
+N/A,Clayton Middle,no,510412,Johnston,Clayton,"490 Guy Rd, Clayton, NC 27520",-78.4851543,35.6449995,Johnston County Schools,North Central,N,44.8,D,Met,44.3,N/A
+N/A,East Lee Middle,no,530314,Lee,Sanford,"1337 Broadway Rd, Sanford, NC 27330",-79.1138168,35.4610356,Lee County Schools,North Central,N,66.6,D,Not Met,49.1,N/A
+N/A,West Lee Middle,no,530356,Lee,Sanford,"3301 Wicker St, Sanford, NC 27330",-79.2150667,35.468466,Lee County Schools,North Central,N,68.5,D,Not Met,48.5,N/A
+N/A,Ascend Leadership Academy Lee County,no,53B000,Lee,Sanford,"283 Harvey Faulk Road, Sanford NC 27332",-79.1258193,35.4338052,Charter Schools,North Central,Y,17.4,D,Not Met,54.1,N/A
+N/A,Kinston High,no,540315,Lenoir,Kinston,"2601 N Queen St, Kinston, NC 28501",-77.575268,35.2956029,Lenoir County Public Schools,Southeast,Y,86,D,Not Met,27.1,82
+N/A,"Northeast Elementary, Kinston",no,540325,Lenoir,Kinston,"1002 E Highland Ave, Kinston, NC 28501",-77.5621283,35.2813382,Lenoir County Public Schools,Southeast,Y,93.7,D,Met,31.5,N/A
+N/A,"Northwest Elementary, Kinston",no,540326,Lenoir,Kinston,"1701 Old Well Rd, Kinston, NC 28504",-77.6033103,35.2783438,Lenoir County Public Schools,Southeast,Y,82,D,Met,41.5,N/A
+N/A,Rochelle Middle,no,540330,Lenoir,Kinston,"301 N Rochelle Blvd, Kinston, NC 28501",-77.561315,35.2629181,Lenoir County Public Schools,Southeast,Y,91.6,F,Not Met,26.4,N/A
+N/A,Southeast Elementary,no,540338,Lenoir,Kinston,"201 McDaniels Street, Kinston, NC 28501",-77.571454,35.257961,Lenoir County Public Schools,Southeast,Y,95,D,Met,36.9,N/A
+N/A,Children's Village Academy,no,54A000,Lenoir,Kinston,"701 North Adkin Street, Kinston, NC 28501",-77.5671434,35.2667229,Charter Schools,Southeast,Y,91.3,F,Not Met,27.8,N/A
+CIS of Charlotte-Mecklenburg,Merry Oaks International Academy,yes,600453,Mecklenburg,Charlotte,"3508 Draper Ave, Charlotte, NC 28205",-80.7828269,35.2190728,Charlotte-Mecklenburg Schools,Southwest,Y,60.1,C,Met,48,N/A
+N/A,Battleground Elementary,no,550312,Lincoln,Lincolnton,"201 Jeb Seagle Dr, Lincolnton, NC 28092",-81.2624659,35.4801701,Lincoln County Schools,Southwest,Y,65.6,D,Met,44.3,N/A
+CIS of Charlotte-Mecklenburg,Statesville Road Elementary,yes,600546,Mecklenburg,Charlotte,"5521 Milhaven Ln, Charlotte, NC 28269",-80.8466877,35.2961147,Charlotte-Mecklenburg Schools,Southwest,Y,60,D,Not Met,40,N/A
+CIS of Charlotte-Mecklenburg,Albemarle Road Elementary,yes,600300,Mecklenburg,Charlotte,"7800 Riding Trail Rd, Charlotte, NC 28212",-80.729483,35.197161,Charlotte-Mecklenburg Schools,Southwest,Y,57.7,C,Met,52.2,N/A
+CIS of Charlotte-Mecklenburg,Sedgefield Middle,yes,600520,Mecklenburg,Charlotte,"2700 Dorchester Pl, Charlotte, NC 28209",-80.8562773,35.1972991,Charlotte-Mecklenburg Schools,Southwest,Y,57.3,D,Met,27.3,N/A
+N/A,East Franklin Elementary,no,560316,Macon,Franklin,"100 Watauga St, Franklin, NC 28734",-83.37192,35.189442,Macon County Schools,Western,Y,42.4,D,Not Met,44.7,N/A
+N/A,Williamston Primary,no,580308,Martin,Williamston,"400 West Blvd, Williamston, NC 27892",-77.0733337,35.8426174,Martin County Schools,Northeast,Y,64.5,D,Not Available,Not Available,N/A
+N/A,E J Hayes Elementary,no,580312,Martin,Williamston,"201 Andrews St, Williamston, NC 27892",-77.0624277,35.84707,Martin County Schools,Northeast,Y,58.2,D,Met,44.5,N/A
+N/A,East End Elementary,no,580316,Martin,Robersonville,"1121 Third Street Extension, Robersonville, NC 27871",-77.243127,35.823213,Martin County Schools,Northeast,Y,64.8,F,Not Met,33.1,N/A
+N/A,South Creek High,no,580344,Martin,Robersonville,"21077 NC Hwy 903, Robersonville, NC 27871",-77.243593,35.856241,Martin County Schools,Northeast,Y,52.5,D,Not Met,29.6,73.1
+N/A,Riverside Middle,no,580372,Martin,Williamston,"2920 US Hwy 17, Williamston, NC 27892",-77.067263,35.81482,Martin County Schools,Northeast,Y,54.3,D,Not Met,39,N/A
+CIS of Charlotte-Mecklenburg,Phillip O Berry Academy of Technology,yes,600496,Mecklenburg,Charlotte,"1430 Alleghany St, Charlotte, NC 28208",-80.8916489,35.2392789,Charlotte-Mecklenburg Schools,Southwest,N,56.3,B,Met,62,95
+CIS of Charlotte-Mecklenburg,Martin Luther King Jr Middle,yes,600448,Mecklenburg,Charlotte,"500 Bilmark Ave, Charlotte, NC 28213",-80.7784325,35.2633482,Charlotte-Mecklenburg Schools,Southwest,Y,56.2,D,Exceeded,39.8,N/A
+CIS of Charlotte-Mecklenburg,West Charlotte High,yes,600576,Mecklenburg,Charlotte,"2219 Senior Dr, Charlotte, NC 28216",-80.8597686,35.2660082,Charlotte-Mecklenburg Schools,Southwest,Y,56,D,Not Met,26,68.3
+N/A,Charlotte East Language Academy,no,600303,Mecklenburg,Charlotte,"6108 Wilora Lake Rd, Charlotte, NC 28212",-80.746881,35.208697,Charlotte-Mecklenburg Schools,Southwest,Y,57,D,Not Met,41.2,N/A
+N/A,J M Alexander Middle,no,600305,Mecklenburg,Huntersville,"12010 Hambright Rd, Huntersville, NC 28078",-80.8382067,35.3761224,Charlotte-Mecklenburg Schools,Southwest,N,52.4,D,Not Met,48.5,N/A
+CIS of Charlotte-Mecklenburg,Ranson Middle,yes,600514,Mecklenburg,Charlotte,"5850 Statesville Rd, Charlotte, NC 28269",-80.8389821,35.3003216,Charlotte-Mecklenburg Schools,Southwest,Y,55.7,F,Not Met,27.9,N/A
+CIS of Charlotte-Mecklenburg,Briarwood Elementary,yes,600329,Mecklenburg,Charlotte,"1001 Wilann Dr, Charlotte, NC 28215",-80.7655207,35.2518088,Charlotte-Mecklenburg Schools,Southwest,Y,55.3,C,Exceeded,49.8,N/A
+CIS of Charlotte-Mecklenburg,Newell Elementary,yes,600474,Mecklenburg,Charlotte,"325 Rocky River Road, West, Charlotte, NC 28213",-80.7535508,35.2867519,Charlotte-Mecklenburg Schools,Southwest,Y,53.5,D,Met,45.2,N/A
+CIS of Charlotte-Mecklenburg,East Mecklenburg High,yes,600377,Mecklenburg,Charlotte,"6800 Monroe Rd, Charlotte, NC 28212",-80.7579975,35.1752502,Charlotte-Mecklenburg Schools,Southwest,N,52.7,B,Exceeded,61.7,83.6
+CIS of Charlotte-Mecklenburg,Eastway Middle,yes,600381,Mecklenburg,Charlotte,"1501 Norland Rd, Charlotte, NC 28205",-80.7779054,35.2096706,Charlotte-Mecklenburg Schools,Southwest,Y,52.6,D,Met,35.7,N/A
+CIS of Charlotte-Mecklenburg,Harding University High,yes,600405,Mecklenburg,Charlotte,"2001 Alleghany St, Charlotte, NC 28208",-80.903264,35.2360718,Charlotte-Mecklenburg Schools,Southwest,Y,51.7,D,Not Met,28.4,55.6
+CIS of Charlotte-Mecklenburg,Independence High,yes,600426,Mecklenburg,Charlotte,"1967 Patriot Dr, Charlotte, NC 28227",-80.6874383,35.1972437,Charlotte-Mecklenburg Schools,Southwest,N,51.1,B,Exceeded,53.4,85.6
+CIS of Charlotte-Mecklenburg,Rama Road Elementary,yes,600512,Mecklenburg,Charlotte,"1035 Rama Rd, Charlotte, NC 28211",-80.7715531,35.169906,Charlotte-Mecklenburg Schools,Southwest,Y,50.7,C,Met,47.3,N/A
+N/A,David Cox Road Elementary,no,600362,Mecklenburg,Charlotte,"4215 David Cox Rd, Charlotte, NC 28269",-80.800904,35.336565,Charlotte-Mecklenburg Schools,Southwest,Y,44,D,Not Met,40.2,N/A
+N/A,Military and Global Leadership Academy,no,600364,Mecklenburg,Charlotte,"1411 Hawthorne Lane, Ste A, Charlotte, NC 28205",-80.8146806,35.2286724,Charlotte-Mecklenburg Schools,Southwest,Y,35.9,D,Met,33.3,N/A
+N/A,Devonshire Elementary,no,600365,Mecklenburg,Charlotte,"6500 Barrington Dr, Charlotte, NC 28215",-80.745853,35.245259,Charlotte-Mecklenburg Schools,Southwest,Y,58.2,D,Not Met,42.4,N/A
+CIS of Charlotte-Mecklenburg,Cochrane Collegiate Academy,yes,600341,Mecklenburg,Charlotte,"6200 Starhaven Dr, Charlotte, NC 28215",-80.7503253,35.2461762,Charlotte-Mecklenburg Schools,Southwest,Y,50.5,D,Not Met,32.1,83.3
+CIS of Charlotte-Mecklenburg,Whitewater Middle,yes,600317,Mecklenburg,Charlotte,"10201 Running Rapids Rd, Charlotte, NC 28214",-80.9900735,35.2830935,Charlotte-Mecklenburg Schools,Southwest,Y,50.3,C,Exceeded,44.9,N/A
+CIS of Charlotte-Mecklenburg,Tuckaseegee Elementary,yes,600562,Mecklenburg,Charlotte,"2028 Little Rock Rd, Charlotte, NC 28214",-80.9419409,35.2497076,Charlotte-Mecklenburg Schools,Southwest,Y,50.1,D,Not Met,44.4,N/A
+CIS of Charlotte-Mecklenburg,Sterling Elementary,yes,600550,Mecklenburg,Pineville,"9601 China Grove Church Rd, Pineville, NC 28134",-80.884907,35.107476,Charlotte-Mecklenburg Schools,Southwest,Y,49.7,D,Met,37.4,N/A
+CIS of Charlotte-Mecklenburg,Albemarle Road Middle,yes,600301,Mecklenburg,Charlotte,"6900 Democracy Dr, Charlotte, NC 28212",-80.729263,35.199266,Charlotte-Mecklenburg Schools,Southwest,Y,49.1,D,Met,43.1,N/A
+CIS of Charlotte-Mecklenburg,Garinger High,yes,600397,Mecklenburg,Charlotte,"1100 Eastway Dr, Charlotte, NC 28205",-80.7819839,35.2409597,Charlotte-Mecklenburg Schools,Southwest,Y,48.5,C,Exceeded,35.5,67.2
+N/A,Greenway Park Elementary,no,600398,Mecklenburg,Charlotte,"8301 Monroe Rd, Charlotte, NC 28212",-80.745946,35.157393,Charlotte-Mecklenburg Schools,Southwest,Y,52.8,D,Not Met,49.2,N/A
+CIS of Charlotte-Mecklenburg,Billingsville Elementary,yes,600335,Mecklenburg,Charlotte,"124 Skyland Ave, Charlotte, NC 28205",-80.8100428,35.1968477,Charlotte-Mecklenburg Schools,Southwest,Y,46.4,C,Not available,Not available,N/A
+CIS of Charlotte-Mecklenburg,Coulwood STEM Academy,yes,600351,Mecklenburg,Charlotte,"500 Kentberry Dr, Charlotte, NC 28214",-80.9446695,35.3039568,Charlotte-Mecklenburg Schools,Southwest,Y,44.3,C,Exceeded,53.3,N/A
+CIS of Charlotte-Mecklenburg,Montclaire Elementary,yes,600459,Mecklenburg,Charlotte,"5801 Farmbrook Dr, Charlotte, NC 28210",-80.8672692,35.152272,Charlotte-Mecklenburg Schools,Southwest,Y,43.5,D,Met,34.8,N/A
+N/A,Hornets Nest Elementary,no,600416,Mecklenburg,Charlotte,"6700 Beatties Ford Rd, Charlotte, NC 28216",-80.865288,35.324731,Charlotte-Mecklenburg Schools,Southwest,Y,49.9,D,Met,43,N/A
+N/A,Croft Community Elementary,no,600418,Mecklenburg,Charlotte,"4911 Hucks Rd, Charlotte, NC 28269",-80.805389,35.346554,Charlotte-Mecklenburg Schools,Southwest,N,47.7,D,Not Met,54.2,N/A
+CIS of Charlotte-Mecklenburg,James Martin Middle,yes,600428,Mecklenburg,Charlotte,"6301 University Pointe Blvd, Charlotte, NC 28262",-80.7626043,35.2977496,Charlotte-Mecklenburg Schools,Southwest,Y,42.5,F,Not Met,32.9,N/A
+CIS of Charlotte-Mecklenburg,Shamrock Gardens Elementary,yes,600527,Mecklenburg,Charlotte,"3301 Country Club Dr, Charlotte, NC 28205",-80.788413,35.233947,Charlotte-Mecklenburg Schools,Southwest,Y,42.1,C,Not Met,64,N/A
+N/A,Joseph W Grier Academy,no,600432,Mecklenburg,Charlotte,"8330 Grier Rd, Charlotte, NC 28215",-80.7255165,35.2678122,Charlotte-Mecklenburg Schools,Southwest,Y,44.9,D,Not Met,50.4,N/A
+CIS of Charlotte-Mecklenburg,McClintock Middle,yes,600450,Mecklenburg,Charlotte,"1925 Rama Rd, Charlotte, NC 28212",-80.7687239,35.1799531,Charlotte-Mecklenburg Schools,Southwest,Y,42,C,Met,51.8,N/A
+CIS of Charlotte-Mecklenburg,Governors Village STEM Academy (Lower),yes,600468,Mecklenburg,Charlotte,"7910 Neal Rd, Charlotte, NC 28262",-80.7746749,35.2989247,Charlotte-Mecklenburg Schools,Southwest,Y,41.7,C,Not Met,58.5,N/A
+CIS of Charlotte-Mecklenburg,Berryhill School,yes,600319,Mecklenburg,Charlotte,"10501 Windy Grove Rd, Charlotte, NC 28278",-80.990504,35.213002,Charlotte-Mecklenburg Schools,Southwest,Y,40.7,C,Exceeded,51.2,N/A
+CIS of Charlotte-Mecklenburg,Vance High,yes,600592,Mecklenburg,Charlotte,"7600 IBM Dr, Charlotte, NC 28262",-80.7689268,35.3001651,Charlotte-Mecklenburg Schools,Southwest,Y,40.7,D,Not Met,34.6,76.5
+N/A,River Oaks Academy,no,600463,Mecklenburg,Charlotte,"1015 Mt Holly-Huntersville Rd, Charlotte, NC 28214",-80.9785597,35.3084442,Charlotte-Mecklenburg Schools,Southwest,Y,39,D,Not Met,48.6,N/A
+CIS of Charlotte-Mecklenburg,West Mecklenburg High,yes,600579,Mecklenburg,Charlotte,"7400 Tuckaseegee Rd, Charlotte, NC 28214",-80.9520921,35.2473959,Charlotte-Mecklenburg Schools,Southwest,Y,40.5,C,Not Met,32.1,73.7
+CIS of Charlotte-Mecklenburg,South Mecklenburg High,yes,600535,Mecklenburg,Charlotte,"8900 Park Rd, Charlotte, NC 28210",-80.8608985,35.1101144,Charlotte-Mecklenburg Schools,Southwest,N,40.3,B,Exceeded,65.9,86.5
+N/A,Nations Ford Elementary,no,600471,Mecklenburg,Charlotte,"7050 Nations Ford Rd, Charlotte, NC 28217",-80.9062559,35.1561534,Charlotte-Mecklenburg Schools,Southwest,Y,46.2,D,Not Met,43.9,N/A
+CIS of Charlotte-Mecklenburg,Performance Learning Center,yes,600498,Mecklenburg,Charlotte,"2300 W Sugar Creek Road, Charlotte, NC 28262",-80.7966819,35.2950261,Charlotte-Mecklenburg Schools,Southwest,Y,39.7,D,Not Met,25,89.7
+N/A,J H Gunn Elementary,no,600478,Mecklenburg,Charlotte,"7400 Harrisburg Rd, Charlotte, NC 28215",-80.6854883,35.2159386,Charlotte-Mecklenburg Schools,Southwest,Y,48.5,D,Not Met,42.4,N/A
+N/A,Oakdale Elementary,no,600485,Mecklenburg,Charlotte,"1825 Oakdale Rd, Charlotte, NC 28216",-80.89703,35.300444,Charlotte-Mecklenburg Schools,Southwest,Y,56.9,D,Met,31.8,N/A
+CIS of Charlotte-Mecklenburg,Quail Hollow Middle,yes,600509,Mecklenburg,Charlotte,"2901 Smithfield Church Rd, Charlotte, NC 28210",-80.8537379,35.1133681,Charlotte-Mecklenburg Schools,Southwest,Y,36.1,C,Met,54.3,N/A
+CIS of Charlotte-Mecklenburg,Dilworth Elementary School Latta Campus,yes,600367,Mecklenburg,Charlotte,"405 E. Park Ave, Charlotte, NC 28203",-80.850803,35.212172,Charlotte-Mecklenburg Schools,Southwest,N,24.5,B,Exceeded,77.9,N/A
+CIS of Charlotte-Mecklenburg,Myers Park High,yes,600466,Mecklenburg,Charlotte,"2400 Colony Rd, Charlotte, NC 28209",-80.833111,35.17166,Charlotte-Mecklenburg Schools,Southwest,N,23.6,B,Exceeded,73.6,88.5
+CIS of Chatham County,Virginia Cross Elementary,yes,190370,Chatham,Siler City,"234 Cross School Road, Siler City, NC 27344",-79.4413534,35.7117979,Chatham County Schools,North Central,Y,91.7,C,Exceeded,49.2,N/A
+CIS of Chatham County,Chatham Middle,yes,190312,Chatham,Siler City,"2025 South 2nd Avenue Ext, Siler City, NC 27344",-79.4481623,35.7088641,Chatham County Schools,North Central,Y,87.2,D,Not Met,43.5,N/A
+CIS of Chatham County,Siler City Elementary,yes,190350,Chatham,Siler City,"671 Ellington Road, Siler City, NC 27344",-79.492701,35.7271379,Chatham County Schools,North Central,Y,85.3,C,Exceeded,62.3,N/A
+CIS of Chatham County,Bonlee School,yes,190308,Chatham,Bear Creek,"152 Bonlee School Road, Bear Creek, NC 27207",-79.420708,35.644174,Chatham County Schools,North Central,Y,59.1,C,Met,62,N/A
+CIS of Chatham County,Horton Middle,yes,190328,Chatham,Pittsboro,"79 Horton Road, Pittsboro, NC 27312",-79.1717178,35.7665886,Chatham County Schools,North Central,N,41.1,C,Met,63.1,N/A
+CIS of Chatham County,Pittsboro Elementary,yes,190348,Chatham,Pittsboro,"375 Pittsboro School Road, Pittsboro, NC 27312",-79.1840986,35.7172541,Chatham County Schools,North Central,Y,37.9,B,Met,67.4,N/A
+CIS of Cleveland County,James Love Elementary,yes,230346,Cleveland,Shelby,"309 James Love Road, Shelby, NC 28152",-81.5673132,35.2652188,Cleveland County Schools,Southwest,Y,74.6,D,Met,45.5,N/A
+CIS of Cleveland County,Marion Elementary,yes,230355,Cleveland,Shelby,"410 Forest Hill Drive, Shelby, NC 28150",-81.525012,35.28853,Cleveland County Schools,Southwest,Y,65.2,C,Met,62.7,N/A
+N/A,Starmount Acad of Excellence,no,600545,Mecklenburg,Charlotte,"1600 Brookdale Ave, Charlotte, NC 28210",-80.870543,35.139693,Charlotte-Mecklenburg Schools,Southwest,Y,40.6,D,Not Met,41.7,N/A
+CIS of Cleveland County,Burns Middle,yes,230316,Cleveland,Lawndale,"215 Shady Grove Road, Lawndale, NC 28090",-81.5394336,35.4258329,Cleveland County Schools,Southwest,N,59.4,B,Exceeded,65.9,N/A
+CIS of Cleveland County,Shelby High,yes,230361,Cleveland,Shelby,"230 E Dixon Boulevard, Shelby, NC 28152",-81.536911,35.274073,Cleveland County Schools,Southwest,N,59.4,C,Not Met,36.5,89.5
+CIS of Cleveland County,Shelby Intermediate,yes,230336,Cleveland,Shelby,"220 S Post Road, Shelby, NC 28152",-81.494743,35.279666,Cleveland County Schools,Southwest,Y,58.4,C,Met,44.6,N/A
+CIS of Cleveland County,Crest Middle,yes,230328,Cleveland,Shelby,"315 Beaverdam Church Rd, Shelby, NC 28150",-81.618871,35.276274,Cleveland County Schools,Southwest,N,54.2,B,Exceeded,67.6,N/A
+N/A,University Park Creative Arts,no,600565,Mecklenburg,Charlotte,"2400 Hildebrand St, Charlotte, NC 28216",-80.859141,35.2609885,Charlotte-Mecklenburg Schools,Southwest,Y,63,D,Not Met,46.4,N/A
+CIS of Cleveland County,Burns High,yes,230312,Cleveland,Lawndale,"307 E Stagecoach Trail, Lawndale, NC 28090",-81.5324944,35.4193649,Cleveland County Schools,Southwest,N,49.3,C,Not Met,44.4,88.8
+CIS of Cleveland County,Shelby Middle,yes,230362,Cleveland,Shelby,"1480 South Dekalb Street, Shelby, NC 28152",-81.5499584,35.2645464,Cleveland County Schools,Southwest,N,47.1,B,Exceeded,63.3,N/A
+CIS of Cleveland County,Crest High,yes,230324,Cleveland,Shelby,"800 Old Boiling Springs, Shelby, NC 28152",-81.613426,35.274696,Cleveland County Schools,Southwest,N,44.9,C,Not Met,52.4,89.9
+CIS of Cleveland County,Kings Mountain High,yes,230350,Cleveland,Kings Mountain,"500 Phifer Road, Kings Mountain, NC 28086",-81.3719418,35.2331401,Cleveland County Schools,Southwest,N,43.4,B,Exceeded,63.9,91.6
+CIS of Cumberland County,Walker-Spivey Elementary,yes,260405,Cumberland,Fayetteville,"500 Fisher Street, Fayetteville, NC 28301",-78.8726764,35.0390699,Cumberland County Schools,Sandhills,Y,91.4,D,Met,43.2,N/A
+CIS of Cumberland County,Lewis Chapel Middle,yes,260372,Cumberland,Fayetteville,"2150 Skibo Road, Fayetteville, NC 28314",-78.97641,35.0485426,Cumberland County Schools,Sandhills,Y,74.4,D,Not Met,36.1,N/A
+N/A,Villa Heights Elementary,no,600593,Mecklenburg,Charlotte,"800 Everett Pl, Charlotte, NC 28205",-80.8127771,35.2366984,Charlotte-Mecklenburg Schools,Southwest,Y,64.7,D,Exceeded,43.8,N/A
+N/A,KIPP Charlotte,no,60L000,Mecklenburg,Charlotte,"931 Wilann Dr, Charlotte, NC 28215",-80.7660367,35.2503843,Charter Schools,Southwest,Y,55.8,D,Not Met,31.7,N/A
+N/A,Charlotte Choice Charter,no,60P000,Mecklenburg,Charlotte,"3118 Milton Road, Suite A, Charlotte, NC 28215",-80.7366961,35.2348691,Charter Schools,Southwest,Y,79.1,F,Not Met,27.9,N/A
+N/A,Invest Collegiate Transform,no,60Q000,Mecklenburg,Charlotte,"2045 Suttle Ave, Charlotte, NC 28208",-80.8710736,35.2254646,Charter Schools,Southwest,Y,49.6,D,Met,35.8,N/A
+N/A,Charlotte Learning Academy,no,60V000,Mecklenburg,Charlotte,"800 Briar Creek Rd., DD400, Charlotte, NC 28205",-80.7976804,35.2072338,Charter Schools,Southwest,Y,52.5,F,Not Met,17.3,88.2
+N/A,"VERITAS Community School, CFA",no,61P000,Mecklenburg,Charlotte,"2600 Grimes Street, Charlotte, NC 28206",-80.821468,35.252515,Charter Schools,Southwest,Y,21.6,D,Met,40.9,N/A
+N/A,Movement Charter School,no,61T000,Mecklenburg,Charlotte,"2701-B Freedom Dr, Charlotte, NC 28208",-80.8854548,35.2364565,Charter Schools,Southwest,Y,76.8,D,Not Met,48.2,N/A
+N/A,UpROAR Leadership Academy,no,61U000,Mecklenburg,Charlotte,"5500 North Tryon St, Charlotte, NC 28213",-80.7736584,35.2611107,Charter Schools,Southwest,Y,28.6,F,Not Met,7.2,N/A
+CIS of Cumberland County,Alger B. Wilkins High School,yes,260374,Cumberland,Fayetteville,"1429 Skibo Road, Fayetteville, NC 28303",-78.951898,35.082547,Cumberland County Schools,Sandhills,N,69.7,ALT system,ALT system,ALT system,Not available
+CIS of Durham,James E Shepard Middle,yes,320338,Durham,Durham,"2401 Dakota Street, Durham, NC 27707",-78.8997755,35.9654408,Durham Public Schools,North Central,Y,80.8,D,Not Met,33,N/A
+CIS of Durham,Durham's Performance Learning Center,yes,320322,Durham,Wilmington,"401 North Driver Street, Durham, NC 27703",-78.8791738,35.9897317,Durham Public Schools,North Central,N,77.4,ALT system,ALT system,ALT system,N/A
+CIS of Durham,Fayetteville Street Elementary,yes,320344,Durham,Durham,"2905 Fayetteville Street, Durham, NC 27707",-78.9055943,35.9643844,Durham Public Schools,North Central,Y,70.3,D,Met,26.6,N/A
+N/A,Aberdeen Primary,no,630304,Moore,Aberdeen,"310 Keyser St, Aberdeen, NC 28315",-79.423373,35.124083,Moore County Schools,Sandhills,Y,74.9,D,Not Available,Not Available,N/A
+N/A,Aberdeen Elementary,no,630308,Moore,Aberdeen,"503 Sandhills Blvd N, Aberdeen, NC 28315",-79.426078,35.139826,Moore County Schools,Sandhills,Y,81.6,D,Not Met,35.1,N/A
+N/A,Elise Middle,no,630320,Moore,Robbins,"180 W Elm St, Robbins, NC 27325",-79.589349,35.436008,Moore County Schools,Sandhills,Y,81,D,Met,41.5,N/A
+N/A,Robbins Elementary,no,630348,Moore,Robbins,"268 Rushwood Rd, Robbins, NC 27325",-79.573284,35.419539,Moore County Schools,Sandhills,Y,83.6,D,Not Met,30.7,N/A
+N/A,"Southern Middle, Aberdeen",no,630350,Moore,Aberdeen,"717 Johnson Street, Aberdeen, NC 28315",-79.426409,35.154692,Moore County Schools,Sandhills,Y,64.8,D,Met,43.4,N/A
+CIS of Durham,Hillside High,yes,320325,Durham,Durham,"3727 Fayetteville St, Durham, NC 27707",-78.9064554,35.9545446,Durham Public Schools,North Central,N,66.1,C,Exceeded,37.2,82.4
+CIS of Durham,Eno Valley Elementary,yes,320315,Durham,Durham,"117 Milton Road, Durham, NC 27712",-78.912153,36.0851774,Durham Public Schools,North Central,Y,65.4,D,Exceeded,37.1,N/A
+N/A,Baskerville Elementary,no,640306,Nash,Rocky Mount,"1100 Stokes Avenue, Rocky Mount, NC 27801",-77.7713841,35.9505403,Nash-Rocky Mount Schools,North Central,Y,85.9,F,Not Met,19,N/A
+N/A,Benvenue Elementary,no,640308,Nash,Rocky Mount,"2700 Nicodemus Mile Road, Rocky Mount, NC 27804",-77.8378954,35.9750391,Nash-Rocky Mount Schools,North Central,Y,51.4,D,Met,37.5,N/A
+N/A,Nash Central Middle,no,640320,Nash,Nashville,"1638 South First Street, Nashville, NC 27856",-77.9568216,35.9564748,Nash-Rocky Mount Schools,North Central,N,55.9,D,Not Met,44.6,N/A
+CIS of Durham,Merrick-Moore Elementary,yes,320352,Durham,Durham,"2325 Cheek Road, Durham, NC 27704",-78.8522192,36.0055656,Durham Public Schools,North Central,Y,59.6,D,Met,34.7,N/A
+N/A,Englewood Elementary,no,640328,Nash,Rocky Mount,"101 South Englewood Drive, Rocky Mount, NC 27804",-77.840659,35.9619892,Nash-Rocky Mount Schools,North Central,Y,53.4,D,Not Met,43.4,N/A
+CIS of Durham,Glenn Elementary,yes,320320,Durham,Durham,"2415 E Geer Street, Durham, NC 27704",-78.837487,36.029499,Durham Public Schools,North Central,Y,58.3,D,Not Met,32.5,N/A
+CIS of Gaston County,Woodhill Elementary,yes,360520,Gaston,Gastonia,"1027 Woodhill Drive, Gastonia, NC 28052",-81.180546,35.278935,Gaston County Schools,Southwest,Y,70.2,D,Met,34.3,N/A
+CIS of Gaston County,Warlick Academy,yes,360372,Gaston,Gastonia,"1316 Spencer Mountain Road, Gastonia, NC 28054",-81.133526,35.2822938,Gaston County Schools,Southwest,Y,55.2,ALT system,ALT system,ALT system,N/A
+N/A,Middlesex Elementary,no,640336,Nash,Middlesex,"13081 West Hanes Avenue, Middlesex, NC 27557",-78.212991,35.787049,Nash-Rocky Mount Schools,North Central,Y,39.7,D,Met,35.6,N/A
+CIS of Greater Greensboro,James B Dudley High,yes,410355,Guilford,Greensboro,"1200 Lincoln Street, Greensboro, NC 27401",-79.762302,36.06138,Guilford County Schools,Piedmont-Triad,Y,63.4,C,Exceeded,35.8,83.1
+N/A,CITI High School,no,640342,Nash,Rocky Mount,"846 Hammond Street, Rocky Mount, NC 27804",-77.8073968,35.9410455,Nash-Rocky Mount Schools,North Central,Y,83.3,F,Not Met,5,N/A
+CIS of Greater Greensboro,Ben L. Smith High School,yes,410544,Guilford,Greensboro,"2407 South Holden Road, Greensboro, NC 27407",-79.847112,36.034726,Guilford County Schools,Piedmont-Triad,Y,58.6,D,Met,27.7,77.3
+CIS of High Point,Fairview Elementary,yes,410364,Guilford,High Point,"608 Fairview Street, High Point, NC 27260",-80.0074642,35.947588,Guilford County Schools,Piedmont-Triad,Y,77.2,D,Exceeded,31,N/A
+CIS of High Point,Montlieu Academy of Technology,yes,410469,Guilford,High Point,"1105 Montlieu Avenue, High Point, NC 27262",-79.9852139,35.9766361,Guilford County Schools,Piedmont-Triad,Y,67.4,F,Not Met,33.6,N/A
+CIS of High Point,Welborn Middle,yes,410592,Guilford,High Point,"1710 McGuinn Drive, High Point, NC 27265",-79.9906734,35.9823423,Guilford County Schools,Piedmont-Triad,Y,65.3,F,Not Met,31.9,N/A
+N/A,Spring Hope Elementary,no,640376,Nash,Spring Hope,"401 McLean Street, Spring Hope, NC 27882",-78.1092821,35.9513231,Nash-Rocky Mount Schools,North Central,Y,47.4,F,Met,27.3,N/A
+N/A,Williford Elementary,no,640396,Nash,Rocky Mount,"801 Williford Street, Rocky Mount, NC 27803",-77.8185017,35.9281988,Nash-Rocky Mount Schools,North Central,Y,77,F,Not Available,Not Available,N/A
+N/A,Winstead Avenue Elementary,no,640400,Nash,Rocky Mount,"991 South Winstead Avenue, Rocky Mount, NC 27804",-77.8468229,35.9511371,Nash-Rocky Mount Schools,North Central,Y,54.7,D,Not Available,Not Available,N/A
+N/A,Rocky Mount Preparatory,no,64A000,Nash,Rocky Mount,"3334 Bishop Road, Rocky Mount, NC 27804",-77.7794804,36.0160718,Charter Schools,North Central,Y,76.9,D,Met,33.5,83.3
+N/A,D.C. Virgo Preparatory Academy,no,65Z000,New Hannover,Wilmington,"813 Nixon St, Wilmington, NC 28401",-77.940458,34.250692,Lab Schools,Southeast,Y,74.9,F,Not Met,26.4,N/A
+CIS of High Point,High Point Central High,yes,410406,Guilford,High Point,"801 Ferndale Boulevard, High Point, NC 27262",-80.0211513,35.9569038,Guilford County Schools,Piedmont-Triad,Y,65.2,C,Exceeded,43.3,85.1
+CIS of High Point,T Wingate Andrews High,yes,410319,Guilford,High Point,"1920 McGuinn Drive, High Point, NC 27265",-79.9897812,35.9849499,Guilford County Schools,Piedmont-Triad,Y,60.3,C,Met,29,87
+CIS of High Point,Ferndale Middle,yes,410367,Guilford,High Point,"701 Ferndale Boulevard, High Point, NC 27262",-80.019831,35.957043,Guilford County Schools,Piedmont-Triad,Y,59.7,D,Not Met,34.2,N/A
+CIS of High Point,Northwood Elementary,yes,410496,Guilford,High Point,"818 West Lexington Avenue, High Point, NC 27262",-80.036755,35.977693,Guilford County Schools,Piedmont-Triad,Y,59.5,D,Met,38.4,N/A
+CIS of High Point,Allen Jay Elementary,yes,410310,Guilford,High Point,"1311 East Springfield Road, High Point, NC 27263",-79.9554544,35.9322724,Guilford County Schools,Piedmont-Triad,Y,58,D,Met,45.1,N/A
+CIS of Lexington/Davidson Co.,Lexington Middle School,yes,291332,Davidson,Lexington,"100 W Hemstead Street, Lexington, NC 27292",-80.2456206,35.8335432,Lexington City Schools,Piedmont-Triad,Y,60.9,D,Exceeded,43.3,N/A
+CIS of Lexington/Davidson Co.,South Davidson Middle,yes,290367,Davidson,Denton,"14954 NC Hwy 109 South, Denton, NC 27239",-80.1033943,35.673509,Davidson County Schools,Piedmont-Triad,Y,57.7,C,Met,52.8,N/A
+CIS of Lexington/Davidson Co.,Lexington Senior High School,yes,291336,Davidson,Lexington,"26 Penry Street, Lexington, NC 27292",-80.2499278,35.8327345,Lexington City Schools,Piedmont-Triad,N,50.3,C,Met,38.1,89.6
+CIS of Lexington/Davidson Co.,South Davidson High,yes,290365,Davidson,Denton,"14956 South NC Hwy 109, Denton, NC 27239",-80.104271,35.672924,Davidson County Schools,Piedmont-Triad,N,46.9,C,Not Met,39.7,75.5
+CIS of Lincoln County,Lincolnton Middle,yes,550334,Lincoln,Lincolnton,"2361 Startown Road, Lincolnton, NC 28092",-81.2647887,35.5206703,Lincoln County Schools,Southwest,Y,72.1,C,Exceeded,58.4,N/A
+CIS of Lincoln County,West Lincoln Middle,yes,550372,Lincoln,Lincolnton,"260 Shoal Rd, Lincolnton, NC 28092",-81.389009,35.482262,Lincoln County Schools,Southwest,Y,54.5,C,Not Met,59.1,N/A
+CIS of Lincoln County,East Lincoln Middle,yes,550322,Lincoln,Iron Station,"4137 Hwy 73, Iron Station, NC 28080",-81.0940048,35.4757956,Lincoln County Schools,Southwest,N,30.7,B,Met,72.8,N/A
+CIS of Lincoln County,North Lincoln Middle,yes,550350,Lincoln,Denver,"1503 Amity Church Road, Denver, NC 28037",-81.1203833,35.5117033,Lincoln County Schools,Southwest,N,27.1,B,Met,74.3,N/A
+CIS of Montgomery County,East Middle,yes,620314,Montgomery,Biscoe,"130 Merlin's Maze, Biscoe, NC 27209",-79.7737182,35.3369386,Montgomery County Schools,Sandhills,Y,83.9,C,Not Met,50.6,N/A
+CIS of Montgomery County,East Montgomery High,yes,620316,Montgomery,Biscoe,"157 Eagle Lane, Biscoe, NC 27209",-79.7781321,35.3393946,Montgomery County Schools,Sandhills,N,76.8,C,Met,35,95
+CIS of Montgomery County,West Middle,yes,620339,Montgomery,Mount Gilead,"129 NC Hwy 109S, Mount Gilead, NC 27306",-79.943774,35.318228,Montgomery County Schools,Sandhills,N,59,D,Not Met,45.9,N/A
+CIS of Montgomery County,West Montgomery High,yes,620340,Montgomery,Mount Gilead,"147 Warrior Drive, Mount Gilead, NC 27306",-79.9601527,35.2966485,Montgomery County Schools,Sandhills,N,53.6,B,Exceeded,49.7,91.2
+CIS of North Carolina (Direct Service),J. F. Webb High,yes,390324,Granville,Oxford,"3200 Webb School Rd, Oxford, NC 27565",-78.5980053,36.3374749,Granville County Schools,North Central,N,71.1,C,Met,27.3,76.1
+CIS of North Carolina (Direct Service),Riverview Elementary,yes,460332,Hertford,Murfreesboro,"236 US 158 Business, Murfreesboro, NC 27855",-77.07536,36.4390069,Hertford County Schools,Northeast,Y,66.3,D,Not Met,48.6,N/A
+CIS of North Carolina (Direct Service),Northampton County High School,yes,660336,Northampton,Gaston,"152 Hurricane Drive, Gaston, NC 27832",-77.652447,36.5108559,Northampton County Schools,Northeast,Y,63.8,D,Not Met,7,71.8
+CIS of North Carolina (Direct Service),Weldon STEM High School Career Academies,yes,422315,Halifax,Weldon,"415 County Road, Weldon, NC 27890",-77.6108078,36.4131869,Weldon City Schools,Northeast,Y,63.7,D,Not Met,12.4,68.9
+CIS of North Carolina (Direct Service),Eastlawn Elementary,yes,10326,Alamance,Burlington,"502 N Graham Hopedale Road, Burlington, NC 27217",-79.4066516,36.1019099,Alamance-Burlington Schools,Piedmont-Triad,Y,60.5,D,Met,36,N/A
+CIS of North Carolina (Direct Service),Fred A Anderson Elementary,yes,690312,Pamlico,Bayboro,"515 Anderson Drive, Bayboro, NC 28515",-76.7793944,35.1396514,Pamlico County Schools,Southeast,Y,58.6,C,Exceeded,51,N/A
+CIS of North Carolina (Direct Service),Northwest Halifax Collegiate and Technic,yes,420346,Halifax,Littleton,"8492 Hwy 48, Littleton, NC 27850",-77.7858296,36.3866622,Halifax County Schools,Northeast,Y,57.4,C,Met,34.5,79.2
+CIS of North Carolina (Direct Service),Bertie High,yes,80312,Bertie,Windsor,"716 US Hwy 13 North, Windsor, NC 27983",-78.0609004,35.3202529,Bertie County Schools,Northeast,Y,56.7,D,Not Met,26.2,73.3
+CIS of North Carolina (Direct Service),Reidsville Middle,yes,790374,Rockingham,Reidsville,"1903 S Park Dr, Reidsville, NC 27320",-79.6804677,36.3284462,Rockingham County Schools,Piedmont-Triad,Y,54.6,D,Met,44.5,N/A
+CIS of North Carolina (Direct Service),Concord Middle,yes,130313,Cabarrus,Concord,"1500 Gold Rush Drive, Concord, NC 28025",-80.5524389,35.4220649,Cabarrus County Schools,Southwest,N,50.5,D,Met,36.6,N/A
+CIS of North Carolina (Direct Service),Royal Oaks Elementary,yes,130328,Cabarrus,Kannapolis,"608 Dakota Street, Kannapolis, NC 28083",-80.612919,35.4663693,Cabarrus County Schools,Southwest,Y,48.6,D,Met,36.2,N/A
+CIS of North Carolina (Direct Service),Warren County High,yes,930352,Warren,Warrenton,"149 Campus Drive, Warrenton, NC 27589",-78.1676608,36.4326057,Warren County Schools,North Central,N,46.6,D,Not Met,18.1,78.7
+CIS of North Carolina (Direct Service),Smokey Mountain Elementary,yes,500337,Jackson,Whittier,"884 US Hwy 441N, Whittier, NC 28789",-83.3240769,35.4292046,Jackson County Schools,Western,Y,36,D,Not Met,40.4,N/A
+CIS of North Carolina (Direct Service),Blue Ridge Early College,yes,500302,Jackson,Cashiers,"95 Bobcat Dr, Cashiers, NC 28717",-83.1202056,35.1284311,Jackson County Schools,Western,N,25.8,D,Not Met,51.4,N/A
+CIS of Northwest North Carolina,Sparta Elementary School,yes,30320,Alleghany,Sparta,"450 N Main Street, Sparta, NC 28675",-81.1269367,36.5095717,Alleghany County Schools,Northwest,Y,69.9,C,Met,53.4,N/A
+CIS of Northwest North Carolina,Glade Creek School,yes,30308,Alleghany,Ennice,"32 Glade Creek Sch Road, Ennice, NC 28623",-80.979231,36.50085,Alleghany County Schools,Northwest,Y,66.5,B,Exceeded,63.8,N/A
+CIS of Northwest North Carolina,Boomer-Ferguson Elementary School,yes,970308,Wilkes,Boomer,"556 Boomer-Ferguson Sch Rd, Boomer, NC 28606",-81.298392,36.100955,Wilkes County Schools,Northwest,Y,63.8,C,Met,61.7,N/A
+N/A,Wilmington Preparatory Academy,no,65B000,New Hanover,Wilmington,"134 Cinema Drive, Wilmington, NC 28403",-77.8919697,34.23873,Charter Schools,Southeast,Y,79.3,D,Exceeded,42.3,N/A
+N/A,Douglass Academy,no,65C000,New Hanover,Wilmington,"507 N 6th Street, Wilmington, NC 28401",-77.9431225,34.2421977,Charter Schools,Southeast,Y,85.5,D,Met,48,N/A
+N/A,Girls Leadership Academy of Wilmington,no,65G000,New Hanover,Wilmington,"606 South College Rd, Wilmington, NC 28403",-77.881522,34.2272489,Charter Schools,Southeast,Y,76.5,D,Not Met,40.3,N/A
+N/A,"Central Elementary, Jackson",no,660306,Northampton,Jackson,"9742 NC Hwy 305, Jackson, NC 27845",-77.434285,36.418549,Northampton County Schools,Northeast,Y,75.8,D,Exceeded,46.3,N/A
+N/A,Conway Middle,no,660308,Northampton,Conway,"400 East Main Street, Conway, NC 27820",-77.2238997,36.4382772,Northampton County Schools,Northeast,Y,64.5,F,Not Met,23.9,N/A
+N/A,Gaston Elementary,no,660320,Northampton,Gaston,"400 Broughton Street, Gaston, NC 27832",-77.6512038,36.507984,Northampton County Schools,Northeast,Y,74.1,D,Met,43.6,N/A
+N/A,Gaston Middle,no,660325,Northampton,Gaston,"400 Broughton Street, Gaston, NC 27832",-77.6512038,36.507984,Northampton County Schools,Northeast,Y,69.3,F,Not Met,28.1,N/A
+N/A,Willis Hare Elementary,no,660360,Northampton,Pendleton,"479 Willis Hare Road, Pendleton, NC 27862",-77.188922,36.478311,Northampton County Schools,Northeast,Y,68.3,D,Met,41.6,N/A
+CIS of Northwest North Carolina,Hiddenite Elementary School,yes,20316,Alexander,Hiddenite,"374 Sulphur Springs Road, Hiddenite, NC 28636",-81.0893554,35.9071151,Alexander County Schools,Northwest,Y,61,C,Met,54,N/A
+N/A,Blue Creek Elementary,no,670308,Onslow,Jacksonville,"1260 Burgaw Hwy, Jacksonville, NC 28540",-77.4779123,34.7533537,Onslow County Schools,Southeast,Y,62.1,D,Met,44.4,N/A
+N/A,Clyde Erwin Elementary,no,670312,Onslow,Jacksonville,"323 New River Dr, Jacksonville, NC 28540",-77.412415,34.7559065,Onslow County Schools,Southeast,Y,73.3,D,Met,36.6,N/A
+N/A,Hunters Creek Middle,no,670322,Onslow,Jacksonville,"4040 Hunters Trail, Jacksonville, NC 28546",-77.3351971,34.7421965,Onslow County Schools,Southeast,Y,56.3,D,Not Met,47.2,N/A
+N/A,Richlands Primary,no,670337,Onslow,Richlands,"7444 Richlands Highway, Richlands, NC 28574",-77.5441184,34.8870773,Onslow County Schools,Southeast,Y,50.5,D,Not Met,49,N/A
+N/A,Z.E.C.A. School of Arts and Technology,no,67B000,Onslow,Jacksonville,"1249 Hargett Street, Jacksonville, NC 28540",-77.4125728,34.752111,Charter Schools,Southeast,Y,77,F,Met,25.9,N/A
+N/A,"Central Elementary, Hillsborough",no,680312,Orange,Hillsborough,"154 Hayes St, Hillsborough, NC 27278",-79.114831,36.0800137,Orange County Schools,North Central,Y,70.1,D,Exceeded,41.1,N/A
+CIS of Northwest North Carolina,Stony Point Elementary,yes,20320,Alexander,Stony Point,"311 Stony Point School Road, Stony Point, NC 28678",-81.0468615,35.8692561,Alexander County Schools,Northwest,Y,60.3,C,Met,63.9,N/A
+N/A,Elizabeth City Middle,no,700308,Pasquotank,Elizabeth City,"1066 Northside Road, Elizabeth City, NC 27909",-76.2710426,36.3679416,Pasquotank County Schools,Northeast,Y,67,D,Not Met,41.2,N/A
+N/A,Pasquotank Elementary,no,700318,Pasquotank,Elizabeth City,"1407 Peartree Rd, Elizabeth City, NC 27909",-76.2243629,36.2835366,Pasquotank County Schools,Northeast,Y,53,F,Met,25.5,N/A
+N/A,Pasquotank County High,no,700319,Pasquotank,Elizabeth City,"1064 Northside Road, Elizabeth City, NC 27909",-76.2735096,36.3654528,Pasquotank County Schools,Northeast,N,57.1,D,Not Met,30.3,80.7
+N/A,P W Moore Elementary,no,700320,Pasquotank,Elizabeth City,"606 Roanoke Ave, Elizabeth City, NC 27909",-76.2286296,36.2897577,Pasquotank County Schools,Northeast,Y,66.3,F,Not Met,30.1,N/A
+CIS of Northwest North Carolina,North Wilkesboro Elementary School,yes,970360,Wilkes,North Wilkesboro,"200 Flint Hill Rd, North Wilkesboro, NC 28659",-81.140448,36.178693,Wilkes County Schools,Northwest,Y,59.8,C,Exceeded,59,N/A
+CIS of Northwest North Carolina,Ashe County Middle School,yes,50305,Ashe,Warrensville,"255 Northwest Lane, Warrensville, NC 28693",-81.509979,36.462739,Ashe County Schools,Northwest,N,55.4,B,Met,72,N/A
+CIS of Northwest North Carolina,Traphill Elementary School,yes,970376,Wilkes,Traphill,"9794 Traphill Rd, Traphill, NC 28685",-81.028789,36.34727,Wilkes County Schools,Northwest,Y,52.2,C,Met,61.2,N/A
+CIS of Northwest North Carolina,Piney Creek School,yes,30316,Alleghany,Piney Creek,"559 Piney Creek Sch Road, Piney Creek, NC 28663",-81.304084,36.547357,Alleghany County Schools,Northwest,Y,49.7,B,Exceeded,77.8,N/A
+CIS of Northwest North Carolina,Moravian Falls Elementary School,yes,970340,Wilkes,Moravian Falls,"2001 Moravian Falls Rd, Moravian Falls, NC 28654",-81.1821781,36.0982128,Wilkes County Schools,Northwest,Y,48.3,B,Exceeded,76,N/A
+CIS of Northwest North Carolina,Mulberry Elementary School,yes,970352,Wilkes,North Wilkesboro,"190 Mulberry School Rd, North Wilkesboro, NC 28659",-81.1789055,36.2364154,Wilkes County Schools,Northwest,Y,48.2,B,Met,67,N/A
+CIS of Northwest North Carolina,C C Wright Elementary School,yes,970312,Wilkes,North Wilkesboro,"200 C C Wright School Road , North Wilkesboro, NC 28659",-81.1052277,36.1380109,Wilkes County Schools,Northwest,Y,46.9,C,Not Met,55,N/A
+CIS of Northwest North Carolina,North Wilkes High School,yes,970356,Wilkes,Hays,"2986 Traphill Rd, Hays, NC 28635",-81.0983591,36.2824651,Wilkes County Schools,Northwest,N,46.6,B,Exceeded,58.9,83.2
+CIS of Northwest North Carolina,Wittenburg Elementary,yes,20332,Alexander,Taylorsville,"7300 Church Road, Taylorsville, NC 28681",-81.2413853,35.8273613,Alexander County Schools,Northwest,Y,45.3,B,Met,70.5,N/A
+CIS of Northwest North Carolina,Wilkes Central High School,yes,970390,Wilkes,Wilkesboro,"1179 Moravian Falls Rd, Wilkesboro, NC 28697",-81.1756953,36.1159631,Wilkes County Schools,Northwest,N,45.3,C,Not Met,48.7,90.4
+CIS of Northwest North Carolina,Taylorsville Elementary,yes,20328,Alexander,Taylorsville,"100 7th Street SW, Taylorsville, NC 28681",-81.1828707,35.9203895,Alexander County Schools,Northwest,Y,43.2,B,Met,76.8,N/A
+CIS of Northwest North Carolina,Ellendale Elementary School,yes,20308,Alexander,Taylorsville,"175 Ellendale Park Lane, Taylorsville, NC 28681",-81.2789738,35.9280489,Alexander County Schools,Northwest,Y,41.8,B,Met,67.4,N/A
+CIS of Northwest North Carolina,East Wilkes High School,yes,970320,Wilkes,Ronda,"13315 Elkin Hwy 268, Ronda, NC 28670",-80.9275798,36.2268971,Wilkes County Schools,Northwest,N,41.3,B,Met,53.7,90.2
+CIS of Northwest North Carolina,Mountain View Elementary School,yes,970348,Wilkes,Hays,"5464 Mountain View Rd, Hays, NC 28635",-81.1160644,36.2486906,Wilkes County Schools,Northwest,Y,40.7,C,Exceeded,52.2,N/A
+CIS of Northwest North Carolina,Central Wilkes Middle School,yes,970315,Wilkes,Moravian Falls,"3541 North Old North Carolina Highway 16 , Moravian Falls, NC 28654",-81.1771787,36.0939615,Wilkes County Schools,Northwest,N,40.6,C,Met,59.9,N/A
+CIS of Northwest North Carolina,Millers Creek Elementary School,yes,970337,Wilkes,Millers Creek,"4320 North NC Hwy 16, Millers Creek, NC 28651",-81.2437256,36.2069166,Wilkes County Schools,Northwest,Y,39.5,C,Met,60.4,N/A
+CIS of Northwest North Carolina,North Wilkes Middle School,yes,970358,Wilkes,North Wilkesboro,"2776 Yellow Banks Road, North Wilkesboro, NC 28659",-81.1498353,36.2631367,Wilkes County Schools,Northwest,N,38,C,Not Met,50.8,N/A
+N/A,"North Elementary, Roxboro",no,730334,Person,Roxboro,"260 Henderson Rd, Roxboro, NC 27573",-78.9662297,36.4070011,Person County Schools,North Central,Y,83,D,Exceeded,36.8,N/A
+N/A,Northern Middle,no,730344,Person,Roxboro,"1935 Carver Dr, Roxboro, NC 27574",-78.9780474,36.4282915,Person County Schools,North Central,N,71.4,D,Not Met,47.3,N/A
+N/A,"South Elementary, Roxboro",no,730356,Person,Roxboro,"1333 Hurdle Mills Rd, Roxboro, NC 27573",-78.9887612,36.375394,Person County Schools,North Central,Y,62.9,D,Met,37.6,N/A
+N/A,Belvoir Elementary,no,740310,Pitt,Greenville,"2568 NC 33 West, Greenville, NC 27834",-77.41742,35.668157,Pitt County Schools,Northeast,Y,75.2,D,Met,42.2,N/A
+N/A,C M Eppes Middle,no,740324,Pitt,Greenville,"1100 South Elm Street, Greenville, NC 27858",-77.361208,35.599343,Pitt County Schools,Northeast,Y,76.6,D,Not Met,43.4,N/A
+N/A,Falkland Elementary,no,740334,Pitt,Greenville,"503 NC 121, Greenville, NC 27834",-77.486723,35.669671,Pitt County Schools,Northeast,Y,78.7,D,Exceeded,35.1,N/A
+N/A,Grifton,no,740352,Pitt,Grifton,"513 E McCrae St, Grifton, NC 28530",-77.4319478,35.3722711,Pitt County Schools,Northeast,Y,70.6,D,Met,43.6,N/A
+N/A,Lakeforest Elementary,no,740368,Pitt,Greenville,"3300 Briarcliff Drive, Greenville, NC 27834",-77.4209273,35.5921482,Pitt County Schools,Northeast,Y,74.4,D,Not Met,43.2,N/A
+N/A,"Northwest Elementary, Greenville",no,740375,Pitt,Greenville,"1471 Holland Road, Greenville, NC 27834",-77.4779948,35.737998,Pitt County Schools,Northeast,Y,77.8,D,Met,35.3,N/A
+N/A,Vidant Health,no,740378,Pitt,Greenville,"400 Spruce Street, Greenville, NC 27834",-77.3840456,35.6087744,Pitt County Schools,Northeast,N,65.4,F,Not Available,11.8,N/A
+N/A,South Greenville Elementary,no,740390,Pitt,Greenville,"811 Howell St, Greenville, NC 27834",-77.385629,35.598201,Pitt County Schools,Northeast,Y,90.8,F,Met,21.3,N/A
+N/A,Wahl Coates Elementary,no,740400,Pitt,Greenville,"2200 E 5th St, Greenville, NC 27858",-77.348248,35.605798,Pitt County Schools,Northeast,Y,78.6,D,Met,42.6,N/A
+N/A,Ignite Innovation Academy - Pitt,no,74B000,Pitt,Greenville,"901 Staton Rd, Suite 204, Greenville, NC 27834",-77.3517483,35.652919,Charter Schools,Northeast,Y,47.8,F,Not Met,18.6,N/A
+N/A,East Carolina Laboratory School,no,74Z000,Pitt,Greenville,"811 Howell St, Greenville, NC 27834",-77.385629,35.598201,Lab Schools,Northeast,Y,52.6,F,Met,6.8,N/A
+CIS of Northwest North Carolina,West Wilkes Middle School,yes,970389,Wilkes,Wilkesboro,"1677 North NC Hwy 16, Wilkesboro, NC 28697",-81.2411836,36.1694871,Wilkes County Schools,Northwest,N,36.4,B,Met,64.2,N/A
+CIS of Northwest North Carolina,West Wilkes High School,yes,970388,Wilkes,Millers Creek,"6598 Boone Trail, Millers Creek, NC 28651",-81.2596211,36.1858833,Wilkes County Schools,Northwest,N,36.3,B,Met,57.7,87.8
+CIS of Northwest North Carolina,Roaring River Elementary School,yes,970368,Wilkes,Roaring River,"283 White Plains Rd, Roaring River, NC 28669",-81.0033584,36.2079466,Wilkes County Schools,Northwest,Y,35.1,C,Met,61.7,N/A
+CIS of Northwest North Carolina,Mount Pleasant Elementary School,yes,970344,Wilkes,Ferguson,"532 Champion Mt Pleasant Rd, Ferguson, NC 28624",-81.3258015,36.1491173,Wilkes County Schools,Northwest,Y,34.1,C,Met,66.4,N/A
+CIS of Northwest North Carolina,Wilkesboro Elementary School,yes,970392,Wilkes,Wilkesboro,"1248 School St, Wilkesboro, NC 28697",-81.176487,36.13371,Wilkes County Schools,Northwest,Y,32.5,B,Exceeded,62.4,N/A
+CIS of Northwest North Carolina,C B Eller Elementary School,yes,970310,Wilkes,Elkin,"1288 Cb Eller School Road , Elkin, NC 28621",-80.889261,36.276196,Wilkes County Schools,Northwest,Y,32.2,B,Not Met,75,N/A
+CIS of Northwest North Carolina,East Wilkes Middle School,yes,970322,Wilkes,Ronda,"2202 Macedonia Church Road, Ronda, NC 28670",-80.9320924,36.2470078,Wilkes County Schools,Northwest,N,30,B,Exceeded,63.3,N/A
+CIS of Northwest North Carolina,Wilkes Early College High School,yes,970393,Wilkes,Wilkesboro,"1328 S Collegiate Dr, Wilkesboro, NC 28697",-81.1827759,36.137136,Wilkes County Schools,Northwest,N,27.9,A,Exceeded,95,89.4
+CIS of Northwest North Carolina,Ronda-Clingman Elementary School,yes,970370,Wilkes,Ronda,"316 Ronda-Clingman School Rd, Ronda, NC 28670",-80.934479,36.205139,Wilkes County Schools,Northwest,Y,26.5,B,Met,65.7,N/A
+CIS of Randolph County,North Asheboro Middle,yes,761336,Randolph,Asheboro,"1861 N Asheboro School Rd, Asheboro, NC 27203",-79.822296,35.744645,Asheboro City Schools,Piedmont-Triad,Y,88.5,C,Met,46.5,N/A
+CIS of Randolph County,Charles W McCrary Elementary,yes,761320,Randolph,Asheboro,"400 Ross St, Asheboro, NC 27203",-79.8180288,35.7128176,Asheboro City Schools,Piedmont-Triad,Y,88.4,C,Exceeded,46.6,N/A
+CIS of Randolph County,Balfour Elementary,yes,761312,Randolph,Asheboro,"2097 N Asheboro School Rd, Asheboro, NC 27203",-79.8216787,35.7457357,Asheboro City Schools,Piedmont-Triad,Y,86.2,C,Exceeded,60.2,N/A
+CIS of Randolph County,Donna L Loflin Elementary,yes,761321,Randolph,Asheboro,"405 S Park St, Asheboro, NC 27203",-79.8197816,35.7016371,Asheboro City Schools,Piedmont-Triad,Y,84.1,C,Met,45.3,N/A
+CIS of Randolph County,Lindley Park Elementary,yes,761332,Randolph,Asheboro,"312 Cliff Rd, Asheboro, NC 27203",-79.8069984,35.7020689,Asheboro City Schools,Piedmont-Triad,Y,72.5,C,Met,53.5,N/A
+CIS of Randolph County,Randleman Elementary,yes,760344,Randolph,Randleman,"100 Swaim St, Randleman, NC 27317",-79.8008688,35.8095834,Randolph County Schools,Piedmont-Triad,Y,70.7,C,Met,58.1,N/A
+CIS of Randolph County,Southeastern Randolph Middle,yes,760357,Randolph,Ramseur,"5302 Foushee Rd, Ramseur, NC 27316",-79.6349089,35.728567,Randolph County Schools,Piedmont-Triad,N,69.4,D,Not Met,40.1,N/A
+CIS of Randolph County,South Asheboro Middle,yes,761308,Randolph,Asheboro,"523 W Walker Ave, Asheboro, NC 27203",-79.8212427,35.6896918,Asheboro City Schools,Piedmont-Triad,Y,67.2,C,Not Met,55.4,N/A
+CIS of Randolph County,Tabernacle Elementary,yes,760364,Randolph,Asheboro,"4901 Tabernacle School Rd, Asheboro, NC 27205",-79.965637,35.733883,Randolph County Schools,Piedmont-Triad,Y,67.1,B,Exceeded,64.6,N/A
+CIS of Randolph County,Guy B Teachey Elementary,yes,761328,Randolph,Asheboro,"294 Newbern Ave, Asheboro, NC 27205",-79.8089247,35.6735111,Asheboro City Schools,Piedmont-Triad,Y,66.7,B,Met,65.9,N/A
+CIS of Randolph County,Liberty Elementary,yes,760332,Randolph,Liberty,"206 N Fayetteville St, Liberty, NC 27298",-79.570385,35.855369,Randolph County Schools,Piedmont-Triad,Y,66.1,D,Met,39.4,N/A
+CIS of Randolph County,Asheboro High,yes,761304,Randolph,Asheboro,"1221 S Park St, Asheboro, NC 27203",-79.8186435,35.689799,Asheboro City Schools,Piedmont-Triad,N,66.1,B,Met,55.6,88.3
+CIS of Randolph County,Randleman Middle,yes,760352,Randolph,Randleman,"800 High Point St, Randleman, NC 27317",-79.819674,35.8249473,Randolph County Schools,Piedmont-Triad,N,65,C,Exceeded,52.2,N/A
+CIS of Randolph County,Coleridge Elementary,yes,760316,Randolph,Ramseur,"4528 NC Hwy 22 South, Ramseur, NC 27316",-79.6177607,35.6444468,Randolph County Schools,Piedmont-Triad,Y,64.6,C,Met,54.6,N/A
+CIS of Randolph County,Franklinville Elementary,yes,760324,Randolph,Franklinville,"162 Pine St, Franklinville, NC 27248",-79.693213,35.747311,Randolph County Schools,Piedmont-Triad,Y,62.9,D,Not Met,50,N/A
+CIS of Randolph County,Southmont Elementary,yes,760359,Randolph,Asheboro,"2497 Southmont School Road, Asheboro, NC 27205",-79.834551,35.6455032,Randolph County Schools,Piedmont-Triad,Y,62.8,C,Met,53,N/A
+CIS of Randolph County,Archdale Elementary,yes,760304,Randolph,Archdale,"207 Trindale Rd, Archdale, NC 27263",-79.9752,35.912816,Randolph County Schools,Piedmont-Triad,Y,62,B,Met,71.3,N/A
+CIS of Randolph County,Seagrove Elementary,yes,760356,Randolph,Seagrove,"528 Old Plank Rd, Seagrove, NC 27341",-79.7759957,35.544885,Randolph County Schools,Piedmont-Triad,Y,61.6,C,Met,60.5,N/A
+CIS of Randolph County,Southwestern Randolph Middle,yes,760360,Randolph,Asheboro,"1509 Hopewell Friends Rd, Asheboro, NC 27205",-79.866718,35.622592,Randolph County Schools,Piedmont-Triad,N,60.1,C,Not Met,51.3,N/A
+CIS of Randolph County,Trinity Elementary,yes,760376,Randolph,Trinity,"5457 Braxton Craven Rd, Trinity, NC 27370",-79.984278,35.893227,Randolph County Schools,Piedmont-Triad,Y,60,B,Exceeded,68,N/A
+CIS of Randolph County,Level Cross Elementary,yes,760331,Randolph,Randleman,"5417 Old Greensboro Road, Randleman, NC 27317",-79.7908853,35.8584793,Randolph County Schools,Piedmont-Triad,Y,57.3,C,Met,59.2,N/A
+CIS of Randolph County,Farmer Elementary,yes,760320,Randolph,Asheboro,"3557 Grange Hall Rd, Asheboro, NC 27205",-79.971027,35.641768,Randolph County Schools,Piedmont-Triad,Y,56.5,C,Met,53.6,N/A
+CIS of Randolph County,Trindale Elementary,yes,760368,Randolph,Archdale,"400 Balfour Dr, Archdale, NC 27263",-79.9634223,35.9012214,Randolph County Schools,Piedmont-Triad,Y,56.1,B,Exceeded,70.5,N/A
+CIS of Randolph County,Ramseur Elementary,yes,760340,Randolph,Ramseur,"6755 Jordan Road, Ramseur, NC 27316",-79.6536069,35.738977,Randolph County Schools,Piedmont-Triad,Y,55.9,C,Met,62.3,N/A
+CIS of Randolph County,New Market Elementary,yes,760336,Randolph,Sophia,"6096 US Hwy 311, Sophia, NC 27350",-79.865819,35.832616,Randolph County Schools,Piedmont-Triad,Y,55.7,C,Met,55.3,N/A
+CIS of Randolph County,Randleman High,yes,760348,Randolph,Randleman,"4396 Tigers Den Rd, Randleman, NC 27317",-79.8209494,35.8265666,Randolph County Schools,Piedmont-Triad,N,54.4,C,Met,48.1,89.6
+CIS of Randolph County,Grays Chapel Elementary,yes,760328,Randolph,Franklinville,"5322 NC Hwy 22 N, Franklinville, NC 27248",-79.699221,35.820788,Randolph County Schools,Piedmont-Triad,Y,52.5,C,Not Met,66.3,N/A
+N/A,Southside Ashpole Elementary,no,295300,Robeson,Rowland,"607 N Martin Luther King Jr Exd, Rowland, NC 28383",-79.2927578,34.5415293,Innovative School District,Sandhills,Y,78,F,Not Met,21.5,N/A
+N/A,Deep Branch Elementary,no,780320,Robeson,Lumberton,"4045 Deep Branch Road, Lumberton, NC 28360",-79.146015,34.630379,Robeson County Schools,Sandhills,Y,90.4,D,Met,40.3,N/A
+N/A,Fairgrove Middle,no,780324,Robeson,Fairmont,"1953 Fairgrove Sch Road, Fairmont, NC 28340",-79.1741651,34.493302,Robeson County Schools,Sandhills,Y,83.5,D,Not Met,33.9,N/A
+N/A,Fairmont Middle,no,780326,Robeson,Fairmont,"402 Iona St, Fairmont, NC 28340",-79.1177842,34.4979328,Robeson County Schools,Sandhills,Y,89.3,F,Not Met,25,N/A
+N/A,Janie C Hargrave Elem,no,780329,Robeson,Lumberton,"100 Hargrave St, Lumberton, NC 28358",-78.9877348,34.6142796,Robeson County Schools,Sandhills,Y,88.5,D,Met,35.3,N/A
+N/A,Littlefield Middle,no,780336,Robeson,Lumberton,"9674 NC Hwy 41 N, Lumberton, NC 28358",-78.9170282,34.6453036,Robeson County Schools,Sandhills,Y,74.5,D,Not Met,46,N/A
+CIS of Randolph County,Northeastern Randolph Middle,yes,760338,Randolph,Liberty,"3493 Ramseur Julian Road, Liberty, NC 27298",-79.6461755,35.8231744,Randolph County Schools,Piedmont-Triad,N,50.3,C,Not Met,54.8,N/A
+N/A,Orrum Middle,no,780352,Robeson,Orrum,"1684 South Creek Road, Orrum, NC 28369",-79.0100263,34.4651631,Robeson County Schools,Sandhills,Y,83.3,F,Not Met,25.6,N/A
+N/A,Oxendine Elementary,no,780356,Robeson,Maxton,"5599 Oxendine School Rd, Maxton, NC 28364",-79.2591675,34.8060072,Robeson County Schools,Sandhills,Y,85.9,D,Exceeded,42.4,N/A
+N/A,Parkton Elementary,no,780360,Robeson,Parkton,"400 North Green Street, Parkton, NC 28371",-79.0068072,34.9038827,Robeson County Schools,Sandhills,Y,80.8,D,Not Met,33.3,N/A
+N/A,Pembroke Elementary,no,780364,Robeson,Pembroke,"505 South Jones Street, Pembroke, NC 28372",-79.1934718,34.6747625,Robeson County Schools,Sandhills,Y,83.4,D,Met,42.9,N/A
+N/A,Pembroke Middle,no,780368,Robeson,Pembroke,"8910 Deep Branch Road, Pembroke, NC 28372",-79.2114532,34.6746591,Robeson County Schools,Sandhills,Y,85.2,D,Not Met,33.8,N/A
+N/A,Peterson Elementary,no,780374,Robeson,Red Springs,"102 Phillips Ave, Red Springs, NC 28377",-79.1896812,34.8115431,Robeson County Schools,Sandhills,Y,81,D,Not Met,38.7,N/A
+N/A,"Piney Grove Elementary, Lumberton",no,780376,Robeson,Lumberton,"1680 Piney Grove Road, Lumberton, NC 28358",-79.0375212,34.6854023,Robeson County Schools,Sandhills,Y,87.9,D,Not Met,39.2,N/A
+CIS of Randolph County,Uwharrie Ridge Six-Twelve,yes,760382,Randolph,Trinity,"1463 Pleasant Union Road, Trinity, NC 27370",-79.9911257,35.718544,Randolph County Schools,Piedmont-Triad,N,50,D,Not Met,44,N/A
+N/A,R B Dean Elementary,no,780390,Robeson,Maxton,"202 S Hooper St, Maxton, NC 28364",-79.3448173,34.7325148,Robeson County Schools,Sandhills,Y,85,D,Met,33.9,N/A
+CIS of Randolph County,Southwestern Randolph High,yes,760358,Randolph,Asheboro,"1641 Hopewell Friends Rd, Asheboro, NC 27205",-79.870065,35.6235497,Randolph County Schools,Piedmont-Triad,N,47.7,B,Met,49.3,86.1
+N/A,Rex-Rennert Elementary,no,780392,Robeson,Shannon,"11780 Rennert Road, Shannon, NC 28386",-79.088569,34.8439445,Robeson County Schools,Sandhills,Y,81.3,D,Met,22.7,N/A
+CIS of Randolph County,Braxton Craven Middle,yes,760308,Randolph,Trinity,"7037 NC Highway 62, Trinity, NC 27370",-79.9925544,35.8937115,Randolph County Schools,Piedmont-Triad,N,46.2,C,Not Met,67,N/A
+N/A,Rosenwald Elementary,no,780394,Robeson,Fairmont,"301 Martin L King Dr, Fairmont, NC 28340",-79.1195718,34.5033361,Robeson County Schools,Sandhills,Y,91.9,D,Met,32.7,N/A
+N/A,Rowland Middle,no,780396,Robeson,Rowland,"408 W Chapel St, Rowland, NC 28383",-79.2965095,34.5405367,Robeson County Schools,Sandhills,Y,88.7,D,Exceeded,29.2,N/A
+N/A,Saint Pauls Elementary,no,780400,Robeson,Saint Pauls,"222 Martin Luther King Drive, Saint Pauls, NC 28384",-78.9619671,34.8074799,Robeson County Schools,Sandhills,Y,78.4,D,Not Met,34,N/A
+N/A,South Robeson High,no,780402,Robeson,Rowland,"3268 South Robeson Rd, Rowland, NC 28383",-79.2532334,34.5453638,Robeson County Schools,Sandhills,Y,83.2,D,Not Met,19.4,90.8
+N/A,Saint Pauls Middle,no,780403,Robeson,Saint Pauls,"526 W Shaw St, Saint Pauls, NC 28384",-78.9760605,34.8115372,Robeson County Schools,Sandhills,Y,78.8,D,Exceeded,39.2,N/A
+N/A,Townsend Middle,no,780410,Robeson,Maxton,"105 Carolina Street, Maxton, NC 28364",-79.3524002,34.7328579,Robeson County Schools,Sandhills,Y,82.9,F,Met,19,N/A
+N/A,Union Chapel Elementary,no,780412,Robeson,Pembroke,"4271 Union Chapel Road, Pembroke, NC 28372",-79.134113,34.712807,Robeson County Schools,Sandhills,Y,81.5,D,Not Met,37.6,N/A
+N/A,W H Knuckles,no,780417,Robeson,Lumberton,"1520 Martin L King Dr, Lumberton, NC 28358",-79.022684,34.610642,Robeson County Schools,Sandhills,Y,95,D,Met,36.1,N/A
+CIS of Randolph County,Archdale-Trinity Middle,yes,760378,Randolph,Trinity,"5105 Archdale Road, Trinity, NC 27370",-79.9541564,35.8859827,Randolph County Schools,Piedmont-Triad,N,46,C,Not Met,54.3,N/A
+CIS of Randolph County,Hopewell Elementary,yes,760329,Randolph,Trinity,"6294 Welborn Road, Trinity, NC 27370",-80.0085799,35.8627377,Randolph County Schools,Piedmont-Triad,N,45.3,B,Met,78.4,N/A
+CIS of Randolph County,Trinity High,yes,760380,Randolph,Trinity,"5746 Trinity High School Rd, Trinity, NC 27370",-79.9979648,35.8938723,Randolph County Schools,Piedmont-Triad,N,43.2,B,Exceeded,63.1,88.6
+CIS of Randolph County,John R Lawrence Elementary,yes,760330,Randolph,High Point,"6068 Suits Road , High Point, NC 27263",-79.9249834,35.8897995,Randolph County Schools,Piedmont-Triad,N,42.1,B,Met,69.7,N/A
+N/A,Leaksville-Spray Elementary,no,790344,Rockingham,Eden,"415 Highland Dr, Eden, NC 27288",-79.7581248,36.4926704,Rockingham County Schools,Piedmont-Triad,Y,62.8,D,Not Met,48.7,N/A
+N/A,South End Elementary,no,790386,Rockingham,Reidsville,"1307 South Park Drive, Reidsville, NC 27320",-79.667871,36.343707,Rockingham County Schools,Piedmont-Triad,Y,55.1,D,Not Met,43.8,N/A
+CIS of Randolph County,Wheatmore High,yes,760388,Randolph,Trinity,"3678 Finch Farm Rd, Trinity, NC 27370",-80.0068526,35.8292659,Randolph County Schools,Piedmont-Triad,N,31.4,B,Met,59.9,91.2
+N/A,Moss Street Partnership School,no,79Z000,Rockingham,Reidsville,"419 Moss St, Reidsville, NC 27320",-79.6794154,36.3655388,Lab Schools,Piedmont-Triad,Y,63.4,F,Not Met,14.6,N/A
+CIS of Robeson County,Lumberton Junior High,yes,780341,Robeson,Lumberton,"82 Marion Rd, Lumberton, NC 28358",-79.0317511,34.6049535,Robeson County Schools,Sandhills,Y,83.4,F,Not Met,23.6,N/A
+N/A,"Erwin Middle, Salisbury",no,800314,Rowan,Salisbury,"170 St Luke's Church Rd, Salisbury, NC 28146",-80.423273,35.595013,Rowan-Salisbury Schools,Southwest,N,51.6,D,Not Met,41.7,N/A
+N/A,China Grove Elementary,no,800316,Rowan,China Grove,"514 South Franklin St, China Grove, NC 28023",-80.5857641,35.5673252,Rowan-Salisbury Schools,Southwest,Y,35.7,D,Met,42.9,N/A
+N/A,Corriher Lipe Middle,no,800328,Rowan,Landis,"214 West Rice St, Landis, NC 28088",-80.614895,35.5464994,Rowan-Salisbury Schools,Southwest,N,60.6,D,Not Met,43.7,N/A
+CIS of Robeson County,Magnolia Elementary,yes,780344,Robeson,Lumberton,"10928 US 301 North, Lumberton, NC 28360",-79.003576,34.711353,Robeson County Schools,Sandhills,Y,82.3,C,Exceeded,45.1,N/A
+CIS of Robeson County,L Gilbert Carroll Middle,yes,780330,Robeson,Lumberton,"300 Bailey Rd, Lumberton, NC 28358",-79.0091165,34.6591822,Robeson County Schools,Sandhills,Y,81.6,D,Not Met,43.4,N/A
+N/A,Knollwood Elementary,no,800362,Rowan,Salisbury,"3075 Shue Rd, Salisbury, NC 28147",-80.57549,35.615963,Rowan-Salisbury Schools,Southwest,Y,37,D,Met,39.3,N/A
+CIS of Robeson County,Red Springs Middle,yes,780393,Robeson,Red Springs,"302 W Second Avenue, Red Springs, NC 28377",-79.1859109,34.8198996,Robeson County Schools,Sandhills,Y,77.8,D,Met,27.5,N/A
+N/A,North Rowan Elementary,no,800373,Rowan,Spencer,"600 Charles St, Spencer, NC 28159",-80.4283056,35.7025707,Rowan-Salisbury Schools,Southwest,Y,46.1,F,Met,24.4,N/A
+N/A,North Rowan High,no,800376,Rowan,Spencer,"300 North Whitehead Ave, Spencer, NC 28159",-80.4294357,35.6973332,Rowan-Salisbury Schools,Southwest,N,69.8,D,Not Met,20.6,83.8
+CIS of Robeson County,Red Springs High,yes,780391,Robeson,Red Springs,"509 N Vance Street, Red Springs, NC 28377",-79.1866101,34.8231547,Robeson County Schools,Sandhills,Y,77.3,C,Exceeded,39.7,80.3
+N/A,Salisbury High,no,800396,Rowan,Salisbury,"500 Lincolnton Rd, Salisbury, NC 28144",-80.4851398,35.6646335,Rowan-Salisbury Schools,Southwest,N,63.8,D,Not Met,29,77.8
+N/A,"Southeast Middle, Salisbury",no,800398,Rowan,Salisbury,"1570 Peeler Rd, Salisbury, NC 28146",-80.508762,35.609832,Rowan-Salisbury Schools,Southwest,N,62.4,D,Not Met,39.6,N/A
+N/A,West Rowan Middle,no,800410,Rowan,Salisbury,"5925 Statesville Blvd, Salisbury, NC 28147",-80.585417,35.7140916,Rowan-Salisbury Schools,Southwest,N,58.7,D,Not Met,43.5,N/A
+CIS of Robeson County,CIS Academy,yes,78A000,Robeson,Pembroke,"818 West 3rd Street, Pembroke, NC 28372",-79.2037479,34.6864203,Charter Schools,Sandhills,Y,76.7,C,Exceeded,50.8,N/A
+CIS of Robeson County,Purnell Swett High,yes,780420,Robeson,Pembroke,"11344 Deep Branch Road, Pembroke, NC 28372",-79.2467008,34.695558,Robeson County Schools,Sandhills,Y,74.8,C,Exceeded,42.5,84.9
+CIS of Robeson County,Prospect Elementary,yes,780384,Robeson,Maxton,"4024 Missouri Road, Maxton, NC 28364",-79.2324041,34.7326052,Robeson County Schools,Sandhills,Y,74.4,C,Exceeded,47.1,N/A
+N/A,Essie Mae Kiser Foxx Charter,no,80B000,Rowan,Spencer,"720 N. Long St., East Spencer, NC 28144",-80.4238428,35.6886107,Charter Schools,Southwest,Y,60,F,Met,9.5,N/A
+N/A,Sampson Middle,no,821320,Sampson,Clinton,"1201 W Elizabeth St, Clinton, NC 28328",-78.333236,34.9736112,Clinton City Schools,Sandhills,Y,65.6,D,Not Met,49.7,N/A
+N/A,Carver Middle,no,830304,Scotland,Laurel Hill,"18601 Fieldcrest Road, Laurel Hill, NC 28351",-79.5202088,34.8207073,Scotland County Schools,Sandhills,Y,75.2,D,Not Met,47.3,N/A
+N/A,Covington Street Elementary,no,830312,Scotland,Laurinburg,"615 W Covington St, Laurinburg, NC 28352",-79.471804,34.772452,Scotland County Schools,Sandhills,Y,82.6,F,Not Met,27.7,N/A
+N/A,I E Johnson Elementary,no,830320,Scotland,Laurinburg,"815 McGirts Bridge Road, Laurinburg, NC 28352",-79.445688,34.7821424,Scotland County Schools,Sandhills,Y,93.2,D,Met,37.8,N/A
+N/A,Laurel Hill Elementary,no,830328,Scotland,Laurel Hill,"11340 Old Wire Road, Laurel Hill, NC 28351",-79.5203159,34.82265,Scotland County Schools,Sandhills,Y,77.9,D,Not Met,47.2,N/A
+N/A,Spring Hill Middle,no,830349,Scotland,Laurinburg,"22801 Airbase Road, Laurinburg, NC 28352",-79.3772655,34.8691076,Scotland County Schools,Sandhills,Y,76.5,D,Not Met,46.7,N/A
+N/A,Wagram Elementary,no,830360,Scotland,Wagram,"24081 Main Street, Wagram, NC 28396",-79.367874,34.884434,Scotland County Schools,Sandhills,Y,81,D,Not Met,43,N/A
+N/A,Sycamore Lane Elementary,no,830364,Scotland,Laurinburg,"2100 Sycamore Lane, Laurinburg, NC 28352",-79.4890148,34.7395274,Scotland County Schools,Sandhills,Y,79.7,D,Not Met,30.6,N/A
+N/A,"Central Elementary, Albemarle",no,840310,Stanly,Albemarle,"206 N 3rd Street, Albemarle, NC 28001",-80.195563,35.3541049,Stanly County Schools,Southwest,Y,56.8,D,Met,39.2,N/A
+N/A,Germanton Elementary,no,850312,Stokes,Germanton,"6085 NC 8 Hwy South, Germanton, NC 27019",-80.2343319,36.2974712,Stokes County Schools,Piedmont-Triad,Y,53.2,D,Not Met,44.8,N/A
+N/A,Bruce H Tharrington Primary,no,862308,Surry,Mount Airy,"315 Culbert Street, Mount Airy, NC 27030",-80.6019012,36.490373,Mount Airy City Schools,Piedmont-Triad,Y,62.1,D,Not Available,Not Available,N/A
+N/A,Jones Intermediate,no,862310,Surry,Mount Airy,"2170 Riverside Drive, Mount Airy, NC 27030",-80.58758,36.527713,Mount Airy City Schools,Piedmont-Triad,Y,64.1,D,Not Met,49.9,N/A
+N/A,Columbia Middle,no,890306,Tyrrell,Columbia,"920 Main Street, Columbia, NC 27925",-76.246185,35.919445,Tyrrell County Schools,Northeast,Y,43.5,D,Met,37,N/A
+N/A,Tyrrell Elementary,no,890308,Tyrrell,Columbia,"486 Elementary School Road, Columbia, NC 27925",-76.241245,35.91362,Tyrrell County Schools,Northeast,Y,44.6,D,Met,42,N/A
+N/A,"East Elementary, Monroe",no,900306,Union,Monroe,"515 Elizabeth Ave, Monroe, NC 28112",-80.5318963,34.9778673,Union County Public Schools,Southwest,Y,62.8,D,Exceeded,37.3,N/A
+N/A,East Union Middle,no,900308,Union,Marshville,"6010 W Marshville Blvd, Marshville, NC 28103",-80.3833884,34.985273,Union County Public Schools,Southwest,N,70.5,D,Not Met,51.2,N/A
+N/A,Monroe Middle,no,900314,Union,Monroe,"601 E Sunset Drive, Monroe, NC 28112",-80.5398253,34.9736453,Union County Public Schools,Southwest,N,51.1,D,Met,48.2,N/A
+N/A,Walter Bickett Elementary,no,900370,Union,Monroe,"830 South ML King Blvd, Monroe, NC 28112",-80.582309,34.970966,Union County Public Schools,Southwest,Y,56,D,Exceeded,42.1,N/A
+N/A,Wingate Elementary,no,900388,Union,Wingate,"301 Bivens Street, Wingate, NC 28174",-80.4554937,34.9846396,Union County Public Schools,Southwest,Y,53.2,D,Not Met,50.2,N/A
+N/A,Eaton-Johnson Middle,no,910316,Vance,Henderson,"500 N Beckford Drive, Henderson, NC 27536",-78.403126,36.3373595,Vance County Schools,North Central,Y,71.7,F,Not Met,31.5,N/A
+N/A,"New Hope Elementary, Henderson",no,910340,Vance,Henderson,"10199 NC 39 Hwy N, Henderson, NC 27537",-78.442096,36.4643118,Vance County Schools,North Central,Y,75.1,D,Met,47.3,N/A
+N/A,E O Young Jr Elementary,no,910346,Vance,Henderson,"6655 Broad Street, Henderson, NC 27537",-78.3296196,36.396691,Vance County Schools,North Central,Y,65.3,D,Met,37.6,N/A
+N/A,E M Rollins Elementary,no,910360,Vance,Henderson,"1600 S Garnett St, Henderson, NC 27536",-78.4156681,36.3200192,Vance County Schools,North Central,Y,76.5,D,Not Met,35.4,N/A
+N/A,Northern Vance High,no,910370,Vance,Henderson,"293 Warrenton Road, Henderson, NC 27537",-78.3742753,36.3506061,Vance County Schools,North Central,N,57.7,D,Not Met,23.6,84.8
+N/A,Aversboro Elementary,no,920320,Wake,Garner,"1605 Aversboro Rd, Garner, NC 27529",-78.6152841,35.6887639,Wake County Schools,North Central,Y,60.8,D,Not Met,43.7,N/A
+N/A,Baileywick Road Elementary,no,920326,Wake,Raleigh,"9425 Baileywick Road, Raleigh, NC 27615",-78.664731,35.909168,Wake County Schools,North Central,Y,55.7,D,Not Met,50.8,N/A
+N/A,Barwell Road Elementary,no,920329,Wake,Raleigh,"3925 Barwell Road, Raleigh, NC 27610",-78.5514452,35.731847,Wake County Schools,North Central,Y,76.3,F,Not Met,33.1,N/A
+N/A,Beaverdam Elementary,no,920332,Wake,Raleigh,"3591 Tarheel Club Rd, Raleigh, NC 27604",-78.5281927,35.821173,Wake County Schools,North Central,Y,64.1,D,Not Met,43.8,N/A
+N/A,Bugg Elementary,no,920352,Wake,Raleigh,"825 Cooper Rd, Raleigh, NC 27610",-78.586134,35.7658999,Wake County Schools,North Central,Y,81.2,F,Not Met,21.6,N/A
+N/A,Centennial Campus Middle,no,920370,Wake,Raleigh,"1900 Main Campus Drive, Raleigh, NC 27606",-78.6876185,35.7585717,Wake County Schools,North Central,N,53.5,D,Not Met,46.5,N/A
+N/A,Dillard Drive Middle,no,920394,Wake,Raleigh,"5200 Dillard Drive, Raleigh, NC 27606",-78.7237605,35.7522551,Wake County Schools,North Central,N,48.4,D,Not Met,54.2,N/A
+N/A,Douglas Elementary,no,920396,Wake,Raleigh,"600 Ortega Rd, Raleigh, NC 27609",-78.62925,35.839934,Wake County Schools,North Central,N,32.9,D,Not Met,53.5,N/A
+N/A,East Garner Elementary,no,920403,Wake,Garner,"5545 Jones Sausage Road, Garner, NC 27529",-78.586755,35.7072719,Wake County Schools,North Central,Y,76.5,D,Met,45.7,N/A
+N/A,Forestville Road Elementary,no,920413,Wake,Knightdale,"100 Lawson Ridge Road, Knightdale, NC 27545",-78.4815098,35.8098565,Wake County Schools,North Central,Y,60.9,D,Not Met,40.8,N/A
+N/A,Green Elementary,no,920440,Wake,Raleigh,"5307 Six Forks Road, Raleigh, NC 27609",-78.644422,35.854114,Wake County Schools,North Central,Y,60.2,D,Met,44.4,N/A
+N/A,Hodge Road Elementary,no,920446,Wake,Knightdale,"2128 Mingo Bluff Boulevard, Knightdale, NC 27545",-78.5221992,35.7763059,Wake County Schools,North Central,Y,71.9,D,Not Met,39.3,N/A
+CIS of Rocky Mount Region,D S Johnson Elementary,yes,640326,Nash,Rocky Mount,"600 North Fairview Road, Rocky Mount, NC 27801",-77.7762744,35.9372313,Nash-Rocky Mount Schools,North Central,Y,84.8,F,Met,21.1,N/A
+N/A,Lake Myra Elementary,no,920474,Wake,Wendell,"1300 Elk Falls Rd, Wendell, NC 27591",-78.429716,35.7614329,Wake County Schools,North Central,Y,50.2,D,Not Met,51.1,N/A
+N/A,Lockhart Elementary,no,920480,Wake,Knightdale,"1320 N Smithfield Rd, Knightdale, NC 27545",-78.484564,35.8032619,Wake County Schools,North Central,Y,63.4,D,Not Met,45.3,N/A
+N/A,Millbrook Elementary,no,920496,Wake,Raleigh,"1520 E Millbrook Rd, Raleigh, NC 27609",-78.61055,35.848788,Wake County Schools,North Central,Y,75.5,D,Not Met,37.1,N/A
+N/A,Powell Elementary,no,920536,Wake,Raleigh,"1130 Marlborough Rd, Raleigh, NC 27610",-78.6035183,35.7951663,Wake County Schools,North Central,Y,49.7,D,Met,44.6,N/A
+N/A,Rogers Lane Elementary,no,920547,Wake,Raleigh,"201 North Rogers Lane, Raleigh, NC 27610",-78.5480089,35.777433,Wake County Schools,North Central,Y,82.1,D,Not Met,34.4,N/A
+N/A,"River Bend Middle, Raleigh",no,920549,Wake,Raleigh,"5601 Wallace Martin Way, Raleigh, NC 27616",-78.5314912,35.8619745,Wake County Schools,North Central,Y,66.3,D,Not Met,41.6,N/A
+CIS of Rocky Mount Region,Fairview Elementary,yes,640302,Nash,Rocky Mount,"720 N Fairview Rd, Rocky Mount, NC 27801",-77.776051,35.9388429,Nash-Rocky Mount Schools,North Central,Y,83.8,F,Not available,Not available,N/A
+N/A,South Garner High,no,920561,Wake,Garner,"8228 Hebron Church Rd, Garner, NC 27529",-78.5796774,35.6550224,Wake County Schools,North Central,N,58.2,D,Met,37.7,N/A
+N/A,Timber Drive Elementary,no,920570,Wake,Garner,"1601 Timber Drive, Garner, NC 27529",-78.6355464,35.6900661,Wake County Schools,North Central,Y,39.3,D,Not Met,51.3,N/A
+N/A,Wakelon Elementary,no,920597,Wake,Zebulon,"8921 Pippin Rd, Zebulon, NC 27597",-78.3364837,35.8544914,Wake County Schools,North Central,Y,72.3,D,Not Met,50.2,N/A
+N/A,Walnut Creek Elementary,no,920599,Wake,Raleigh,"2600 Sunnybrook Rd, Raleigh, NC 27610",-78.5866441,35.7445879,Wake County Schools,North Central,Y,70.5,D,Not Met,36.7,N/A
+CIS of Rocky Mount Region,J W Parker Middle,yes,640334,Nash,Rocky Mount,"1500 East Virginia Street, Rocky Mount, NC 27801",-77.773995,35.9516228,Nash-Rocky Mount Schools,North Central,Y,77.4,F,Not Met,22,N/A
+N/A,Wilburn Elementary,no,920616,Wake,Raleigh,"3707 Marsh Creek Rd, Raleigh, NC 27604",-78.5755631,35.8194657,Wake County Schools,North Central,Y,74.9,D,Met,50.5,N/A
+N/A,Wildwood Forest Elementary,no,920618,Wake,Raleigh,"8401 Wildwood Forest Drive, Raleigh, NC 27616",-78.551125,35.893523,Wake County Schools,North Central,Y,63.5,D,Not Met,42.5,N/A
+N/A,Zebulon Elementary,no,920632,Wake,Zebulon,"700 Proctor St, Zebulon, NC 27597",-78.3198379,35.8394223,Wake County Schools,North Central,Y,65.4,D,Not Met,38.2,N/A
+CIS of Rocky Mount Region,Tar River Academy,yes,640340,Nash,Rocky Mount,"224 S. Pearl Street, Rocky Mount, NC 27804",-77.8012553,35.9416026,Nash-Rocky Mount Schools,North Central,Y,69.9,ALT system,ALT system,ALT system,N/A
+CIS of Rocky Mount Region,Southern Nash Middle,yes,640362,Nash,Spring Hope,"5301 South NC Highway 581, Spring Hope, NC 27882",-78.0896615,35.8754969,Nash-Rocky Mount Schools,North Central,N,64.6,C,Met,49.4,N/A
+CIS of Rocky Mount Region,Rocky Mount Middle,yes,640335,Nash,Rocky Mount,"841 Nash Street, Rocky Mount, NC 27804",-77.807681,35.9418234,Nash-Rocky Mount Schools,North Central,Y,63.9,F,Not Met,28.8,N/A
+N/A,Hope Charter Leadership Academy,no,92Q000,Wake,Raleigh,"1116 N Blount Street, Raleigh, NC 27604",-78.6351684,35.7952467,Charter Schools,North Central,Y,48.5,D,Met,31.7,N/A
+N/A,PAVE Southeast Raleigh Charter,no,93J000,Wake,Raleigh,"3420 Idlewood Village Dr, Raleigh, NC 27610",-78.619384,35.736869,Charter Schools,North Central,Y,47.1,D,Met,42.6,N/A
+N/A,Northside K-8,no,930340,Warren,Norlina,"164 Elementary Ave, Norlina, NC 27563",-78.1845782,36.4565504,Warren County Schools,North Central,Y,53.2,D,Not Met,44.2,N/A
+N/A,Warren County Middle,no,930354,Warren,Warrenton,"118 Campus Drive, Warrenton, NC 27589",-78.1679856,36.4331685,Warren County Schools,North Central,Y,63.2,D,Not Met,35.6,N/A
+CIS of Rocky Mount Region,Southern Nash High,yes,640364,Nash,Bailey,"6446 Southern Nash High Road, Bailey, NC 27807",-78.0896618,35.8494038,Nash-Rocky Mount Schools,North Central,N,58.5,C,Not Met,38.4,87.4
+N/A,Haliwa-Saponi Tribal School,no,93A000,Warren,Hollister,"130 Haliwa-Saponi Trail, Hollister, NC 27844",-77.981472,36.2520257,Charter Schools,North Central,Y,65,D,Met,31,N/A
+N/A,Creswell Elementary,no,940306,Washington,Creswell,"200 South Seventh St, Creswell, NC 27928",-76.3970472,35.870622,Washington County Schools,Northeast,Y,53.5,D,Met,47.3,N/A
+N/A,Pines Elementary,no,940314,Washington,Plymouth,"3177 US Hwy 64E, Plymouth, NC 27962",-76.6921778,35.8735014,Washington County Schools,Northeast,Y,71.3,D,Not Met,37.8,N/A
+N/A,Washington County Union,no,940328,Washington,Roper,"37 E Mill Pond Rd, Roper, NC 27970",-76.6100643,35.8716266,Washington County Schools,Northeast,Y,63.5,D,Exceeded,38.1,N/A
+N/A,"Brogden Middle, Dudley",no,960312,Wayne,Dudley,"3761 US 117 S Alt, Dudley, NC 28333",-78.036535,35.293618,Wayne County Public Schools,Southeast,Y,84.4,F,Not Met,29.7,N/A
+N/A,Brogden Primary,no,960314,Wayne,Dudley,"2253 Old Mt Olive Hwy, Dudley, NC 28333",-78.035295,35.273063,Wayne County Public Schools,Southeast,Y,85.4,D,Exceeded,37,N/A
+N/A,"Carver Elementary, Mount Olive",no,960316,Wayne,Mount Olive,"400 Old Seven Springs Rd, Mount Olive, NC 28365",-78.0528371,35.2005956,Wayne County Public Schools,Southeast,Y,79.3,D,Met,42.5,N/A
+N/A,Carver Heights Elementary,no,960318,Wayne,Goldsboro,"411 Bunche Drive, Goldsboro, NC 27530",-77.9962183,35.3669685,Wayne County Public Schools,Southeast,Y,91.4,D,Exceeded,27.7,N/A
+N/A,Dillard Middle,no,960326,Wayne,Goldsboro,"1101 S Devereaux St, Goldsboro, NC 27530",-77.9947573,35.3685907,Wayne County Public Schools,Southeast,Y,94.8,F,Met,18.1,N/A
+N/A,Eastern Wayne Elementary,no,960329,Wayne,Goldsboro,"1271 New Hope Road, Goldsboro, NC 27534",-77.8768005,35.3734403,Wayne County Public Schools,Southeast,Y,73.1,D,Met,41.6,N/A
+N/A,Eastern Wayne Middle,no,960331,Wayne,Goldsboro,"3518 Central Heights Rd, Goldsboro, NC 27534",-77.9102672,35.383607,Wayne County Public Schools,Southeast,Y,65.3,D,Met,41.2,N/A
+N/A,Goldsboro High,no,960335,Wayne,Goldsboro,"901 E Beech Street, Goldsboro, NC 27530",-77.9796645,35.3871146,Wayne County Public Schools,Southeast,N,90.6,D,Not Met,12.1,73.8
+N/A,Grantham Middle,no,960338,Wayne,Goldsboro,"3093 S US Hwy 13, Goldsboro, NC 27530",-78.1497816,35.2949716,Wayne County Public Schools,Southeast,Y,57.9,D,Not Met,45.2,N/A
+N/A,Southern Wayne High,no,960380,Wayne,Dudley,"124 Walter Fulcher Rd, Dudley, NC 28333",-78.0457642,35.2536839,Wayne County Public Schools,Southeast,N,67.3,D,Not Met,32.1,76.7
+N/A,North Drive Elementary,no,960390,Wayne,Goldsboro,"1108 North Drive, Goldsboro, NC 27530",-77.9630693,35.387251,Wayne County Public Schools,Southeast,Y,92.1,D,Not Available,Not Available,N/A
+N/A,Dillard Academy,no,96C000,Wayne,Goldsboro,"504 West Elm Street, Goldsboro, NC 27530",-78.0053124,35.3790074,Charter Schools,Southeast,Y,89.1,D,Met,34,N/A
+CIS of Rocky Mount Region,Nash Central High,yes,640346,Nash,Rocky Mount,"4279 Nash Central High Road, Rocky Mount, NC 27804",-77.8959201,35.9553937,Nash-Rocky Mount Schools,North Central,N,55.7,D,Not Met,31.2,77.3
+CIS of Rocky Mount Region,G R Edwards Middle,yes,640329,Nash,Rocky Mount,"720 Edwards Street, Rocky Mount, NC 27803",-77.8223572,35.9351871,Nash-Rocky Mount Schools,North Central,Y,50.3,D,Met,40.6,N/A
+CIS of Rocky Mount Region,Northern Nash High,yes,640350,Nash,Rocky Mount,"4230 Green Hills Road, Rocky Mount, NC 27804",-77.892535,35.998602,Nash-Rocky Mount Schools,North Central,N,48.5,C,Not Met,36.5,85.2
+CIS of Rocky Mount Region,Rocky Mount High,yes,640361,Nash,Rocky Mount,"1400 Bethlehem Road, Rocky Mount, NC 27803",-77.8357419,35.939355,Nash-Rocky Mount Schools,North Central,N,46.2,D,Not Met,31.1,80.6
+CIS of Rowan County,Koontz Elementary,yes,800346,Rowan,Salisbury,"685 East Ritchie Rd, Salisbury, NC 28146",-80.4963121,35.6241264,Rowan-Salisbury Schools,Southwest,Y,71.2,F,Not Met,15.9,N/A
+CIS of Rowan County,Henderson High,yes,800308,Rowan,Salisbury,"1215 North Main St, Salisbury, NC 28144",-80.456432,35.676846,Rowan-Salisbury Schools,Southwest,Y,62.8,ALT system,ALT system,ALT system,Not available
+CIS of Rowan County,Dole Elementary,yes,800359,Rowan,Salisbury,"465 Choate Rd, Salisbury, NC 28146",-80.4254179,35.6694699,Rowan-Salisbury Schools,Southwest,Y,61.6,D,Met,28.6,N/A
+CIS of Rowan County,Overton Elementary,yes,800315,Rowan,Salisbury,"1825 Park Rd W, Salisbury, NC 28144",-80.4741063,35.6895601,Rowan-Salisbury Schools,Southwest,Y,56.9,D,Not Met,37.3,N/A
+CIS of Rowan County,Isenberg Elementary,yes,800358,Rowan,Salisbury,"2800 Jake Alexander Blvd N, Salisbury, NC 28147",-80.5037595,35.7011501,Rowan-Salisbury Schools,Southwest,Y,56.6,D,Exceeded,42.2,N/A
+CIS of Rowan County,Knox Middle,yes,800363,Rowan,Salisbury,"1625 Park Rd W, Salisbury, NC 28144",-80.4774078,35.6861006,Rowan-Salisbury Schools,Southwest,Y,53.6,F,Not Met,18.2,N/A
+CIS of Rowan County,Hurley Elementary,yes,800360,Rowan,Salisbury,"625 Hurley School Rd, Salisbury, NC 28147",-80.55868,35.6995689,Rowan-Salisbury Schools,Southwest,Y,53.5,F,Met,25.1,N/A
+CIS of Rowan County,North Rowan Middle,yes,800377,Rowan,Spencer,"512 Charles St, Spencer, NC 28159",-80.4261323,35.7016359,Rowan-Salisbury Schools,Southwest,Y,53.2,F,Not Met,23.3,N/A
+CIS of Thomasville,Thomasville Primary,yes,292318,Davidson,Thomasville,"915 E Sunrise Avenue, Thomasville, NC 27360",-80.0599535,35.8762035,Thomasville City Schools,Piedmont-Triad,Y,63.6,C,Met,50.8,N/A
+CIS of Thomasville,Liberty Drive Elementary,yes,292316,Davidson,Thomasville,"401 Liberty Drive, Thomasville, NC 27360",-80.064539,35.878658,Thomasville City Schools,Piedmont-Triad,Y,60.2,D,Not Met,29.8,N/A
+CIS of Thomasville,Thomasville Middle,yes,292320,Davidson,Thomasville,"400 Unity Street, Thomasville, NC 27360",-80.0787454,35.8994555,Thomasville City Schools,Piedmont-Triad,Y,56.7,D,Exceeded,37.3,N/A
+CIS of Thomasville,Thomasville High,yes,292324,Davidson,Thomasville,"410 Unity Street, Thomasville, NC 27360",-80.075723,35.900516,Thomasville City Schools,Piedmont-Triad,N,45,C,Met,42.9,86.9
+CIS of Wake County,East Wake Middle,yes,920410,Wake,Raleigh,"2700 Old Milburnie Rd, Raleigh, NC 27604",-78.5021162,35.825962,Wake County Schools,North Central,Y,71.4,D,Met,37.5,N/A
+CIS of Wake County,East Millbrook Middle,yes,920408,Wake,Raleigh,"3801 Spring Forest Rd, Raleigh, NC 27616",-78.5762465,35.8561484,Wake County Schools,North Central,Y,68.9,D,Met,43.4,N/A
+CIS of Wake County,Wendell Middle,yes,920601,Wake,Wendell,"3409 NC Highway 97, Wendell, NC 27591",-78.3943197,35.8042512,Wake County Schools,North Central,N,60.2,D,Not Met,44.2,N/A
+CIS of Wake County,Durant Road Middle,yes,920399,Wake,Raleigh,"10401 Durant Rd, Raleigh, NC 27614",-78.588241,35.902378,Wake County Schools,North Central,N,45.3,C,Not Met,57.9,N/A
+CIS of Wake County,SCORE Academy,yes,920556,Wake,Raleigh,"4600 New Bern Ave, Raleigh, NC 27610",-78.559004,35.797592,Wake County Schools,North Central,N,33.3,ALT system,ALT system,ALT system,N/A
+CIS of Wake County,Ligon Middle,yes,920472,Wake,Raleigh,"706 E Lenoir St, Raleigh, NC 27601",-78.626538,35.772179,Wake County Schools,North Central,N,28.9,C,Not Met,70.3,N/A
+N/A,Bridges Academy,no,97D000,Wilkes,State Road,"2587 Pleasant Ridge Road, State Road, NC 28676",-80.884614,36.314907,Charter Schools,Northwest,Y,41.6,D,Met,36.3,N/A
+N/A,B O Barnes Elementary,no,980308,Wilson,Wilson,"1913 Martin L King Parkway, Wilson, NC 27893",-77.8865965,35.712878,Wilson County Schools,North Central,Y,78.8,F,Not Met,22,N/A
+N/A,Margaret Hearne Elementary,no,980356,Wilson,Wilson,"300 W Gold St, Wilson, NC 27893",-77.9089851,35.7322572,Wilson County Schools,North Central,Y,78.5,F,Not Met,26.8,N/A
+N/A,Vick Elementary,no,980357,Wilson,Wilson,"504 N Carroll Street, Wilson, NC 27893",-77.8963519,35.719989,Wilson County Schools,North Central,Y,84.4,D,Not Met,31.3,N/A
+N/A,Toisnot Middle,no,980390,Wilson,Wilson,"1301 Corbett Ave N, Wilson, NC 27893",-77.9107642,35.7444456,Wilson County Schools,North Central,Y,19.9,D,Not Met,44.1,N/A
+N/A,Winstead Elementary,no,980400,Wilson,Wilson,"1713 Downing St SW, Wilson, NC 27893",-77.930761,35.7126188,Wilson County Schools,North Central,Y,68.7,D,Exceeded,39.1,N/A
